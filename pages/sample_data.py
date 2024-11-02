@@ -1,21 +1,11 @@
 import streamlit as st
 import streamlit_shadcn_ui as ui
-from db.db_functions import fetch_transactions
 
-def dashboard():
-    st.title("Dashboard")
-    st.write(f'Welcome *{st.session_state["name"]}*')
-    st.write(f'Your username is *{st.session_state["username"]}*')
-    
-    username = st.session_state["username"]
-    transactions = fetch_transactions(username)
-    if transactions:
-        st.write("Your Transactions:")
-        for transaction in transactions:
-            st.write(transaction)
-    else:
-        st.write("No transactions found.")
-    
+
+def sample_data():
+
+    st.title("Sample Data")
+    st.write(f'Welcome *{st.session_state["name"]}*!')
     cols = st.columns(3)
     with cols[0]:
         ui.metric_card(title="Spending Score", content="5.33",

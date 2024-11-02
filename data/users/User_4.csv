@@ -1,498 +1,498 @@
-"Date","Description","Transaction Type","Amount","Category","Payment Method","Merchant","Balance"					
-"2024-01-01","Grocery Store","Debit","-45.30","Groceries","Debit Card","SuperMart","954.70"					
-"2024-01-01","Coffee Shop","Debit","-4.50","Food & Drink","Debit Card","Brewed Awakening","950.20"					
-"2024-01-01","Gas Station","Debit","-30.00","Transportation","Debit Card","FastFuel","920.20"					
-"2024-01-02","Rent Payment","Debit","-800.00","Housing","Bank Transfer","Landlord Co.","120.20"					
-"2024-01-02","Electricity Bill","Debit","-60.00","Utilities","Debit Card","Power Supply Inc.","60.20"					
-"2024-01-03","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Pizza Place","10.20"					
-"2024-01-03","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","610.20"					
-"2024-01-03","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Deli Spot","585.20"					
-"2024-01-04","Book Purchase","Debit","-12.50","Shopping","Debit Card","Bookstore","572.70"					
-"2024-01-04","Bus Pass","Debit","-25.00","Transportation","Debit Card","Transit Co.","547.70"					
-"2024-01-04","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","507.70"					
-"2024-01-05","Movie Night","Debit","-20.00","Entertainment","Debit Card","Cinema","487.70"					
-"2024-01-05","Groceries","Debit","-60.25","Groceries","Debit Card","SuperMart","427.45"					
-"2024-01-06","Fast Food","Debit","-10.50","Food & Drink","Debit Card","Burger Joint","416.95"					
-"2024-01-06","Internet Bill","Debit","-45.00","Utilities","Debit Card","WebProvider","371.95"					
-"2024-01-07","Clothing Purchase","Debit","-75.00","Shopping","Debit Card","Clothing Store","296.95"					
-"2024-01-07","Dinner Out","Debit","-30.00","Food & Drink","Debit Card","Nice Restaurant","266.95"					
-"2024-01-08","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","261.95"					
-"2024-01-08","Gym Membership","Debit","-40.00","Fitness","Debit Card","Local Gym","221.95"					
-"2024-01-08","Home Supplies","Debit","-22.00","Home & Garden","Debit Card","Home Depot","199.95"					
-"2024-01-09","Lunch","Debit","-15.00","Food & Drink","Debit Card","Deli Spot","184.95"					
-"2024-01-09","Pet Supplies","Debit","-50.00","Pets","Debit Card","Pet Store","134.95"					
-"2024-01-10","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","734.95"					
-"2024-01-10","Groceries","Debit","-55.00","Groceries","Debit Card","SuperMart","679.95"					
-"2024-01-10","Dining Out","Debit","-60.00","Food & Drink","Debit Card","Steak House","619.95"					
-"2024-01-11","Utility Bill","Debit","-40.00","Utilities","Debit Card","Water Co.","579.95"					
-"2024-01-11","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","575.95"					
-"2024-01-11","Clothing Purchase","Debit","-45.00","Shopping","Debit Card","Clothing Store","530.95"					
-"2024-01-12","Bookstore Purchase","Debit","-12.00","Entertainment","Debit Card","Bookstore","518.95"					
-"2024-01-12","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","483.95"					
-"2024-01-12","Takeout","Debit","-20.00","Food & Drink","Debit Card","Asian Cuisine","463.95"					
-"2024-01-13","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","393.95"					
-"2024-01-13","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Italian Bistro","338.95"					
-"2024-01-14","Lunch","Debit","-12.00","Food & Drink","Debit Card","Deli Spot","326.95"					
-"2024-01-14","Movie Tickets","Debit","-30.00","Entertainment","Debit Card","Cinema","296.95"					
-"2024-01-14","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","256.95"					
-"2024-01-14","Gym Membership","Debit","-40.00","Fitness","Debit Card","Local Gym","216.95"					
-"2024-01-15","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","816.95"					
-"2024-01-15","Groceries","Debit","-50.00","Groceries","Debit Card","SuperMart","766.95"					
-"2024-01-15","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","762.95"					
-"2024-01-15","Clothing Purchase","Debit","-45.00","Shopping","Debit Card","Clothing Store","717.95"					
-"2024-01-15","Bookstore Purchase","Debit","-12.00","Entertainment","Debit Card","Bookstore","705.95"					
-"2024-01-15","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","670.95"									
-"2024-01-15","Takeout","Debit","-20.00","Food & Drink","Debit Card","Asian Cuisine","650.95"					
-"2024-01-16","Groceries","Debit","-65.00","Groceries","Debit Card","SuperMart","585.95"					
-"2024-01-16","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","545.95"					
-"2024-01-16","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Deli Spot","520.95"					
-"2024-01-17","Utility Bill","Debit","-50.00","Utilities","Debit Card","Water Co.","470.95"					
-"2024-01-17","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","455.95"					
-"2024-01-17","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","450.95"					
-"2024-01-18","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","1050.95"					
-"2024-01-18","Dinner Out","Debit","-40.00","Food & Drink","Debit Card","Pizza Place","1010.95"					
-"2024-01-18","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","975.95"					
-"2024-01-19","Clothing Purchase","Debit","-50.00","Shopping","Debit Card","Clothing Store","925.95"					
-"2024-01-19","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","850.95"					
-"2024-01-19","Movie Tickets","Debit","-30.00","Entertainment","Debit Card","Cinema","820.95"					
-"2024-01-20","Fast Food","Debit","-10.50","Food & Drink","Debit Card","Burger Joint","810.45"					
-"2024-01-20","Internet Bill","Debit","-45.00","Utilities","Debit Card","WebProvider","765.45"					
-"2024-01-21","Lunch","Debit","-15.00","Food & Drink","Debit Card","Deli Spot","750.45"					
-"2024-01-21","Gym Membership","Debit","-40.00","Fitness","Debit Card","Local Gym","710.45"					
-"2024-01-21","Home Supplies","Debit","-22.00","Home & Garden","Debit Card","Home Depot","688.45"					
-"2024-01-22","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","684.45"					
-"2024-01-22","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Steak House","634.45"					
-"2024-01-23","Pet Supplies","Debit","-30.00","Pets","Debit Card","Pet Store","604.45"					
-"2024-01-23","Clothing Purchase","Debit","-45.00","Shopping","Debit Card","Clothing Store","559.45"					
-"2024-01-23","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","534.45"					
-"2024-01-24","Groceries","Debit","-60.00","Groceries","Debit Card","SuperMart","474.45"					
-"2024-01-24","Utility Bill","Debit","-40.00","Utilities","Debit Card","Power Supply Inc.","434.45"					
-"2024-01-25","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","1034.45"					
-"2024-01-25","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","999.45"					
-"2024-01-26","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Deli Spot","974.45"					
-"2024-01-26","Movie Night","Debit","-20.00","Entertainment","Debit Card","Cinema","954.45"					
-"2024-01-27","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","949.45"					
-"2024-01-27","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","879.45"					
-"2024-01-28","Dinner Out","Debit","-45.00","Food & Drink","Debit Card","Nice Restaurant","834.45"					
-"2024-01-28","Bookstore Purchase","Debit","-12.00","Entertainment","Debit Card","Bookstore","822.45"					
-"2024-01-29","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","787.45"					
-"2024-01-29","Clothing Purchase","Debit","-50.00","Shopping","Debit Card","Clothing Store","737.45"					
-"2024-01-30","Utility Bill","Debit","-40.00","Utilities","Debit Card","Water Co.","697.45"					
-"2024-01-30","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","693.45"					
-"2024-01-31","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Steak House","633.45"					
-"2024-01-31","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","1233.45"					
-"2024-01-31","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","1198.45"	
-"2024-02-01","Groceries","Debit","-60.00","Groceries","Debit Card","SuperMart","1138.45"					
-"2024-02-01","Lunch","Debit","-12.00","Food & Drink","Debit Card","Deli Spot","1126.45"					
-"2024-02-01","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","1091.45"					
-"2024-02-02","Utility Bill","Debit","-40.00","Utilities","Debit Card","Power Supply Inc.","1051.45"					
-"2024-02-02","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","1046.45"					
-"2024-02-02","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Pizza Place","996.45"					
-"2024-02-02","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","981.45"					
-"2024-02-03","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","1581.45"					
-"2024-02-03","Fast Food","Debit","-10.50","Food & Drink","Debit Card","Burger Joint","1570.95"					
-"2024-02-03","Groceries","Debit","-65.00","Groceries","Debit Card","SuperMart","1505.95"					
-"2024-02-04","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","1480.95"					
-"2024-02-04","Clothing Purchase","Debit","-45.00","Shopping","Debit Card","Clothing Store","1435.95"					
-"2024-02-04","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","1415.95"					
-"2024-02-05","Internet Bill","Debit","-45.00","Utilities","Debit Card","WebProvider","1370.95"					
-"2024-02-05","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","1366.95"					
-"2024-02-06","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","1331.95"					
-"2024-02-06","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Nice Restaurant","1271.95"					
-"2024-02-06","Pet Supplies","Debit","-30.00","Pets","Debit Card","Pet Store","1241.95"					
-"2024-02-07","Utility Bill","Debit","-50.00","Utilities","Debit Card","Water Co.","1191.95"					
-"2024-02-07","Clothing Purchase","Debit","-40.00","Shopping","Debit Card","Clothing Store","1151.95"					
-"2024-02-08","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","1751.95"					
-"2024-02-08","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","1716.95"					
-"2024-02-08","Lunch","Debit","-15.00","Food & Drink","Debit Card","Deli Spot","1701.95"					
-"2024-02-09","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","1631.95"					
-"2024-02-09","Bookstore Purchase","Debit","-12.00","Entertainment","Debit Card","Bookstore","1619.95"					
-"2024-02-10","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","1614.95"					
-"2024-02-10","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Pizza Place","1564.95"					
-"2024-02-10","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","1509.95"					
-"2024-02-11","Gas Refill","Debit","-40.00","Transportation","Debit Card","FastFuel","1469.95"					
-"2024-02-11","Valentine's Dinner","Debit","-80.00","Food & Drink","Debit Card","Romantic Bistro","1389.95"					
-"2024-02-12","Pet Supplies","Debit","-25.00","Pets","Debit Card","Pet Store","1364.95"					
-"2024-02-12","Utility Bill","Debit","-50.00","Utilities","Debit Card","Power Supply Inc.","1314.95"					
-"2024-02-12","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","1914.95"					
-"2024-02-13","Groceries","Debit","-50.00","Groceries","Debit Card","SuperMart","1864.95"					
-"2024-02-13","Movie Night","Debit","-20.00","Entertainment","Debit Card","Cinema","1844.95"					
-"2024-02-13","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","1840.95"					
-"2024-02-14","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","1805.95"					
-"2024-02-14","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Nice Restaurant","1745.95"					
-"2024-02-14","Clothing Purchase","Debit","-30.00","Shopping","Debit Card","Clothing Store","1715.95"					
-"2024-02-15","Lunch","Debit","-15.00","Food & Drink","Debit Card","Deli Spot","1700.95"					
-"2024-02-15","Utility Bill","Debit","-45.00","Utilities","Debit Card","WebProvider","1655.95"					
-"2024-02-15","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","1630.95"					
-"2024-02-15","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","1626.95"					
-"2024-02-15","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","1591.95"
-"2024-02-16","Groceries","Debit","-65.00","Groceries","Debit Card","SuperMart","1526.95"					
-"2024-02-16","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","1486.95"					
-"2024-02-16","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","1481.95"					
-"2024-02-16","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Italian Bistro","1426.95"					
-"2024-02-17","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","1401.95"					
-"2024-02-17","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","1381.95"					
-"2024-02-17","Pet Supplies","Debit","-30.00","Pets","Debit Card","Pet Store","1351.95"					
-"2024-02-18","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","1951.95"					
-"2024-02-18","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","1916.95"					
-"2024-02-19","Lunch","Debit","-15.00","Food & Drink","Debit Card","Deli Spot","1901.95"					
-"2024-02-19","Internet Bill","Debit","-45.00","Utilities","Debit Card","WebProvider","1856.95"					
-"2024-02-19","Clothing Purchase","Debit","-50.00","Shopping","Debit Card","Clothing Store","1806.95"					
-"2024-02-20","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","1736.95"					
-"2024-02-20","Utility Bill","Debit","-40.00","Utilities","Debit Card","Power Supply Inc.","1696.95"					
-"2024-02-21","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","1671.95"					
-"2024-02-21","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Steak House","1611.95"					
-"2024-02-21","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","1576.95"					
-"2024-02-22","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","1572.95"					
-"2024-02-22","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","1557.95"					
-"2024-02-22","Valentine's Gift","Debit","-50.00","Gifts","Debit Card","Gift Shop","1507.95"					
-"2024-02-23","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","1487.95"					
-"2024-02-23","Pet Supplies","Debit","-25.00","Pets","Debit Card","Pet Store","1462.95"					
-"2024-02-24","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","2062.95"					
-"2024-02-24","Groceries","Debit","-60.00","Groceries","Debit Card","SuperMart","2002.95"					
-"2024-02-24","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","1967.95"					
-"2024-02-25","Dinner Out","Debit","-40.00","Food & Drink","Debit Card","Nice Restaurant","1927.95"					
-"2024-02-25","Utility Bill","Debit","-50.00","Utilities","Debit Card","Water Co.","1877.95"					
-"2024-02-25","Clothing Purchase","Debit","-45.00","Shopping","Debit Card","Clothing Store","1832.95"					
-"2024-02-26","Lunch","Debit","-15.00","Food & Drink","Debit Card","Deli Spot","1817.95"					
-"2024-02-26","Bookstore Purchase","Debit","-12.00","Entertainment","Debit Card","Bookstore","1805.95"					
-"2024-02-26","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","1770.95"					
-"2024-02-27","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","1710.95"					
-"2024-02-27","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","1635.95"					
-"2024-02-28","Fast Food","Debit","-10.50","Food & Drink","Debit Card","Burger Joint","1625.45"					
-"2024-02-28","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","1621.45"					
-"2024-02-28","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","1596.45"					
-"2024-02-29","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","2196.45"					
-"2024-02-29","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","2161.45"					
-"2024-02-29","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2141.45"					
-"2024-02-29","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Pizza Place","2086.45"
-"2024-03-01","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","2016.45"					
-"2024-03-01","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","1981.45"					
-"2024-03-01","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","1976.45"					
-"2024-03-01","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","1916.45"					
-"2024-03-01","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","1896.45"					
-"2024-03-02","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","1881.45"					
-"2024-03-02","Gas Refill","Debit","-40.00","Transportation","Debit Card","FastFuel","1841.45"					
-"2024-03-02","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","1816.45"					
-"2024-03-03","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","2416.45"					
-"2024-03-03","Groceries","Debit","-65.00","Groceries","Debit Card","SuperMart","2351.45"					
-"2024-03-03","Lunch","Debit","-15.00","Food & Drink","Debit Card","Deli Spot","2336.45"					
-"2024-03-03","Utility Bill","Debit","-50.00","Utilities","Debit Card","Power Supply Inc.","2286.45"					
-"2024-03-04","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","2282.45"					
-"2024-03-04","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Nice Restaurant","2222.45"					
-"2024-03-05","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","2197.45"					
-"2024-03-05","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","2162.45"					
-"2024-03-05","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","2107.45"					
-"2024-03-06","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","2037.45"					
-"2024-03-06","Utility Bill","Debit","-40.00","Utilities","Debit Card","WebProvider","1997.45"					
-"2024-03-06","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","1992.45"					
-"2024-03-07","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","1972.45"					
-"2024-03-07","Pet Supplies","Debit","-30.00","Pets","Debit Card","Pet Store","1942.45"					
-"2024-03-08","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","2542.45"					
-"2024-03-08","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","2507.45"					
-"2024-03-08","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Pizza Place","2457.45"					
-"2024-03-09","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","2432.45"					
-"2024-03-09","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","2362.45"					
-"2024-03-10","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","2322.45"					
-"2024-03-10","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","2307.45"					
-"2024-03-10","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","2303.45"					
-"2024-03-11","Lunch","Debit","-15.00","Food & Drink","Debit Card","Deli Spot","2288.45"					
-"2024-03-11","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","2233.45"					
-"2024-03-12","Utility Bill","Debit","-50.00","Utilities","Debit Card","Power Supply Inc.","2183.45"					
-"2024-03-12","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","2158.45"					
-"2024-03-12","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Nice Restaurant","2098.45"					
-"2024-03-13","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","2063.45"					
-"2024-03-13","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","2058.45"					
-"2024-03-14","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","2658.45"					
-"2024-03-14","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","2583.45"					
-"2024-03-14","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Italian Bistro","2533.45"					
-"2024-03-15","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2513.45"					
-"2024-03-15","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","2478.45"					
-"2024-03-15","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","2418.45"					
-"2024-03-15","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","2393.45"					
-"2024-03-16","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","2318.45"					
-"2024-03-16","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","2283.45"					
-"2024-03-16","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","2278.45"					
-"2024-03-16","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Italian Bistro","2228.45"					
-"2024-03-17","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2208.45"					
-"2024-03-17","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","2183.45"					
-"2024-03-18","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","2783.45"					
-"2024-03-18","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","2713.45"					
-"2024-03-18","Gas Refill","Debit","-40.00","Transportation","Debit Card","FastFuel","2673.45"					
-"2024-03-19","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","2669.45"					
-"2024-03-19","Utility Bill","Debit","-50.00","Utilities","Debit Card","WebProvider","2619.45"					
-"2024-03-20","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Nice Restaurant","2559.45"					
-"2024-03-20","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","2534.45"					
-"2024-03-21","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","2459.45"					
-"2024-03-21","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","2424.45"					
-"2024-03-21","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","2369.45"					
-"2024-03-22","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","2364.45"					
-"2024-03-22","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2344.45"					
-"2024-03-22","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","2329.45"					
-"2024-03-23","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","2294.45"					
-"2024-03-23","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Pizza Place","2244.45"					
-"2024-03-24","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","2844.45"					
-"2024-03-24","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","2774.45"					
-"2024-03-24","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","2769.45"					
-"2024-03-25","Utility Bill","Debit","-40.00","Utilities","Debit Card","Power Supply Inc.","2729.45"					
-"2024-03-25","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","2704.45"					
-"2024-03-25","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","2669.45"					
-"2024-03-26","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Nice Restaurant","2614.45"					
-"2024-03-26","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2594.45"					
-"2024-03-26","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","2534.45"					
-"2024-03-27","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","2530.45"					
-"2024-03-27","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","2460.45"					
-"2024-03-28","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","2425.45"					
-"2024-03-28","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","2400.45"					
-"2024-03-29","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3000.45"					
-"2024-03-29","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Pizza Place","2950.45"					
-"2024-03-29","Takeout","Debit","-30.00","Food & Drink","Debit Card","Asian Cuisine","2920.45"					
-"2024-03-30","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2900.45"					
-"2024-03-30","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","2825.45"
-"2024-03-31","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","2790.45"					
-"2024-03-31","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","2785.45"					
-"2024-03-31","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","2770.45"
-"2024-04-01","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","2690.45"					
-"2024-04-01","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","2650.45"					
-"2024-04-01","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","2645.45"					
-"2024-04-01","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","2585.45"					
-"2024-04-02","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2565.45"					
-"2024-04-02","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","2550.45"					
-"2024-04-02","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","2525.45"					
-"2024-04-03","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3125.45"					
-"2024-04-03","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","3055.45"					
-"2024-04-03","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3020.45"					
-"2024-04-04","Utility Bill","Debit","-50.00","Utilities","Debit Card","Power Supply Inc.","2970.45"					
-"2024-04-04","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Nice Restaurant","2910.45"					
-"2024-04-05","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","2885.45"					
-"2024-04-05","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","2845.45"					
-"2024-04-06","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","2841.45"					
-"2024-04-06","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2821.45"					
-"2024-04-06","Clothing Purchase","Debit","-50.00","Shopping","Debit Card","Clothing Store","2771.45"					
-"2024-04-07","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","2696.45"					
-"2024-04-07","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Pizza Place","2646.45"					
-"2024-04-08","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3246.45"					
-"2024-04-08","Utility Bill","Debit","-40.00","Utilities","Debit Card","WebProvider","3206.45"					
-"2024-04-08","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3171.45"					
-"2024-04-09","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3166.45"					
-"2024-04-09","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","3141.45"					
-"2024-04-10","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","3081.45"					
-"2024-04-10","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Italian Bistro","3026.45"					
-"2024-04-11","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","2946.45"					
-"2024-04-11","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","2906.45"					
-"2024-04-12","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","2902.45"					
-"2024-04-12","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2882.45"					
-"2024-04-12","Pet Supplies","Debit","-30.00","Pets","Debit Card","Pet Store","2852.45"					
-"2024-04-13","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","2827.45"					
-"2024-04-13","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3427.45"					
-"2024-04-14","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Nice Restaurant","3377.45"					
-"2024-04-14","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","3307.45"					
-"2024-04-14","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3272.45"					
-"2024-04-15","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3267.45"					
-"2024-04-15","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3247.45"					
-"2024-04-15","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","3232.45"					
-"2024-04-15","Utility Bill","Debit","-50.00","Utilities","Debit Card","Power Supply Inc.","3182.45"
-"2024-04-16","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3107.45"					
-"2024-04-16","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3067.45"					
-"2024-04-16","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3062.45"					
-"2024-04-17","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3002.45"					
-"2024-04-17","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","2982.45"					
-"2024-04-17","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","2967.45"					
-"2024-04-18","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3567.45"					
-"2024-04-18","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","3487.45"					
-"2024-04-18","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3452.45"					
-"2024-04-19","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","3448.45"					
-"2024-04-19","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Nice Restaurant","3393.45"					
-"2024-04-19","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","3368.45"					
-"2024-04-20","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","3298.45"					
-"2024-04-20","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3258.45"					
-"2024-04-20","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","3198.45"					
-"2024-04-21","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3193.45"					
-"2024-04-21","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3173.45"					
-"2024-04-21","Utility Bill","Debit","-50.00","Utilities","Debit Card","WebProvider","3123.45"					
-"2024-04-22","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3063.45"					
-"2024-04-22","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3028.45"					
-"2024-04-23","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","3024.45"					
-"2024-04-23","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","2949.45"					
-"2024-04-23","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","2924.45"					
-"2024-04-24","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3524.45"					
-"2024-04-24","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Nice Restaurant","3474.45"					
-"2024-04-24","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3434.45"					
-"2024-04-25","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3414.45"					
-"2024-04-25","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","3359.45"					
-"2024-04-25","Takeout","Debit","-30.00","Food & Drink","Debit Card","Asian Cuisine","3329.45"					
-"2024-04-26","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3254.45"					
-"2024-04-26","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3249.45"					
-"2024-04-26","Utility Bill","Debit","-50.00","Utilities","Debit Card","Power Supply Inc.","3199.45"					
-"2024-04-27","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Italian Bistro","3144.45"					
-"2024-04-27","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3109.45"					
-"2024-04-28","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3709.45"					
-"2024-04-28","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","3639.45"					
-"2024-04-28","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3619.45"					
-"2024-04-29","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","3594.45"					
-"2024-04-29","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","3590.45"					
-"2024-04-30","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Nice Restaurant","3530.45"					
-"2024-04-30","Gas Station","Debit","-35.00","Transportation","Debit Card","FastFuel","3495.45"					
-"2024-04-30","Clothing Purchase","Debit","-50.00","Shopping","Debit Card","Clothing Store","3445.45"
-"2024-05-01","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","3365.45"					
-"2024-05-01","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3325.45"					
-"2024-05-01","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3320.45"					
-"2024-05-02","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3260.45"					
-"2024-05-02","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3240.45"					
-"2024-05-02","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","3225.45"					
-"2024-05-03","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3825.45"					
-"2024-05-03","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","3755.45"					
-"2024-05-03","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3720.45"					
-"2024-05-04","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","3716.45"					
-"2024-05-04","Utility Bill","Debit","-50.00","Utilities","Debit Card","WebProvider","3666.45"					
-"2024-05-04","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Nice Restaurant","3611.45"					
-"2024-05-05","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","3586.45"					
-"2024-05-05","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3546.45"					
-"2024-05-06","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","3486.45"					
-"2024-05-06","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3466.45"					
-"2024-05-06","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3391.45"					
-"2024-05-07","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3386.45"					
-"2024-05-07","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3326.45"					
-"2024-05-08","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","3926.45"					
-"2024-05-08","Utility Bill","Debit","-40.00","Utilities","Debit Card","Power Supply Inc.","3886.45"					
-"2024-05-08","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3851.45"					
-"2024-05-09","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","3847.45"					
-"2024-05-09","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3772.45"					
-"2024-05-10","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","3717.45"					
-"2024-05-10","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Nice Restaurant","3667.45"					
-"2024-05-10","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3647.45"					
-"2024-05-11","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","3622.45"					
-"2024-05-11","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3582.45"					
-"2024-05-12","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3577.45"					
-"2024-05-12","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","3497.45"					
-"2024-05-12","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","3472.45"					
-"2024-05-13","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3452.45"					
-"2024-05-13","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4052.45"					
-"2024-05-14","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3992.45"					
-"2024-05-14","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3957.45"					
-"2024-05-14","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","3942.45"					
-"2024-05-15","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3867.45"					
-"2024-05-15","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3862.45"					
-"2024-05-15","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","3802.45"
-"2024-05-16","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3727.45"					
-"2024-05-16","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3687.45"					
-"2024-05-16","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3682.45"					
-"2024-05-17","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3622.45"					
-"2024-05-17","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3602.45"					
-"2024-05-17","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","3577.45"					
-"2024-05-18","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4177.45"					
-"2024-05-18","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","4097.45"					
-"2024-05-18","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","4062.45"					
-"2024-05-19","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","4058.45"					
-"2024-05-19","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Nice Restaurant","4003.45"					
-"2024-05-19","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","3978.45"					
-"2024-05-20","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","3908.45"					
-"2024-05-20","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3868.45"					
-"2024-05-20","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","3808.45"					
-"2024-05-21","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3803.45"					
-"2024-05-21","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3783.45"					
-"2024-05-21","Utility Bill","Debit","-50.00","Utilities","Debit Card","WebProvider","3733.45"					
-"2024-05-22","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3673.45"					
-"2024-05-22","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3638.45"					
-"2024-05-23","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","3634.45"					
-"2024-05-23","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3559.45"					
-"2024-05-23","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","3544.45"					
-"2024-05-24","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4144.45"					
-"2024-05-24","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Nice Restaurant","4094.45"					
-"2024-05-24","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","4054.45"					
-"2024-05-25","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4034.45"					
-"2024-05-25","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","3979.45"					
-"2024-05-25","Takeout","Debit","-30.00","Food & Drink","Debit Card","Asian Cuisine","3949.45"					
-"2024-05-26","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3874.45"					
-"2024-05-26","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3869.45"					
-"2024-05-26","Utility Bill","Debit","-40.00","Utilities","Debit Card","Power Supply Inc.","3829.45"					
-"2024-05-27","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3769.45"					
-"2024-05-27","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","3734.45"					
-"2024-05-28","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4334.45"					
-"2024-05-28","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","4254.45"					
-"2024-05-28","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4234.45"					
-"2024-05-29","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","4209.45"					
-"2024-05-29","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","4205.45"					
-"2024-05-30","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Nice Restaurant","4145.45"					
-"2024-05-30","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","4105.45"					
-"2024-05-31","Clothing Purchase","Debit","-50.00","Shopping","Debit Card","Clothing Store","4055.45"
-"2024-06-01","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3980.45"					
-"2024-06-01","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","3940.45"					
-"2024-06-01","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3935.45"					
-"2024-06-02","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3875.45"					
-"2024-06-02","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","3855.45"					
-"2024-06-02","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","3830.45"					
-"2024-06-03","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4430.45"					
-"2024-06-03","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","4360.45"					
-"2024-06-03","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","4325.45"					
-"2024-06-04","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","4321.45"					
-"2024-06-04","Utility Bill","Debit","-50.00","Utilities","Debit Card","WebProvider","4271.45"					
-"2024-06-04","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Nice Restaurant","4216.45"					
-"2024-06-05","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","4191.45"					
-"2024-06-05","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","4141.45"					
-"2024-06-06","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","4081.45"					
-"2024-06-06","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4061.45"					
-"2024-06-06","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","3986.45"					
-"2024-06-07","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","3981.45"					
-"2024-06-07","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","3921.45"					
-"2024-06-08","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4521.45"					
-"2024-06-08","Utility Bill","Debit","-40.00","Utilities","Debit Card","Power Supply Inc.","4481.45"					
-"2024-06-08","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","4446.45"					
-"2024-06-09","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","4442.45"					
-"2024-06-09","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","4362.45"					
-"2024-06-10","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","4307.45"					
-"2024-06-10","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Nice Restaurant","4257.45"					
-"2024-06-10","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4237.45"					
-"2024-06-11","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","4212.45"					
-"2024-06-11","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","4172.45"					
-"2024-06-12","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","4167.45"					
-"2024-06-12","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","4092.45"					
-"2024-06-12","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","4067.45"					
-"2024-06-13","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4047.45"					
-"2024-06-13","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4647.45"					
-"2024-06-14","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","4587.45"					
-"2024-06-14","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","4552.45"					
-"2024-06-14","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","4537.45"					
-"2024-06-15","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","4457.45"					
-"2024-06-15","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","4452.45"					
-"2024-06-15","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","4392.45"
-"2024-06-16","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","4317.45"					
-"2024-06-16","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","4277.45"					
-"2024-06-16","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","4272.45"					
-"2024-06-17","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","4212.45"					
-"2024-06-17","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4192.45"					
-"2024-06-17","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","4167.45"					
-"2024-06-18","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4767.45"					
-"2024-06-18","Groceries","Debit","-70.00","Groceries","Debit Card","SuperMart","4697.45"					
-"2024-06-18","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","4662.45"					
-"2024-06-19","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","4658.45"					
-"2024-06-19","Utility Bill","Debit","-50.00","Utilities","Debit Card","WebProvider","4608.45"					
-"2024-06-19","Dinner Out","Debit","-55.00","Food & Drink","Debit Card","Nice Restaurant","4553.45"					
-"2024-06-20","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","4528.45"					
-"2024-06-20","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","4488.45"					
-"2024-06-21","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","4428.45"					
-"2024-06-21","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4408.45"					
-"2024-06-21","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","4333.45"					
-"2024-06-22","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","4328.45"					
-"2024-06-22","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","4268.45"					
-"2024-06-23","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","4868.45"					
-"2024-06-23","Utility Bill","Debit","-40.00","Utilities","Debit Card","Power Supply Inc.","4828.45"					
-"2024-06-23","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","4793.45"					
-"2024-06-24","Coffee Shop","Debit","-4.00","Food & Drink","Debit Card","Brewed Awakening","4789.45"					
-"2024-06-24","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","4709.45"					
-"2024-06-25","Clothing Purchase","Debit","-55.00","Shopping","Debit Card","Clothing Store","4654.45"					
-"2024-06-25","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Nice Restaurant","4604.45"					
-"2024-06-25","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4584.45"					
-"2024-06-26","Takeout","Debit","-25.00","Food & Drink","Debit Card","Asian Cuisine","4584.45"					
-"2024-06-26","Gas Station","Debit","-40.00","Transportation","Debit Card","FastFuel","4544.45"					
-"2024-06-27","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","4539.45"					
-"2024-06-27","Groceries","Debit","-75.00","Groceries","Debit Card","SuperMart","4464.45"					
-"2024-06-27","Movie Night","Debit","-25.00","Entertainment","Debit Card","Cinema","4439.45"					
-"2024-06-28","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Deli Spot","4419.45"					
-"2024-06-28","Paycheck","Credit","600.00","Income","Direct Deposit","Employer","5019.45"					
-"2024-06-29","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Italian Bistro","4959.45"					
-"2024-06-29","Gas Refill","Debit","-35.00","Transportation","Debit Card","FastFuel","4924.45"					
-"2024-06-29","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","4909.45"					
-"2024-06-30","Groceries","Debit","-80.00","Groceries","Debit Card","SuperMart","4829.45"					
-"2024-06-30","Coffee Shop","Debit","-5.00","Food & Drink","Debit Card","Brewed Awakening","4824.45"					
-"2024-06-30","Clothing Purchase","Debit","-60.00","Shopping","Debit Card","Clothing Store","4764.45"
+Date,Description,Transaction Type,Amount,Category,Payment Method,Merchant,Balance
+2024-01-01,Grocery Store,Debit,-45.30,Groceries,Debit Card,SuperMart,954.70					
+2024-01-01,Coffee Shop,Debit,-4.50,Food & Drink,Debit Card,Brewed Awakening,950.20					
+2024-01-01,Gas Station,Debit,-30.00,Transportation,Debit Card,FastFuel,920.20					
+2024-01-02,Rent Payment,Debit,-800.00,Housing,Bank Transfer,Landlord Co.,120.20					
+2024-01-02,Electricity Bill,Debit,-60.00,Utilities,Debit Card,Power Supply Inc.,60.20					
+2024-01-03,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Pizza Place,10.20					
+2024-01-03,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,610.20					
+2024-01-03,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Deli Spot,585.20					
+2024-01-04,Book Purchase,Debit,-12.50,Shopping,Debit Card,Bookstore,572.70					
+2024-01-04,Bus Pass,Debit,-25.00,Transportation,Debit Card,Transit Co.,547.70					
+2024-01-04,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,507.70					
+2024-01-05,Movie Night,Debit,-20.00,Entertainment,Debit Card,Cinema,487.70					
+2024-01-05,Groceries,Debit,-60.25,Groceries,Debit Card,SuperMart,427.45					
+2024-01-06,Fast Food,Debit,-10.50,Food & Drink,Debit Card,Burger Joint,416.95					
+2024-01-06,Internet Bill,Debit,-45.00,Utilities,Debit Card,WebProvider,371.95					
+2024-01-07,Clothing Purchase,Debit,-75.00,Shopping,Debit Card,Clothing Store,296.95					
+2024-01-07,Dinner Out,Debit,-30.00,Food & Drink,Debit Card,Nice Restaurant,266.95					
+2024-01-08,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,261.95					
+2024-01-08,Gym Membership,Debit,-40.00,Fitness,Debit Card,Local Gym,221.95					
+2024-01-08,Home Supplies,Debit,-22.00,Home & Garden,Debit Card,Home Depot,199.95					
+2024-01-09,Lunch,Debit,-15.00,Food & Drink,Debit Card,Deli Spot,184.95					
+2024-01-09,Pet Supplies,Debit,-50.00,Pets,Debit Card,Pet Store,134.95					
+2024-01-10,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,734.95					
+2024-01-10,Groceries,Debit,-55.00,Groceries,Debit Card,SuperMart,679.95					
+2024-01-10,Dining Out,Debit,-60.00,Food & Drink,Debit Card,Steak House,619.95					
+2024-01-11,Utility Bill,Debit,-40.00,Utilities,Debit Card,Water Co.,579.95					
+2024-01-11,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,575.95					
+2024-01-11,Clothing Purchase,Debit,-45.00,Shopping,Debit Card,Clothing Store,530.95					
+2024-01-12,Bookstore Purchase,Debit,-12.00,Entertainment,Debit Card,Bookstore,518.95					
+2024-01-12,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,483.95					
+2024-01-12,Takeout,Debit,-20.00,Food & Drink,Debit Card,Asian Cuisine,463.95					
+2024-01-13,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,393.95					
+2024-01-13,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Italian Bistro,338.95					
+2024-01-14,Lunch,Debit,-12.00,Food & Drink,Debit Card,Deli Spot,326.95					
+2024-01-14,Movie Tickets,Debit,-30.00,Entertainment,Debit Card,Cinema,296.95					
+2024-01-14,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,256.95					
+2024-01-14,Gym Membership,Debit,-40.00,Fitness,Debit Card,Local Gym,216.95					
+2024-01-15,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,816.95					
+2024-01-15,Groceries,Debit,-50.00,Groceries,Debit Card,SuperMart,766.95					
+2024-01-15,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,762.95					
+2024-01-15,Clothing Purchase,Debit,-45.00,Shopping,Debit Card,Clothing Store,717.95					
+2024-01-15,Bookstore Purchase,Debit,-12.00,Entertainment,Debit Card,Bookstore,705.95					
+2024-01-15,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,670.95									
+2024-01-15,Takeout,Debit,-20.00,Food & Drink,Debit Card,Asian Cuisine,650.95					
+2024-01-16,Groceries,Debit,-65.00,Groceries,Debit Card,SuperMart,585.95					
+2024-01-16,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,545.95					
+2024-01-16,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Deli Spot,520.95					
+2024-01-17,Utility Bill,Debit,-50.00,Utilities,Debit Card,Water Co.,470.95					
+2024-01-17,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,455.95					
+2024-01-17,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,450.95					
+2024-01-18,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,1050.95					
+2024-01-18,Dinner Out,Debit,-40.00,Food & Drink,Debit Card,Pizza Place,1010.95					
+2024-01-18,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,975.95					
+2024-01-19,Clothing Purchase,Debit,-50.00,Shopping,Debit Card,Clothing Store,925.95					
+2024-01-19,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,850.95					
+2024-01-19,Movie Tickets,Debit,-30.00,Entertainment,Debit Card,Cinema,820.95					
+2024-01-20,Fast Food,Debit,-10.50,Food & Drink,Debit Card,Burger Joint,810.45					
+2024-01-20,Internet Bill,Debit,-45.00,Utilities,Debit Card,WebProvider,765.45					
+2024-01-21,Lunch,Debit,-15.00,Food & Drink,Debit Card,Deli Spot,750.45					
+2024-01-21,Gym Membership,Debit,-40.00,Fitness,Debit Card,Local Gym,710.45					
+2024-01-21,Home Supplies,Debit,-22.00,Home & Garden,Debit Card,Home Depot,688.45					
+2024-01-22,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,684.45					
+2024-01-22,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Steak House,634.45					
+2024-01-23,Pet Supplies,Debit,-30.00,Pets,Debit Card,Pet Store,604.45					
+2024-01-23,Clothing Purchase,Debit,-45.00,Shopping,Debit Card,Clothing Store,559.45					
+2024-01-23,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,534.45					
+2024-01-24,Groceries,Debit,-60.00,Groceries,Debit Card,SuperMart,474.45					
+2024-01-24,Utility Bill,Debit,-40.00,Utilities,Debit Card,Power Supply Inc.,434.45					
+2024-01-25,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,1034.45					
+2024-01-25,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,999.45					
+2024-01-26,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Deli Spot,974.45					
+2024-01-26,Movie Night,Debit,-20.00,Entertainment,Debit Card,Cinema,954.45					
+2024-01-27,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,949.45					
+2024-01-27,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,879.45					
+2024-01-28,Dinner Out,Debit,-45.00,Food & Drink,Debit Card,Nice Restaurant,834.45					
+2024-01-28,Bookstore Purchase,Debit,-12.00,Entertainment,Debit Card,Bookstore,822.45					
+2024-01-29,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,787.45					
+2024-01-29,Clothing Purchase,Debit,-50.00,Shopping,Debit Card,Clothing Store,737.45					
+2024-01-30,Utility Bill,Debit,-40.00,Utilities,Debit Card,Water Co.,697.45					
+2024-01-30,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,693.45					
+2024-01-31,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Steak House,633.45					
+2024-01-31,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,1233.45					
+2024-01-31,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,1198.45	
+2024-02-01,Groceries,Debit,-60.00,Groceries,Debit Card,SuperMart,1138.45					
+2024-02-01,Lunch,Debit,-12.00,Food & Drink,Debit Card,Deli Spot,1126.45					
+2024-02-01,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,1091.45					
+2024-02-02,Utility Bill,Debit,-40.00,Utilities,Debit Card,Power Supply Inc.,1051.45					
+2024-02-02,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,1046.45					
+2024-02-02,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Pizza Place,996.45					
+2024-02-02,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,981.45					
+2024-02-03,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,1581.45					
+2024-02-03,Fast Food,Debit,-10.50,Food & Drink,Debit Card,Burger Joint,1570.95					
+2024-02-03,Groceries,Debit,-65.00,Groceries,Debit Card,SuperMart,1505.95					
+2024-02-04,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,1480.95					
+2024-02-04,Clothing Purchase,Debit,-45.00,Shopping,Debit Card,Clothing Store,1435.95					
+2024-02-04,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,1415.95					
+2024-02-05,Internet Bill,Debit,-45.00,Utilities,Debit Card,WebProvider,1370.95					
+2024-02-05,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,1366.95					
+2024-02-06,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,1331.95					
+2024-02-06,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Nice Restaurant,1271.95					
+2024-02-06,Pet Supplies,Debit,-30.00,Pets,Debit Card,Pet Store,1241.95					
+2024-02-07,Utility Bill,Debit,-50.00,Utilities,Debit Card,Water Co.,1191.95					
+2024-02-07,Clothing Purchase,Debit,-40.00,Shopping,Debit Card,Clothing Store,1151.95					
+2024-02-08,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,1751.95					
+2024-02-08,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,1716.95					
+2024-02-08,Lunch,Debit,-15.00,Food & Drink,Debit Card,Deli Spot,1701.95					
+2024-02-09,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,1631.95					
+2024-02-09,Bookstore Purchase,Debit,-12.00,Entertainment,Debit Card,Bookstore,1619.95					
+2024-02-10,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,1614.95					
+2024-02-10,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Pizza Place,1564.95					
+2024-02-10,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,1509.95					
+2024-02-11,Gas Refill,Debit,-40.00,Transportation,Debit Card,FastFuel,1469.95					
+2024-02-11,Valentine's Dinner,Debit,-80.00,Food & Drink,Debit Card,Romantic Bistro,1389.95					
+2024-02-12,Pet Supplies,Debit,-25.00,Pets,Debit Card,Pet Store,1364.95					
+2024-02-12,Utility Bill,Debit,-50.00,Utilities,Debit Card,Power Supply Inc.,1314.95					
+2024-02-12,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,1914.95					
+2024-02-13,Groceries,Debit,-50.00,Groceries,Debit Card,SuperMart,1864.95					
+2024-02-13,Movie Night,Debit,-20.00,Entertainment,Debit Card,Cinema,1844.95					
+2024-02-13,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,1840.95					
+2024-02-14,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,1805.95					
+2024-02-14,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Nice Restaurant,1745.95					
+2024-02-14,Clothing Purchase,Debit,-30.00,Shopping,Debit Card,Clothing Store,1715.95					
+2024-02-15,Lunch,Debit,-15.00,Food & Drink,Debit Card,Deli Spot,1700.95					
+2024-02-15,Utility Bill,Debit,-45.00,Utilities,Debit Card,WebProvider,1655.95					
+2024-02-15,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,1630.95					
+2024-02-15,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,1626.95					
+2024-02-15,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,1591.95
+2024-02-16,Groceries,Debit,-65.00,Groceries,Debit Card,SuperMart,1526.95					
+2024-02-16,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,1486.95					
+2024-02-16,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,1481.95					
+2024-02-16,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Italian Bistro,1426.95					
+2024-02-17,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,1401.95					
+2024-02-17,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,1381.95					
+2024-02-17,Pet Supplies,Debit,-30.00,Pets,Debit Card,Pet Store,1351.95					
+2024-02-18,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,1951.95					
+2024-02-18,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,1916.95					
+2024-02-19,Lunch,Debit,-15.00,Food & Drink,Debit Card,Deli Spot,1901.95					
+2024-02-19,Internet Bill,Debit,-45.00,Utilities,Debit Card,WebProvider,1856.95					
+2024-02-19,Clothing Purchase,Debit,-50.00,Shopping,Debit Card,Clothing Store,1806.95					
+2024-02-20,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,1736.95					
+2024-02-20,Utility Bill,Debit,-40.00,Utilities,Debit Card,Power Supply Inc.,1696.95					
+2024-02-21,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,1671.95					
+2024-02-21,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Steak House,1611.95					
+2024-02-21,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,1576.95					
+2024-02-22,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,1572.95					
+2024-02-22,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,1557.95					
+2024-02-22,Valentine's Gift,Debit,-50.00,Gifts,Debit Card,Gift Shop,1507.95					
+2024-02-23,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,1487.95					
+2024-02-23,Pet Supplies,Debit,-25.00,Pets,Debit Card,Pet Store,1462.95					
+2024-02-24,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,2062.95					
+2024-02-24,Groceries,Debit,-60.00,Groceries,Debit Card,SuperMart,2002.95					
+2024-02-24,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,1967.95					
+2024-02-25,Dinner Out,Debit,-40.00,Food & Drink,Debit Card,Nice Restaurant,1927.95					
+2024-02-25,Utility Bill,Debit,-50.00,Utilities,Debit Card,Water Co.,1877.95					
+2024-02-25,Clothing Purchase,Debit,-45.00,Shopping,Debit Card,Clothing Store,1832.95					
+2024-02-26,Lunch,Debit,-15.00,Food & Drink,Debit Card,Deli Spot,1817.95					
+2024-02-26,Bookstore Purchase,Debit,-12.00,Entertainment,Debit Card,Bookstore,1805.95					
+2024-02-26,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,1770.95					
+2024-02-27,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,1710.95					
+2024-02-27,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,1635.95					
+2024-02-28,Fast Food,Debit,-10.50,Food & Drink,Debit Card,Burger Joint,1625.45					
+2024-02-28,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,1621.45					
+2024-02-28,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,1596.45					
+2024-02-29,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,2196.45					
+2024-02-29,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,2161.45					
+2024-02-29,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2141.45					
+2024-02-29,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Pizza Place,2086.45
+2024-03-01,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,2016.45					
+2024-03-01,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,1981.45					
+2024-03-01,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,1976.45					
+2024-03-01,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,1916.45					
+2024-03-01,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,1896.45					
+2024-03-02,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,1881.45					
+2024-03-02,Gas Refill,Debit,-40.00,Transportation,Debit Card,FastFuel,1841.45					
+2024-03-02,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,1816.45					
+2024-03-03,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,2416.45					
+2024-03-03,Groceries,Debit,-65.00,Groceries,Debit Card,SuperMart,2351.45					
+2024-03-03,Lunch,Debit,-15.00,Food & Drink,Debit Card,Deli Spot,2336.45					
+2024-03-03,Utility Bill,Debit,-50.00,Utilities,Debit Card,Power Supply Inc.,2286.45					
+2024-03-04,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,2282.45					
+2024-03-04,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Nice Restaurant,2222.45					
+2024-03-05,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,2197.45					
+2024-03-05,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,2162.45					
+2024-03-05,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,2107.45					
+2024-03-06,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,2037.45					
+2024-03-06,Utility Bill,Debit,-40.00,Utilities,Debit Card,WebProvider,1997.45					
+2024-03-06,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,1992.45					
+2024-03-07,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,1972.45					
+2024-03-07,Pet Supplies,Debit,-30.00,Pets,Debit Card,Pet Store,1942.45					
+2024-03-08,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,2542.45					
+2024-03-08,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,2507.45					
+2024-03-08,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Pizza Place,2457.45					
+2024-03-09,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,2432.45					
+2024-03-09,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,2362.45					
+2024-03-10,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,2322.45					
+2024-03-10,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,2307.45					
+2024-03-10,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,2303.45					
+2024-03-11,Lunch,Debit,-15.00,Food & Drink,Debit Card,Deli Spot,2288.45					
+2024-03-11,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,2233.45					
+2024-03-12,Utility Bill,Debit,-50.00,Utilities,Debit Card,Power Supply Inc.,2183.45					
+2024-03-12,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,2158.45					
+2024-03-12,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Nice Restaurant,2098.45					
+2024-03-13,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,2063.45					
+2024-03-13,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,2058.45					
+2024-03-14,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,2658.45					
+2024-03-14,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,2583.45					
+2024-03-14,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Italian Bistro,2533.45					
+2024-03-15,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2513.45					
+2024-03-15,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,2478.45					
+2024-03-15,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,2418.45					
+2024-03-15,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,2393.45					
+2024-03-16,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,2318.45					
+2024-03-16,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,2283.45					
+2024-03-16,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,2278.45					
+2024-03-16,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Italian Bistro,2228.45					
+2024-03-17,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2208.45					
+2024-03-17,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,2183.45					
+2024-03-18,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,2783.45					
+2024-03-18,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,2713.45					
+2024-03-18,Gas Refill,Debit,-40.00,Transportation,Debit Card,FastFuel,2673.45					
+2024-03-19,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,2669.45					
+2024-03-19,Utility Bill,Debit,-50.00,Utilities,Debit Card,WebProvider,2619.45					
+2024-03-20,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Nice Restaurant,2559.45					
+2024-03-20,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,2534.45					
+2024-03-21,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,2459.45					
+2024-03-21,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,2424.45					
+2024-03-21,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,2369.45					
+2024-03-22,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,2364.45					
+2024-03-22,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2344.45					
+2024-03-22,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,2329.45					
+2024-03-23,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,2294.45					
+2024-03-23,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Pizza Place,2244.45					
+2024-03-24,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,2844.45					
+2024-03-24,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,2774.45					
+2024-03-24,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,2769.45					
+2024-03-25,Utility Bill,Debit,-40.00,Utilities,Debit Card,Power Supply Inc.,2729.45					
+2024-03-25,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,2704.45					
+2024-03-25,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,2669.45					
+2024-03-26,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Nice Restaurant,2614.45					
+2024-03-26,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2594.45					
+2024-03-26,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,2534.45					
+2024-03-27,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,2530.45					
+2024-03-27,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,2460.45					
+2024-03-28,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,2425.45					
+2024-03-28,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,2400.45					
+2024-03-29,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3000.45					
+2024-03-29,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Pizza Place,2950.45					
+2024-03-29,Takeout,Debit,-30.00,Food & Drink,Debit Card,Asian Cuisine,2920.45					
+2024-03-30,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2900.45					
+2024-03-30,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,2825.45
+2024-03-31,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,2790.45					
+2024-03-31,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,2785.45					
+2024-03-31,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,2770.45
+2024-04-01,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,2690.45					
+2024-04-01,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,2650.45					
+2024-04-01,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,2645.45					
+2024-04-01,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,2585.45					
+2024-04-02,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2565.45					
+2024-04-02,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,2550.45					
+2024-04-02,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,2525.45					
+2024-04-03,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3125.45					
+2024-04-03,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,3055.45					
+2024-04-03,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3020.45					
+2024-04-04,Utility Bill,Debit,-50.00,Utilities,Debit Card,Power Supply Inc.,2970.45					
+2024-04-04,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Nice Restaurant,2910.45					
+2024-04-05,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,2885.45					
+2024-04-05,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,2845.45					
+2024-04-06,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,2841.45					
+2024-04-06,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2821.45					
+2024-04-06,Clothing Purchase,Debit,-50.00,Shopping,Debit Card,Clothing Store,2771.45					
+2024-04-07,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,2696.45					
+2024-04-07,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Pizza Place,2646.45					
+2024-04-08,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3246.45					
+2024-04-08,Utility Bill,Debit,-40.00,Utilities,Debit Card,WebProvider,3206.45					
+2024-04-08,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3171.45					
+2024-04-09,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3166.45					
+2024-04-09,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,3141.45					
+2024-04-10,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,3081.45					
+2024-04-10,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Italian Bistro,3026.45					
+2024-04-11,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,2946.45					
+2024-04-11,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,2906.45					
+2024-04-12,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,2902.45					
+2024-04-12,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2882.45					
+2024-04-12,Pet Supplies,Debit,-30.00,Pets,Debit Card,Pet Store,2852.45					
+2024-04-13,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,2827.45					
+2024-04-13,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3427.45					
+2024-04-14,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Nice Restaurant,3377.45					
+2024-04-14,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,3307.45					
+2024-04-14,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3272.45					
+2024-04-15,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3267.45					
+2024-04-15,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3247.45					
+2024-04-15,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,3232.45					
+2024-04-15,Utility Bill,Debit,-50.00,Utilities,Debit Card,Power Supply Inc.,3182.45
+2024-04-16,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3107.45					
+2024-04-16,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3067.45					
+2024-04-16,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3062.45					
+2024-04-17,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3002.45					
+2024-04-17,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,2982.45					
+2024-04-17,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,2967.45					
+2024-04-18,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3567.45					
+2024-04-18,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,3487.45					
+2024-04-18,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3452.45					
+2024-04-19,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,3448.45					
+2024-04-19,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Nice Restaurant,3393.45					
+2024-04-19,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,3368.45					
+2024-04-20,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,3298.45					
+2024-04-20,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3258.45					
+2024-04-20,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,3198.45					
+2024-04-21,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3193.45					
+2024-04-21,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3173.45					
+2024-04-21,Utility Bill,Debit,-50.00,Utilities,Debit Card,WebProvider,3123.45					
+2024-04-22,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3063.45					
+2024-04-22,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3028.45					
+2024-04-23,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,3024.45					
+2024-04-23,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,2949.45					
+2024-04-23,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,2924.45					
+2024-04-24,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3524.45					
+2024-04-24,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Nice Restaurant,3474.45					
+2024-04-24,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3434.45					
+2024-04-25,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3414.45					
+2024-04-25,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,3359.45					
+2024-04-25,Takeout,Debit,-30.00,Food & Drink,Debit Card,Asian Cuisine,3329.45					
+2024-04-26,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3254.45					
+2024-04-26,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3249.45					
+2024-04-26,Utility Bill,Debit,-50.00,Utilities,Debit Card,Power Supply Inc.,3199.45					
+2024-04-27,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Italian Bistro,3144.45					
+2024-04-27,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3109.45					
+2024-04-28,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3709.45					
+2024-04-28,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,3639.45					
+2024-04-28,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3619.45					
+2024-04-29,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,3594.45					
+2024-04-29,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,3590.45					
+2024-04-30,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Nice Restaurant,3530.45					
+2024-04-30,Gas Station,Debit,-35.00,Transportation,Debit Card,FastFuel,3495.45					
+2024-04-30,Clothing Purchase,Debit,-50.00,Shopping,Debit Card,Clothing Store,3445.45
+2024-05-01,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,3365.45					
+2024-05-01,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3325.45					
+2024-05-01,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3320.45					
+2024-05-02,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3260.45					
+2024-05-02,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3240.45					
+2024-05-02,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,3225.45					
+2024-05-03,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3825.45					
+2024-05-03,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,3755.45					
+2024-05-03,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3720.45					
+2024-05-04,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,3716.45					
+2024-05-04,Utility Bill,Debit,-50.00,Utilities,Debit Card,WebProvider,3666.45					
+2024-05-04,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Nice Restaurant,3611.45					
+2024-05-05,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,3586.45					
+2024-05-05,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3546.45					
+2024-05-06,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,3486.45					
+2024-05-06,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3466.45					
+2024-05-06,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3391.45					
+2024-05-07,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3386.45					
+2024-05-07,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3326.45					
+2024-05-08,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,3926.45					
+2024-05-08,Utility Bill,Debit,-40.00,Utilities,Debit Card,Power Supply Inc.,3886.45					
+2024-05-08,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3851.45					
+2024-05-09,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,3847.45					
+2024-05-09,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3772.45					
+2024-05-10,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,3717.45					
+2024-05-10,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Nice Restaurant,3667.45					
+2024-05-10,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3647.45					
+2024-05-11,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,3622.45					
+2024-05-11,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3582.45					
+2024-05-12,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3577.45					
+2024-05-12,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,3497.45					
+2024-05-12,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,3472.45					
+2024-05-13,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3452.45					
+2024-05-13,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4052.45					
+2024-05-14,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3992.45					
+2024-05-14,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3957.45					
+2024-05-14,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,3942.45					
+2024-05-15,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3867.45					
+2024-05-15,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3862.45					
+2024-05-15,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,3802.45
+2024-05-16,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3727.45					
+2024-05-16,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3687.45					
+2024-05-16,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3682.45					
+2024-05-17,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3622.45					
+2024-05-17,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3602.45					
+2024-05-17,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,3577.45					
+2024-05-18,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4177.45					
+2024-05-18,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,4097.45					
+2024-05-18,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,4062.45					
+2024-05-19,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,4058.45					
+2024-05-19,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Nice Restaurant,4003.45					
+2024-05-19,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,3978.45					
+2024-05-20,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,3908.45					
+2024-05-20,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3868.45					
+2024-05-20,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,3808.45					
+2024-05-21,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3803.45					
+2024-05-21,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3783.45					
+2024-05-21,Utility Bill,Debit,-50.00,Utilities,Debit Card,WebProvider,3733.45					
+2024-05-22,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3673.45					
+2024-05-22,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3638.45					
+2024-05-23,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,3634.45					
+2024-05-23,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3559.45					
+2024-05-23,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,3544.45					
+2024-05-24,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4144.45					
+2024-05-24,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Nice Restaurant,4094.45					
+2024-05-24,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,4054.45					
+2024-05-25,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4034.45					
+2024-05-25,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,3979.45					
+2024-05-25,Takeout,Debit,-30.00,Food & Drink,Debit Card,Asian Cuisine,3949.45					
+2024-05-26,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3874.45					
+2024-05-26,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3869.45					
+2024-05-26,Utility Bill,Debit,-40.00,Utilities,Debit Card,Power Supply Inc.,3829.45					
+2024-05-27,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3769.45					
+2024-05-27,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,3734.45					
+2024-05-28,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4334.45					
+2024-05-28,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,4254.45					
+2024-05-28,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4234.45					
+2024-05-29,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,4209.45					
+2024-05-29,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,4205.45					
+2024-05-30,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Nice Restaurant,4145.45					
+2024-05-30,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,4105.45					
+2024-05-31,Clothing Purchase,Debit,-50.00,Shopping,Debit Card,Clothing Store,4055.45
+2024-06-01,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3980.45					
+2024-06-01,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,3940.45					
+2024-06-01,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3935.45					
+2024-06-02,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3875.45					
+2024-06-02,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,3855.45					
+2024-06-02,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,3830.45					
+2024-06-03,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4430.45					
+2024-06-03,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,4360.45					
+2024-06-03,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,4325.45					
+2024-06-04,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,4321.45					
+2024-06-04,Utility Bill,Debit,-50.00,Utilities,Debit Card,WebProvider,4271.45					
+2024-06-04,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Nice Restaurant,4216.45					
+2024-06-05,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,4191.45					
+2024-06-05,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,4141.45					
+2024-06-06,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,4081.45					
+2024-06-06,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4061.45					
+2024-06-06,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,3986.45					
+2024-06-07,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,3981.45					
+2024-06-07,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,3921.45					
+2024-06-08,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4521.45					
+2024-06-08,Utility Bill,Debit,-40.00,Utilities,Debit Card,Power Supply Inc.,4481.45					
+2024-06-08,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,4446.45					
+2024-06-09,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,4442.45					
+2024-06-09,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,4362.45					
+2024-06-10,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,4307.45					
+2024-06-10,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Nice Restaurant,4257.45					
+2024-06-10,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4237.45					
+2024-06-11,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,4212.45					
+2024-06-11,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,4172.45					
+2024-06-12,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,4167.45					
+2024-06-12,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,4092.45					
+2024-06-12,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,4067.45					
+2024-06-13,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4047.45					
+2024-06-13,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4647.45					
+2024-06-14,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,4587.45					
+2024-06-14,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,4552.45					
+2024-06-14,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,4537.45					
+2024-06-15,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,4457.45					
+2024-06-15,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,4452.45					
+2024-06-15,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,4392.45
+2024-06-16,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,4317.45					
+2024-06-16,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,4277.45					
+2024-06-16,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,4272.45					
+2024-06-17,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,4212.45					
+2024-06-17,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4192.45					
+2024-06-17,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,4167.45					
+2024-06-18,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4767.45					
+2024-06-18,Groceries,Debit,-70.00,Groceries,Debit Card,SuperMart,4697.45					
+2024-06-18,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,4662.45					
+2024-06-19,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,4658.45					
+2024-06-19,Utility Bill,Debit,-50.00,Utilities,Debit Card,WebProvider,4608.45					
+2024-06-19,Dinner Out,Debit,-55.00,Food & Drink,Debit Card,Nice Restaurant,4553.45					
+2024-06-20,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,4528.45					
+2024-06-20,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,4488.45					
+2024-06-21,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,4428.45					
+2024-06-21,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4408.45					
+2024-06-21,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,4333.45					
+2024-06-22,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,4328.45					
+2024-06-22,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,4268.45					
+2024-06-23,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,4868.45					
+2024-06-23,Utility Bill,Debit,-40.00,Utilities,Debit Card,Power Supply Inc.,4828.45					
+2024-06-23,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,4793.45					
+2024-06-24,Coffee Shop,Debit,-4.00,Food & Drink,Debit Card,Brewed Awakening,4789.45					
+2024-06-24,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,4709.45					
+2024-06-25,Clothing Purchase,Debit,-55.00,Shopping,Debit Card,Clothing Store,4654.45					
+2024-06-25,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Nice Restaurant,4604.45					
+2024-06-25,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4584.45					
+2024-06-26,Takeout,Debit,-25.00,Food & Drink,Debit Card,Asian Cuisine,4584.45					
+2024-06-26,Gas Station,Debit,-40.00,Transportation,Debit Card,FastFuel,4544.45					
+2024-06-27,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,4539.45					
+2024-06-27,Groceries,Debit,-75.00,Groceries,Debit Card,SuperMart,4464.45					
+2024-06-27,Movie Night,Debit,-25.00,Entertainment,Debit Card,Cinema,4439.45					
+2024-06-28,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Deli Spot,4419.45					
+2024-06-28,Paycheck,Credit,600.00,Income,Direct Deposit,Employer,5019.45					
+2024-06-29,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Italian Bistro,4959.45					
+2024-06-29,Gas Refill,Debit,-35.00,Transportation,Debit Card,FastFuel,4924.45					
+2024-06-29,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,4909.45					
+2024-06-30,Groceries,Debit,-80.00,Groceries,Debit Card,SuperMart,4829.45					
+2024-06-30,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Brewed Awakening,4824.45					
+2024-06-30,Clothing Purchase,Debit,-60.00,Shopping,Debit Card,Clothing Store,4764.45

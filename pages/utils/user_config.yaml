@@ -4,14 +4,21 @@ cookie:
   name: some_cookie_name
 credentials:
   usernames:
-    juanzan:
-      email: juanzanguitu@gmail.com
+    admin:
+      email: admin@gmail.com
       failed_login_attempts: 0
-      first_name: Juan
-      last_name: Zanguitu
+      first_name: admin
+      last_name: access
       logged_in: false
-      password: $2b$12$Rw5IGpN6QHo8/bbvkfVZB.R/rOOPlFnxHEfKh3UupsfccIwRXnbOi
-      password_hint: 123456!asdA
+      password: $2b$12$Q4D7no4.4FXl6.vNbpm0i.oe5CyXvXyrjIWZkpskuyFKRbIhyT34e
+      roles: null
+    fromphone:
+      email: fromphone@gmail.com
+      first_name: From
+      last_name: Phone
+      logged_in: false
+      password: $2b$12$rAwUvDxk0AqZItEys54pvu4R7yvkyjdatweyxFEYuY9WoXZKJxmvK
+      password_hint: Fromphone123!
       roles: null
     nlawrence1:
       email: nlawrence1@hawk.iit.edu
@@ -19,7 +26,50 @@ credentials:
       first_name: Nolan
       last_name: Lawrence
       logged_in: false
-      password: $2b$12$2JAyRB17YXf5FCgccJdVzeuu0h6i94BYqXheLZ9iNFy40PTwPS7Vy
+      password: $2b$12$aIc1VTKQFYc9rKo9xLxDBu6lwrIbMtk5YVF2U2bgn6FYdkkZSuElu
+      password_hint: coolio
+      roles: null
+    testfive:
+      email: testfive@gmail.com
+      first_name: test
+      last_name: five
+      logged_in: false
+      password: $2b$12$kI2fWrUkIh3/s696HUg8jux9IcktRgvnkQn7.B88SlqIHjQ7n/HN6
+      password_hint: Tdsolkafh3242!
+      roles: null
+    testfour:
+      email: testfour@gmail.com
+      first_name: Test
+      last_name: Four
+      logged_in: false
+      password: $2b$12$wbHmIFyWDD6wypGyvu8dQOooUaaY0OMZRsRSwctMeKu6Wmq7.kVia
+      password_hint: Tosdifh532@
+      roles: null
+    testone:
+      email: test1@gmail.com
+      first_name: Test
+      last_name: One
+      logged_in: false
+      password: $2b$12$2D3PKAY4PPAejXEimnC40OUTQz0sipD6v2AhFgZ5Cdxx1B48HaOAG
+      password_hint: TestOne123!
+      roles: null
+    testthree:
+      email: testthree@gmail.com
+      first_name: Test
+      last_name: Three
+      logged_in: false
+      password: $2b$12$If2wic8C3oct3iPU37fyzu10EnE1HUGtKnFE565/n/WikFhjvdRsS
+      password_hint: Test3123!
+      roles: null
+    user1:
+      email: alice@example.com
+      failed_login_attempts: 0
+      first_name: Alice
+      last_name: Smith
+      logged_in: true
+      password: $2b$12$/uEzoWVE3WOjMXgu809WrO14LPAbjkmmfTGlXU13AVVoqmAVfHYCK
+      password_hint: coolio
+      roles: null
 oauth2:
   google:
     client_id: null

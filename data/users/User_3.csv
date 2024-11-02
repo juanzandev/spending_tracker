@@ -1,469 +1,469 @@
-"Date","Description","Transaction Type","Amount","Category","Payment Method","Merchant","Balance"					
-"2024-01-01","Grocery Shopping","Debit","-45.67","Groceries","Debit Card","Supermarket","1000.00"					
-"2024-01-01","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","995.50"					
-"2024-01-01","Gym Membership","Debit","-30.00","Health & Fitness","Debit Card","Gym","965.50"					
-"2024-01-02","Utilities Bill","Debit","-150.00","Utilities","Debit Card","Electric Company","815.50"					
-"2024-01-02","Lunch Out","Debit","-12.00","Food & Drink","Debit Card","Diner","803.50"					
-"2024-01-02","Books Purchase","Debit","-25.00","Entertainment","Debit Card","Bookstore","778.50"					
-"2024-01-03","Gas Station","Debit","-35.00","Transport","Debit Card","Gas Station","743.50"					
-"2024-01-03","New Shoes","Credit","-75.00","Clothing","Credit Card","Shoe Store","818.50"					
-"2024-01-04","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","2318.50"					
-"2024-01-04","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","2293.50"					
-"2024-01-04","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","2243.50"					
-"2024-01-05","Book Purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","2228.50"					
-"2024-01-05","Household Supplies","Debit","-20.00","Groceries","Debit Card","Store","2208.50"					
-"2024-01-06","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","2196.50"					
-"2024-01-06","Birthday Gift","Debit","-60.00","Gifts","Debit Card","Gift Shop","2136.50"					
-"2024-01-06","Lunch with Friends","Debit","-30.00","Food & Drink","Debit Card","Café","2106.50"					
-"2024-01-07","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","2101.50"					
-"2024-01-07","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","2126.50"					
-"2024-01-08","Dinner with Friends","Debit","-75.00","Food & Drink","Debit Card","Restaurant","2051.50"					
-"2024-01-08","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","2011.50"					
-"2024-01-09","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","2001.50"					
-"2024-01-09","Quick Lunch","Debit","-8.00","Food & Drink","Debit Card","Deli","1993.50"					
-"2024-01-10","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","1968.50"					
-"2024-01-10","Clothing Sale","Credit","-100.00","Clothing","Credit Card","Clothing Store","2068.50"					
-"2024-01-11","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","2038.50"					
-"2024-01-11","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","2018.50"					
-"2024-01-11","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","1996.50"					
-"2024-01-12","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Restaurant","1936.50"					
-"2024-01-12","Parking Fee","Debit","-15.00","Transport","Debit Card","Parking Garage","1921.50"					
-"2024-01-13","New Book","Debit","-18.00","Entertainment","Debit Card","Bookstore","1903.50"					
-"2024-01-13","Lunch with Friends","Debit","-30.00","Food & Drink","Debit Card","Café","1873.50"					
-"2024-01-14","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","1823.50"					
-"2024-01-14","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","1723.50"					
-"2024-01-15","Final Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","3223.50"					
-"2024-01-15","Dinner Out","Debit","-45.00","Food & Drink","Debit Card","Restaurant","3178.50"					
-"2024-01-15","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","3118.50"					
-"2024-01-15","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","3088.50"					
-"2024-01-15","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","3043.50"					
-"2024-01-15","Pet Supplies","Debit","-35.00","Pets","Debit Card","Pet Store","3008.50"					
-"2024-01-15","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","2988.50"					
-"2024-01-15","Laundry Service","Debit","-25.00","Personal Care","Debit Card","Laundromat","2963.50"							
-"2024-01-16","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","2913.50"					
-"2024-01-16","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","2909.00"					
-"2024-01-16","Dinner Out","Debit","-30.00","Food & Drink","Debit Card","Restaurant","2879.00"					
-"2024-01-17","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","2839.00"					
-"2024-01-17","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","2819.00"					
-"2024-01-18","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","2809.00"					
-"2024-01-18","New Book","Debit","-18.00","Entertainment","Debit Card","Bookstore","2791.00"					
-"2024-01-18","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","2731.00"					
-"2024-01-19","Dinner with Friends","Debit","-75.00","Food & Drink","Debit Card","Restaurant","2656.00"					
-"2024-01-19","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","2556.00"					
-"2024-01-20","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","4056.00"					
-"2024-01-20","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","4031.00"					
-"2024-01-20","Lunch Out","Debit","-12.00","Food & Drink","Debit Card","Diner","4019.00"					
-"2024-01-21","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","3979.00"					
-"2024-01-21","New Shoes","Debit","-75.00","Clothing","Debit Card","Shoe Store","3904.00"					
-"2024-01-22","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","3879.00"					
-"2024-01-22","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","3867.00"					
-"2024-01-23","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","3837.00"					
-"2024-01-23","Dinner Out","Debit","-60.00","Food & Drink","Debit Card","Restaurant","3777.00"					
-"2024-01-24","Parking Fee","Debit","-15.00","Transport","Debit Card","Parking Garage","3762.00"					
-"2024-01-24","Quick Lunch","Debit","-8.00","Food & Drink","Debit Card","Deli","3754.00"					
-"2024-01-25","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","3732.00"					
-"2024-01-25","New Phone Case","Debit","-25.00","Electronics","Debit Card","Electronics Store","3707.00"					
-"2024-01-26","Dinner with Friends","Debit","-75.00","Food & Drink","Debit Card","Restaurant","3632.00"					
-"2024-01-26","Pet Supplies","Debit","-35.00","Pets","Debit Card","Pet Store","3597.00"					
-"2024-01-27","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","3587.00"					
-"2024-01-27","Clothing Sale","Credit","-100.00","Clothing","Credit Card","Clothing Store","3687.00"					
-"2024-01-28","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","3667.00"					
-"2024-01-28","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","3627.00"					
-"2024-01-29","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","3577.00"					
-"2024-01-29","Online Purchase","Debit","-70.00","Electronics","Debit Card","Online Store","3507.00"					
-"2024-01-30","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","3482.00"					
-"2024-01-30","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","3477.50"					
-"2024-01-31","Final Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","3977.50"					
-"2024-01-31","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","3917.50"					
-"2024-01-31","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","3887.50"					
-"2024-01-31","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","3842.50"					
-"2024-02-01","Grocery Shopping","Debit","-55.00","Groceries","Debit Card","Supermarket","3787.50"					
-"2024-02-01","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","3783.00"					
-"2024-02-01","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","3748.00"					
-"2024-02-02","Gas for Car","Debit","-45.00","Transport","Debit Card","Gas Station","3703.00"					
-"2024-02-02","Lunch with Friends","Debit","-20.00","Food & Drink","Debit Card","Café","3683.00"					
-"2024-02-03","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","3658.00"					
-"2024-02-03","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","3640.00"					
-"2024-02-03","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","3630.00"					
-"2024-02-04","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","4130.00"					
-"2024-02-04","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","4080.00"					
-"2024-02-04","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","4055.00"					
-"2024-02-05","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","4015.00"					
-"2024-02-05","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","4003.00"					
-"2024-02-06","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","3943.00"					
-"2024-02-06","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","3868.00"					
-"2024-02-07","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","3863.00"					
-"2024-02-07","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","3888.00"					
-"2024-02-08","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","3873.00"					
-"2024-02-08","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","3843.00"					
-"2024-02-09","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","3823.00"					
-"2024-02-09","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","3801.00"					
-"2024-02-10","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","3741.00"					
-"2024-02-10","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","3641.00"					
-"2024-02-11","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","5141.00"					
-"2024-02-11","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","5111.00"					
-"2024-02-12","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","5051.00"					
-"2024-02-12","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","5006.00"					
-"2024-02-13","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","4981.00"					
-"2024-02-13","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","4976.50"					
-"2024-02-14","Valentine's Gift","Debit","-70.00","Gifts","Debit Card","Gift Shop","4906.50"					
-"2024-02-14","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","4856.50"					
-"2024-02-15","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","4776.50"					
-"2024-02-15","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","4736.50"					
-"2024-02-15","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","4716.50"					
-"2024-02-15","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","4706.50"					
-"2024-02-16","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","4656.50"					
-"2024-02-16","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","4652.00"					
-"2024-02-16","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","4617.00"					
-"2024-02-17","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","4577.00"					
-"2024-02-17","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","4552.00"					
-"2024-02-18","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","4522.00"					
-"2024-02-18","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","4504.00"					
-"2024-02-18","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","4494.00"					
-"2024-02-19","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","5994.00"					
-"2024-02-19","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","5944.00"					
-"2024-02-19","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","5919.00"					
-"2024-02-20","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","5879.00"					
-"2024-02-20","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","5867.00"					
-"2024-02-21","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","5807.00"					
-"2024-02-21","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","5732.00"					
-"2024-02-22","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","5727.00"					
-"2024-02-22","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","5752.00"					
-"2024-02-23","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","5737.00"					
-"2024-02-23","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","5707.00"					
-"2024-02-24","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","5687.00"					
-"2024-02-24","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","5665.00"					
-"2024-02-25","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","5605.00"					
-"2024-02-25","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","5505.00"					
-"2024-02-26","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","7005.00"					
-"2024-02-26","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","6975.00"					
-"2024-02-27","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","6915.00"					
-"2024-02-27","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","6860.00"					
-"2024-02-28","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","6835.00"					
-"2024-02-28","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","6830.50"					
-"2024-02-29","Valentine's Gift Refund","Credit","-70.00","Gifts","Credit Card","Gift Shop","6900.50"					
-"2024-02-29","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","6850.50"					
-"2024-02-29","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","6810.50"					
-"2024-02-29","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","6730.50"					
-"2024-02-29","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","6710.50"					
-"2024-02-29","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","6700.50"					
-"2024-03-01","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","6650.50"					
-"2024-03-01","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","6646.00"					
-"2024-03-01","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","6111.00"					
-"2024-03-01","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","6129.00"					
-"2024-03-01","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","6069.00"					
-"2024-03-02","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","6029.00"					
-"2024-03-02","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","6004.00"					
-"2024-03-02","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","5959.00"					
-"2024-03-03","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","5929.00"					
-"2024-03-03","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","5919.00"					
-"2024-03-04","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","7419.00"					
-"2024-03-04","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","7369.00"					
-"2024-03-04","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","7344.00"					
-"2024-03-04","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","7332.00"					
-"2024-03-05","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","7292.00"					
-"2024-03-05","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","7277.00"					
-"2024-03-06","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","7217.00"					
-"2024-03-06","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","7142.00"					
-"2024-03-06","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","7042.00"					
-"2024-03-07","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","7037.00"					
-"2024-03-07","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","7062.00"					
-"2024-03-08","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","7047.00"					
-"2024-03-08","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","7017.00"					
-"2024-03-09","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","6997.00"					
-"2024-03-09","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","6975.00"					
-"2024-03-10","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","6915.00"					
-"2024-03-10","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","6885.00"					
-"2024-03-11","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","8385.00"					
-"2024-03-11","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","8335.00"					
-"2024-03-11","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","8275.00"					
-"2024-03-12","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","8230.00"					
-"2024-03-12","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","8205.00"					
-"2024-03-13","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","8200.50"					
-"2024-03-13","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","8160.50"					
-"2024-03-14","Spring Cleaning Supplies","Debit","-30.00","Home","Debit Card","Home Goods Store","8130.50"					
-"2024-03-14","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","8080.50"					
-"2024-03-14","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","8000.50"					
-"2024-03-15","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","7980.50"					
-"2024-03-15","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","7970.50"					
-"2024-03-15","New Gadgets","Debit","-100.00","Electronics","Debit Card","Tech Store","7870.50"					
-"2024-03-15","Charity Fundraiser","Debit","-50.00","Miscellaneous","Debit Card","Charity","7820.50"							
-"2024-03-16","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","7770.50"					
-"2024-03-16","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","7766.00"					
-"2024-03-16","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","7731.00"					
-"2024-03-16","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","7706.00"					
-"2024-03-16","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","7688.00"					
-"2024-03-17","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","7648.00"					
-"2024-03-17","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","7203.00"					
-"2024-03-17","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","7143.00"					
-"2024-03-18","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","7113.00"					
-"2024-03-18","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","7103.00"					
-"2024-03-19","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","8603.00"					
-"2024-03-19","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","8553.00"					
-"2024-03-19","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","8528.00"					
-"2024-03-19","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","8516.00"					
-"2024-03-20","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","8476.00"					
-"2024-03-20","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","8461.00"					
-"2024-03-21","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","8386.00"					
-"2024-03-21","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","8286.00"					
-"2024-03-22","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","8281.00"					
-"2024-03-22","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","8306.00"					
-"2024-03-23","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","8291.00"					
-"2024-03-23","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","8261.00"					
-"2024-03-24","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","8241.00"					
-"2024-03-24","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","8219.00"					
-"2024-03-25","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","8159.00"					
-"2024-03-25","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","8129.00"					
-"2024-03-26","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","9629.00"					
-"2024-03-26","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","9579.00"					
-"2024-03-26","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","9519.00"					
-"2024-03-27","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","9474.00"					
-"2024-03-27","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","9449.00"					
-"2024-03-28","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","9444.50"					
-"2024-03-28","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","9404.50"					
-"2024-03-29","Spring Cleaning Supplies","Debit","-30.00","Home","Debit Card","Home Goods Store","9374.50"					
-"2024-03-29","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","9324.50"					
-"2024-03-30","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","9244.50"					
-"2024-03-30","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","9224.50"					
-"2024-03-31","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","9214.50"					
-"2024-03-31","Charity Fundraiser","Debit","-50.00","Miscellaneous","Debit Card","Charity","9164.50"					
-"2024-03-31","New Gadgets","Debit","-100.00","Electronics","Debit Card","Tech Store","9064.50"					
-"2024-04-01","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","9014.50"					
-"2024-04-01","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","9010.00"					
-"2024-04-01","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","8975.00"					
-"2024-04-01","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","8957.00"					
-"2024-04-01","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","8897.00"					
-"2024-04-02","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","8857.00"					
-"2024-04-02","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","8832.00"					
-"2024-04-02","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","8387.00"					
-"2024-04-03","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","8357.00"					
-"2024-04-03","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","8347.00"					
-"2024-04-04","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","9847.00"					
-"2024-04-04","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","9797.00"					
-"2024-04-04","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","9772.00"					
-"2024-04-04","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","9759.00"					
-"2024-04-05","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","9719.00"					
-"2024-04-05","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","9704.00"					
-"2024-04-06","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","9629.00"					
-"2024-04-06","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","9529.00"					
-"2024-04-07","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","9524.00"					
-"2024-04-07","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","9549.00"					
-"2024-04-08","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","9534.00"					
-"2024-04-08","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","9504.00"					
-"2024-04-09","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","9484.00"					
-"2024-04-09","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","9462.00"					
-"2024-04-10","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","9402.00"					
-"2024-04-10","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","9372.00"					
-"2024-04-11","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","10872.00"					
-"2024-04-11","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","10822.00"					
-"2024-04-11","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","10762.00"					
-"2024-04-12","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","10717.00"					
-"2024-04-12","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","10692.00"					
-"2024-04-13","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","10687.50"					
-"2024-04-13","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","10647.50"					
-"2024-04-14","Spring Cleaning Supplies","Debit","-30.00","Home","Debit Card","Home Goods Store","10617.50"					
-"2024-04-14","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","10567.50"					
-"2024-04-14","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","10487.50"					
-"2024-04-15","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","10467.50"					
-"2024-04-15","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","10457.50"					
-"2024-04-15","New Gadgets","Debit","-100.00","Electronics","Debit Card","Tech Store","10357.50"					
-"2024-04-15","Charity Fundraiser","Debit","-50.00","Miscellaneous","Debit Card","Charity","10307.50"								
-"2024-04-16","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","10257.50"					
-"2024-04-16","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","10253.00"					
-"2024-04-16","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","10218.00"					
-"2024-04-16","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","10193.00"					
-"2024-04-16","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","10175.00"					
-"2024-04-17","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","10135.00"					
-"2024-04-17","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","10090.00"					
-"2024-04-17","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","10030.00"					
-"2024-04-18","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","10000.00"					
-"2024-04-18","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","9980.00"					
-"2024-04-19","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","11480.00"					
-"2024-04-19","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","11430.00"					
-"2024-04-19","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","11305.00"					
-"2024-04-19","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","11293.00"					
-"2024-04-20","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","11253.00"					
-"2024-04-20","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","11238.00"					
-"2024-04-21","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","11163.00"					
-"2024-04-21","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","11063.00"					
-"2024-04-22","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","11058.00"					
-"2024-04-22","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","11083.00"					
-"2024-04-23","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","11068.00"					
-"2024-04-23","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","11038.00"					
-"2024-04-24","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","11018.00"					
-"2024-04-24","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","10996.00"					
-"2024-04-25","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","10936.00"					
-"2024-04-25","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","10906.00"					
-"2024-04-26","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","12406.00"					
-"2024-04-26","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","12356.00"					
-"2024-04-26","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","12306.00"					
-"2024-04-27","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","12261.00"					
-"2024-04-27","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","12236.00"					
-"2024-04-28","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","12231.50"					
-"2024-04-28","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","12191.50"					
-"2024-04-29","Spring Cleaning Supplies","Debit","-30.00","Home","Debit Card","Home Goods Store","12161.50"					
-"2024-04-29","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","12111.50"					
-"2024-04-30","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","12031.50"					
-"2024-04-30","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","12011.50"					
-"2024-04-30","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","12001.50"					
-"2024-04-30","Charity Fundraiser","Debit","-50.00","Miscellaneous","Debit Card","Charity","11951.50"				
-"2024-05-01","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","11901.50"
-"2024-05-01","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","11897.00"
-"2024-05-01","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","11862.00"
-"2024-05-01","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","11837.00"
-"2024-05-01","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","11819.00"
-"2024-05-02","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","11779.00"
-"2024-05-02","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","11734.00"
-"2024-05-02","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","11674.00"
-"2024-05-03","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","11644.00"
-"2024-05-03","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","11634.00"
-"2024-05-04","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","13134.00"
-"2024-05-04","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","13084.00"
-"2024-05-04","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","13059.00"
-"2024-05-04","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","13047.00"
-"2024-05-05","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","13007.00"
-"2024-05-05","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","12992.00"
-"2024-05-06","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","12917.00"
-"2024-05-06","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","12817.00"
-"2024-05-07","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","12812.00"
-"2024-05-07","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","12837.00"
-"2024-05-08","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","12822.00"
-"2024-05-08","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","12792.00"
-"2024-05-09","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","12772.00"
-"2024-05-09","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","12750.00"
-"2024-05-10","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","12690.00"
-"2024-05-10","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","12660.00"
-"2024-05-11","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","14160.00"
-"2024-05-11","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","14110.00"
-"2024-05-11","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","14050.00"
-"2024-05-12","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","14005.00"
-"2024-05-12","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","13980.00"
-"2024-05-13","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","13975.50"
-"2024-05-13","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","13935.50"
-"2024-05-14","Spring Cleaning Supplies","Debit","-30.00","Home","Debit Card","Home Goods Store","13905.50"
-"2024-05-14","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","13855.50"
-"2024-05-14","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","13775.50"
-"2024-05-15","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","13755.50"
-"2024-05-15","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","13745.50"
-"2024-05-15","New Gadgets","Debit","-100.00","Electronics","Debit Card","Tech Store","13645.50"
-"2024-05-15","Charity Fundraiser","Debit","-50.00","Miscellaneous","Debit Card","Charity","13595.50"
-"2024-05-16","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","13545.50"
-"2024-05-16","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","13541.00"
-"2024-05-16","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","13506.00"
-"2024-05-16","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","13481.00"
-"2024-05-16","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","13463.00"
-"2024-05-17","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","13423.00"
-"2024-05-17","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","13378.00"
-"2024-05-17","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","13318.00"
-"2024-05-18","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","13288.00"
-"2024-05-18","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","13278.00"
-"2024-05-19","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","14778.00"
-"2024-05-19","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","14728.00"
-"2024-05-19","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","14693.00"
-"2024-05-19","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","14681.00"
-"2024-05-20","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","14641.00"
-"2024-05-20","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","14626.00"
-"2024-05-21","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","14551.00"
-"2024-05-21","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","14451.00"
-"2024-05-22","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","14446.00"
-"2024-05-22","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","14471.00"
-"2024-05-23","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","14456.00"
-"2024-05-23","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","14426.00"
-"2024-05-24","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","14406.00"
-"2024-05-24","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","14384.00"
-"2024-05-25","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","14324.00"
-"2024-05-25","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","14294.00"
-"2024-05-26","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","15794.00"
-"2024-05-26","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","15744.00"
-"2024-05-26","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","15684.00"
-"2024-05-27","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","15639.00"
-"2024-05-27","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","15614.00"
-"2024-05-28","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","15609.50"
-"2024-05-28","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","15569.50"
-"2024-05-29","Spring Cleaning Supplies","Debit","-30.00","Home","Debit Card","Home Goods Store","15539.50"
-"2024-05-29","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","15489.50"
-"2024-05-29","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","15409.50"
-"2024-05-30","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","15389.50"
-"2024-05-30","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","15379.50"
-"2024-05-30","New Gadgets","Debit","-100.00","Electronics","Debit Card","Tech Store","15279.50"
-"2024-05-31","Charity Fundraiser","Debit","-50.00","Miscellaneous","Debit Card","Charity","15229.50"
-"2024-06-01","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","15179.50"
-"2024-06-01","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","15175.00"
-"2024-06-01","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","15140.00"
-"2024-06-01","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","15115.00"
-"2024-06-01","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","15097.00"
-"2024-06-02","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","15057.00"
-"2024-06-02","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","15012.00"
-"2024-06-02","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","14952.00"
-"2024-06-03","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","14922.00"
-"2024-06-03","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","14912.00"
-"2024-06-04","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","16412.00"
-"2024-06-04","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","16362.00"
-"2024-06-04","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","16337.00"
-"2024-06-04","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","16325.00"
-"2024-06-05","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","16285.00"
-"2024-06-05","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","16270.00"
-"2024-06-06","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","16295.00"
-"2024-06-06","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","16195.00"
-"2024-06-07","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","16190.00"
-"2024-06-07","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","16215.00"
-"2024-06-08","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","16200.00"
-"2024-06-08","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","16170.00"
-"2024-06-09","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","16150.00"
-"2024-06-09","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","16128.00"
-"2024-06-10","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","16068.00"
-"2024-06-10","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","16038.00"
-"2024-06-11","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","17538.00"
-"2024-06-11","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","17488.00"
-"2024-06-11","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","17428.00"
-"2024-06-12","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","17383.00"
-"2024-06-12","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","17358.00"
-"2024-06-13","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","17353.50"
-"2024-06-13","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","17313.50"
-"2024-06-14","Spring Cleaning Supplies","Debit","-30.00","Home","Debit Card","Home Goods Store","17283.50"
-"2024-06-14","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","17233.50"
-"2024-06-14","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","17153.50"
-"2024-06-15","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","17133.50"
-"2024-06-15","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","17123.50"
-"2024-06-15","New Gadgets","Debit","-100.00","Electronics","Debit Card","Tech Store","17023.50"
-"2024-06-15","Charity Fundraiser","Debit","-50.00","Miscellaneous","Debit Card","Charity","16973.50"
-"2024-06-16","Grocery Shopping","Debit","-50.00","Groceries","Debit Card","Supermarket","16923.50"
-"2024-06-16","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","16919.00"
-"2024-06-16","Dinner Out","Debit","-35.00","Food & Drink","Debit Card","Restaurant","16884.00"
-"2024-06-16","Lunch with Friends","Debit","-25.00","Food & Drink","Debit Card","Café","16859.00"
-"2024-06-16","Book Purchase","Debit","-18.00","Entertainment","Debit Card","Bookstore","16841.00"
-"2024-06-17","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","16801.00"
-"2024-06-17","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","16756.00"
-"2024-06-17","Clothing Purchase","Debit","-60.00","Clothing","Debit Card","Clothing Store","16706.00"
-"2024-06-18","Charity Donation","Debit","-30.00","Miscellaneous","Debit Card","Charity Organization","16676.00"
-"2024-06-18","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","16666.00"
-"2024-06-19","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","18166.00"
-"2024-06-19","Dinner with Colleagues","Debit","-50.00","Food & Drink","Debit Card","Restaurant","18116.00"
-"2024-06-19","Movie Tickets","Debit","-25.00","Entertainment","Debit Card","Cinema","18091.00"
-"2024-06-19","Coffee Subscription","Debit","-12.00","Food & Drink","Debit Card","Coffee Shop","18079.00"
-"2024-06-20","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","18039.00"
-"2024-06-20","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","18024.00"
-"2024-06-21","Dinner Out","Debit","-75.00","Food & Drink","Debit Card","Restaurant","17949.00"
-"2024-06-21","Online Course","Debit","-100.00","Education","Debit Card","Online Platform","17849.00"
-"2024-06-22","Public Transport","Debit","-5.00","Transport","Debit Card","Metro","17844.00"
-"2024-06-22","New Phone Case","Credit","-25.00","Electronics","Credit Card","Electronics Store","17869.00"
-"2024-06-23","Lunch Out","Debit","-15.00","Food & Drink","Debit Card","Diner","17854.00"
-"2024-06-23","Haircut","Debit","-30.00","Personal Care","Debit Card","Barber","17824.00"
-"2024-06-24","Donation","Debit","-20.00","Miscellaneous","Debit Card","Charity","17804.00"
-"2024-06-24","Office Supplies","Debit","-22.00","Miscellaneous","Debit Card","Stationery Store","17782.00"
-"2024-06-25","Dinner with Friends","Debit","-60.00","Food & Drink","Debit Card","Restaurant","17722.00"
-"2024-06-25","Movie Night","Debit","-30.00","Entertainment","Debit Card","Cinema","17692.00"
-"2024-06-26","Biweekly Paycheck","Credit","1500.00","Income","Direct Deposit","Employer","19192.00"
-"2024-06-26","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","19142.00"
-"2024-06-26","Grocery Shopping","Debit","-60.00","Groceries","Debit Card","Supermarket","19082.00"
-"2024-06-27","Takeout Dinner","Debit","-45.00","Food & Drink","Debit Card","Restaurant","19037.00"
-"2024-06-27","Charity Donation","Debit","-25.00","Miscellaneous","Debit Card","Charity Organization","19012.00"
-"2024-06-28","Coffee","Debit","-4.50","Food & Drink","Debit Card","Coffee Shop","19007.50"
-"2024-06-28","Gas for Car","Debit","-40.00","Transport","Debit Card","Gas Station","18967.50"
-"2024-06-29","Spring Cleaning Supplies","Debit","-30.00","Home","Debit Card","Home Goods Store","18937.50"
-"2024-06-29","Dinner Out","Debit","-50.00","Food & Drink","Debit Card","Restaurant","18887.50"
-"2024-06-29","Online Purchase","Debit","-80.00","Electronics","Debit Card","Online Store","18807.50"
-"2024-06-30","Lunch with Colleagues","Debit","-20.00","Food & Drink","Debit Card","Café","18787.50"
-"2024-06-30","Monthly Subscription","Debit","-10.00","Entertainment","Debit Card","Streaming Service","18777.50"
-"2024-06-30","New Gadgets","Debit","-100.00","Electronics","Debit Card","Tech Store","18677.50"
-2024-06-30,"Charity Fundraiser","Debit","-50.00","Miscellaneous","Debit Card","Charity","18627.50"
+Date,Description,Transaction Type,Amount,Category,Payment Method,Merchant,Balance
+2024-01-01,Grocery Shopping,Debit,-45.67,Groceries,Debit Card,Supermarket,1000.00					
+2024-01-01,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,995.50					
+2024-01-01,Gym Membership,Debit,-30.00,Health & Fitness,Debit Card,Gym,965.50					
+2024-01-02,Utilities Bill,Debit,-150.00,Utilities,Debit Card,Electric Company,815.50					
+2024-01-02,Lunch Out,Debit,-12.00,Food & Drink,Debit Card,Diner,803.50					
+2024-01-02,Books Purchase,Debit,-25.00,Entertainment,Debit Card,Bookstore,778.50					
+2024-01-03,Gas Station,Debit,-35.00,Transport,Debit Card,Gas Station,743.50					
+2024-01-03,New Shoes,Credit,-75.00,Clothing,Credit Card,Shoe Store,818.50					
+2024-01-04,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,2318.50					
+2024-01-04,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,2293.50					
+2024-01-04,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,2243.50					
+2024-01-05,Book Purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,2228.50					
+2024-01-05,Household Supplies,Debit,-20.00,Groceries,Debit Card,Store,2208.50					
+2024-01-06,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,2196.50					
+2024-01-06,Birthday Gift,Debit,-60.00,Gifts,Debit Card,Gift Shop,2136.50					
+2024-01-06,Lunch with Friends,Debit,-30.00,Food & Drink,Debit Card,Café,2106.50					
+2024-01-07,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,2101.50					
+2024-01-07,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,2126.50					
+2024-01-08,Dinner with Friends,Debit,-75.00,Food & Drink,Debit Card,Restaurant,2051.50					
+2024-01-08,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,2011.50					
+2024-01-09,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,2001.50					
+2024-01-09,Quick Lunch,Debit,-8.00,Food & Drink,Debit Card,Deli,1993.50					
+2024-01-10,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,1968.50					
+2024-01-10,Clothing Sale,Credit,-100.00,Clothing,Credit Card,Clothing Store,2068.50					
+2024-01-11,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,2038.50					
+2024-01-11,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,2018.50					
+2024-01-11,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,1996.50					
+2024-01-12,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Restaurant,1936.50					
+2024-01-12,Parking Fee,Debit,-15.00,Transport,Debit Card,Parking Garage,1921.50					
+2024-01-13,New Book,Debit,-18.00,Entertainment,Debit Card,Bookstore,1903.50					
+2024-01-13,Lunch with Friends,Debit,-30.00,Food & Drink,Debit Card,Café,1873.50					
+2024-01-14,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,1823.50					
+2024-01-14,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,1723.50					
+2024-01-15,Final Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,3223.50					
+2024-01-15,Dinner Out,Debit,-45.00,Food & Drink,Debit Card,Restaurant,3178.50					
+2024-01-15,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,3118.50					
+2024-01-15,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,3088.50					
+2024-01-15,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,3043.50					
+2024-01-15,Pet Supplies,Debit,-35.00,Pets,Debit Card,Pet Store,3008.50					
+2024-01-15,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,2988.50					
+2024-01-15,Laundry Service,Debit,-25.00,Personal Care,Debit Card,Laundromat,2963.50							
+2024-01-16,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,2913.50					
+2024-01-16,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,2909.00					
+2024-01-16,Dinner Out,Debit,-30.00,Food & Drink,Debit Card,Restaurant,2879.00					
+2024-01-17,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,2839.00					
+2024-01-17,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,2819.00					
+2024-01-18,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,2809.00					
+2024-01-18,New Book,Debit,-18.00,Entertainment,Debit Card,Bookstore,2791.00					
+2024-01-18,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,2731.00					
+2024-01-19,Dinner with Friends,Debit,-75.00,Food & Drink,Debit Card,Restaurant,2656.00					
+2024-01-19,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,2556.00					
+2024-01-20,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,4056.00					
+2024-01-20,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,4031.00					
+2024-01-20,Lunch Out,Debit,-12.00,Food & Drink,Debit Card,Diner,4019.00					
+2024-01-21,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,3979.00					
+2024-01-21,New Shoes,Debit,-75.00,Clothing,Debit Card,Shoe Store,3904.00					
+2024-01-22,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,3879.00					
+2024-01-22,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,3867.00					
+2024-01-23,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,3837.00					
+2024-01-23,Dinner Out,Debit,-60.00,Food & Drink,Debit Card,Restaurant,3777.00					
+2024-01-24,Parking Fee,Debit,-15.00,Transport,Debit Card,Parking Garage,3762.00					
+2024-01-24,Quick Lunch,Debit,-8.00,Food & Drink,Debit Card,Deli,3754.00					
+2024-01-25,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,3732.00					
+2024-01-25,New Phone Case,Debit,-25.00,Electronics,Debit Card,Electronics Store,3707.00					
+2024-01-26,Dinner with Friends,Debit,-75.00,Food & Drink,Debit Card,Restaurant,3632.00					
+2024-01-26,Pet Supplies,Debit,-35.00,Pets,Debit Card,Pet Store,3597.00					
+2024-01-27,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,3587.00					
+2024-01-27,Clothing Sale,Credit,-100.00,Clothing,Credit Card,Clothing Store,3687.00					
+2024-01-28,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,3667.00					
+2024-01-28,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,3627.00					
+2024-01-29,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,3577.00					
+2024-01-29,Online Purchase,Debit,-70.00,Electronics,Debit Card,Online Store,3507.00					
+2024-01-30,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,3482.00					
+2024-01-30,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,3477.50					
+2024-01-31,Final Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,3977.50					
+2024-01-31,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,3917.50					
+2024-01-31,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,3887.50					
+2024-01-31,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,3842.50					
+2024-02-01,Grocery Shopping,Debit,-55.00,Groceries,Debit Card,Supermarket,3787.50					
+2024-02-01,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,3783.00					
+2024-02-01,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,3748.00					
+2024-02-02,Gas for Car,Debit,-45.00,Transport,Debit Card,Gas Station,3703.00					
+2024-02-02,Lunch with Friends,Debit,-20.00,Food & Drink,Debit Card,Café,3683.00					
+2024-02-03,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,3658.00					
+2024-02-03,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,3640.00					
+2024-02-03,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,3630.00					
+2024-02-04,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,4130.00					
+2024-02-04,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,4080.00					
+2024-02-04,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,4055.00					
+2024-02-05,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,4015.00					
+2024-02-05,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,4003.00					
+2024-02-06,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,3943.00					
+2024-02-06,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,3868.00					
+2024-02-07,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,3863.00					
+2024-02-07,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,3888.00					
+2024-02-08,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,3873.00					
+2024-02-08,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,3843.00					
+2024-02-09,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,3823.00					
+2024-02-09,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,3801.00					
+2024-02-10,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,3741.00					
+2024-02-10,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,3641.00					
+2024-02-11,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,5141.00					
+2024-02-11,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,5111.00					
+2024-02-12,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,5051.00					
+2024-02-12,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,5006.00					
+2024-02-13,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,4981.00					
+2024-02-13,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,4976.50					
+2024-02-14,Valentine's Gift,Debit,-70.00,Gifts,Debit Card,Gift Shop,4906.50					
+2024-02-14,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,4856.50					
+2024-02-15,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,4776.50					
+2024-02-15,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,4736.50					
+2024-02-15,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,4716.50					
+2024-02-15,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,4706.50					
+2024-02-16,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,4656.50					
+2024-02-16,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,4652.00					
+2024-02-16,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,4617.00					
+2024-02-17,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,4577.00					
+2024-02-17,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,4552.00					
+2024-02-18,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,4522.00					
+2024-02-18,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,4504.00					
+2024-02-18,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,4494.00					
+2024-02-19,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,5994.00					
+2024-02-19,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,5944.00					
+2024-02-19,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,5919.00					
+2024-02-20,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,5879.00					
+2024-02-20,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,5867.00					
+2024-02-21,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,5807.00					
+2024-02-21,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,5732.00					
+2024-02-22,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,5727.00					
+2024-02-22,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,5752.00					
+2024-02-23,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,5737.00					
+2024-02-23,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,5707.00					
+2024-02-24,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,5687.00					
+2024-02-24,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,5665.00					
+2024-02-25,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,5605.00					
+2024-02-25,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,5505.00					
+2024-02-26,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,7005.00					
+2024-02-26,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,6975.00					
+2024-02-27,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,6915.00					
+2024-02-27,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,6860.00					
+2024-02-28,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,6835.00					
+2024-02-28,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,6830.50					
+2024-02-29,Valentine's Gift Refund,Credit,-70.00,Gifts,Credit Card,Gift Shop,6900.50					
+2024-02-29,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,6850.50					
+2024-02-29,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,6810.50					
+2024-02-29,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,6730.50					
+2024-02-29,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,6710.50					
+2024-02-29,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,6700.50					
+2024-03-01,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,6650.50					
+2024-03-01,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,6646.00					
+2024-03-01,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,6111.00					
+2024-03-01,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,6129.00					
+2024-03-01,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,6069.00					
+2024-03-02,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,6029.00					
+2024-03-02,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,6004.00					
+2024-03-02,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,5959.00					
+2024-03-03,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,5929.00					
+2024-03-03,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,5919.00					
+2024-03-04,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,7419.00					
+2024-03-04,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,7369.00					
+2024-03-04,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,7344.00					
+2024-03-04,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,7332.00					
+2024-03-05,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,7292.00					
+2024-03-05,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,7277.00					
+2024-03-06,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,7217.00					
+2024-03-06,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,7142.00					
+2024-03-06,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,7042.00					
+2024-03-07,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,7037.00					
+2024-03-07,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,7062.00					
+2024-03-08,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,7047.00					
+2024-03-08,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,7017.00					
+2024-03-09,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,6997.00					
+2024-03-09,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,6975.00					
+2024-03-10,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,6915.00					
+2024-03-10,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,6885.00					
+2024-03-11,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,8385.00					
+2024-03-11,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,8335.00					
+2024-03-11,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,8275.00					
+2024-03-12,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,8230.00					
+2024-03-12,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,8205.00					
+2024-03-13,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,8200.50					
+2024-03-13,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,8160.50					
+2024-03-14,Spring Cleaning Supplies,Debit,-30.00,Home,Debit Card,Home Goods Store,8130.50					
+2024-03-14,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,8080.50					
+2024-03-14,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,8000.50					
+2024-03-15,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,7980.50					
+2024-03-15,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,7970.50					
+2024-03-15,New Gadgets,Debit,-100.00,Electronics,Debit Card,Tech Store,7870.50					
+2024-03-15,Charity Fundraiser,Debit,-50.00,Miscellaneous,Debit Card,Charity,7820.50							
+2024-03-16,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,7770.50					
+2024-03-16,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,7766.00					
+2024-03-16,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,7731.00					
+2024-03-16,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,7706.00					
+2024-03-16,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,7688.00					
+2024-03-17,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,7648.00					
+2024-03-17,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,7203.00					
+2024-03-17,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,7143.00					
+2024-03-18,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,7113.00					
+2024-03-18,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,7103.00					
+2024-03-19,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,8603.00					
+2024-03-19,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,8553.00					
+2024-03-19,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,8528.00					
+2024-03-19,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,8516.00					
+2024-03-20,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,8476.00					
+2024-03-20,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,8461.00					
+2024-03-21,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,8386.00					
+2024-03-21,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,8286.00					
+2024-03-22,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,8281.00					
+2024-03-22,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,8306.00					
+2024-03-23,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,8291.00					
+2024-03-23,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,8261.00					
+2024-03-24,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,8241.00					
+2024-03-24,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,8219.00					
+2024-03-25,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,8159.00					
+2024-03-25,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,8129.00					
+2024-03-26,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,9629.00					
+2024-03-26,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,9579.00					
+2024-03-26,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,9519.00					
+2024-03-27,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,9474.00					
+2024-03-27,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,9449.00					
+2024-03-28,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,9444.50					
+2024-03-28,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,9404.50					
+2024-03-29,Spring Cleaning Supplies,Debit,-30.00,Home,Debit Card,Home Goods Store,9374.50					
+2024-03-29,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,9324.50					
+2024-03-30,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,9244.50					
+2024-03-30,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,9224.50					
+2024-03-31,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,9214.50					
+2024-03-31,Charity Fundraiser,Debit,-50.00,Miscellaneous,Debit Card,Charity,9164.50					
+2024-03-31,New Gadgets,Debit,-100.00,Electronics,Debit Card,Tech Store,9064.50					
+2024-04-01,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,9014.50					
+2024-04-01,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,9010.00					
+2024-04-01,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,8975.00					
+2024-04-01,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,8957.00					
+2024-04-01,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,8897.00					
+2024-04-02,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,8857.00					
+2024-04-02,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,8832.00					
+2024-04-02,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,8387.00					
+2024-04-03,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,8357.00					
+2024-04-03,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,8347.00					
+2024-04-04,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,9847.00					
+2024-04-04,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,9797.00					
+2024-04-04,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,9772.00					
+2024-04-04,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,9759.00					
+2024-04-05,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,9719.00					
+2024-04-05,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,9704.00					
+2024-04-06,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,9629.00					
+2024-04-06,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,9529.00					
+2024-04-07,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,9524.00					
+2024-04-07,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,9549.00					
+2024-04-08,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,9534.00					
+2024-04-08,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,9504.00					
+2024-04-09,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,9484.00					
+2024-04-09,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,9462.00					
+2024-04-10,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,9402.00					
+2024-04-10,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,9372.00					
+2024-04-11,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,10872.00					
+2024-04-11,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,10822.00					
+2024-04-11,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,10762.00					
+2024-04-12,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,10717.00					
+2024-04-12,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,10692.00					
+2024-04-13,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,10687.50					
+2024-04-13,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,10647.50					
+2024-04-14,Spring Cleaning Supplies,Debit,-30.00,Home,Debit Card,Home Goods Store,10617.50					
+2024-04-14,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,10567.50					
+2024-04-14,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,10487.50					
+2024-04-15,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,10467.50					
+2024-04-15,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,10457.50					
+2024-04-15,New Gadgets,Debit,-100.00,Electronics,Debit Card,Tech Store,10357.50					
+2024-04-15,Charity Fundraiser,Debit,-50.00,Miscellaneous,Debit Card,Charity,10307.50								
+2024-04-16,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,10257.50					
+2024-04-16,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,10253.00					
+2024-04-16,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,10218.00					
+2024-04-16,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,10193.00					
+2024-04-16,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,10175.00					
+2024-04-17,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,10135.00					
+2024-04-17,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,10090.00					
+2024-04-17,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,10030.00					
+2024-04-18,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,10000.00					
+2024-04-18,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,9980.00					
+2024-04-19,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,11480.00					
+2024-04-19,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,11430.00					
+2024-04-19,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,11305.00					
+2024-04-19,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,11293.00					
+2024-04-20,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,11253.00					
+2024-04-20,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,11238.00					
+2024-04-21,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,11163.00					
+2024-04-21,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,11063.00					
+2024-04-22,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,11058.00					
+2024-04-22,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,11083.00					
+2024-04-23,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,11068.00					
+2024-04-23,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,11038.00					
+2024-04-24,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,11018.00					
+2024-04-24,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,10996.00					
+2024-04-25,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,10936.00					
+2024-04-25,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,10906.00					
+2024-04-26,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,12406.00					
+2024-04-26,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,12356.00					
+2024-04-26,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,12306.00					
+2024-04-27,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,12261.00					
+2024-04-27,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,12236.00					
+2024-04-28,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,12231.50					
+2024-04-28,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,12191.50					
+2024-04-29,Spring Cleaning Supplies,Debit,-30.00,Home,Debit Card,Home Goods Store,12161.50					
+2024-04-29,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,12111.50					
+2024-04-30,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,12031.50					
+2024-04-30,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,12011.50					
+2024-04-30,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,12001.50					
+2024-04-30,Charity Fundraiser,Debit,-50.00,Miscellaneous,Debit Card,Charity,11951.50				
+2024-05-01,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,11901.50
+2024-05-01,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,11897.00
+2024-05-01,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,11862.00
+2024-05-01,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,11837.00
+2024-05-01,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,11819.00
+2024-05-02,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,11779.00
+2024-05-02,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,11734.00
+2024-05-02,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,11674.00
+2024-05-03,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,11644.00
+2024-05-03,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,11634.00
+2024-05-04,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,13134.00
+2024-05-04,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,13084.00
+2024-05-04,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,13059.00
+2024-05-04,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,13047.00
+2024-05-05,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,13007.00
+2024-05-05,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,12992.00
+2024-05-06,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,12917.00
+2024-05-06,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,12817.00
+2024-05-07,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,12812.00
+2024-05-07,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,12837.00
+2024-05-08,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,12822.00
+2024-05-08,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,12792.00
+2024-05-09,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,12772.00
+2024-05-09,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,12750.00
+2024-05-10,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,12690.00
+2024-05-10,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,12660.00
+2024-05-11,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,14160.00
+2024-05-11,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,14110.00
+2024-05-11,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,14050.00
+2024-05-12,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,14005.00
+2024-05-12,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,13980.00
+2024-05-13,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,13975.50
+2024-05-13,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,13935.50
+2024-05-14,Spring Cleaning Supplies,Debit,-30.00,Home,Debit Card,Home Goods Store,13905.50
+2024-05-14,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,13855.50
+2024-05-14,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,13775.50
+2024-05-15,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,13755.50
+2024-05-15,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,13745.50
+2024-05-15,New Gadgets,Debit,-100.00,Electronics,Debit Card,Tech Store,13645.50
+2024-05-15,Charity Fundraiser,Debit,-50.00,Miscellaneous,Debit Card,Charity,13595.50
+2024-05-16,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,13545.50
+2024-05-16,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,13541.00
+2024-05-16,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,13506.00
+2024-05-16,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,13481.00
+2024-05-16,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,13463.00
+2024-05-17,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,13423.00
+2024-05-17,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,13378.00
+2024-05-17,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,13318.00
+2024-05-18,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,13288.00
+2024-05-18,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,13278.00
+2024-05-19,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,14778.00
+2024-05-19,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,14728.00
+2024-05-19,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,14693.00
+2024-05-19,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,14681.00
+2024-05-20,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,14641.00
+2024-05-20,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,14626.00
+2024-05-21,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,14551.00
+2024-05-21,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,14451.00
+2024-05-22,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,14446.00
+2024-05-22,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,14471.00
+2024-05-23,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,14456.00
+2024-05-23,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,14426.00
+2024-05-24,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,14406.00
+2024-05-24,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,14384.00
+2024-05-25,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,14324.00
+2024-05-25,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,14294.00
+2024-05-26,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,15794.00
+2024-05-26,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,15744.00
+2024-05-26,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,15684.00
+2024-05-27,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,15639.00
+2024-05-27,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,15614.00
+2024-05-28,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,15609.50
+2024-05-28,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,15569.50
+2024-05-29,Spring Cleaning Supplies,Debit,-30.00,Home,Debit Card,Home Goods Store,15539.50
+2024-05-29,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,15489.50
+2024-05-29,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,15409.50
+2024-05-30,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,15389.50
+2024-05-30,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,15379.50
+2024-05-30,New Gadgets,Debit,-100.00,Electronics,Debit Card,Tech Store,15279.50
+2024-05-31,Charity Fundraiser,Debit,-50.00,Miscellaneous,Debit Card,Charity,15229.50
+2024-06-01,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,15179.50
+2024-06-01,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,15175.00
+2024-06-01,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,15140.00
+2024-06-01,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,15115.00
+2024-06-01,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,15097.00
+2024-06-02,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,15057.00
+2024-06-02,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,15012.00
+2024-06-02,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,14952.00
+2024-06-03,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,14922.00
+2024-06-03,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,14912.00
+2024-06-04,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,16412.00
+2024-06-04,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,16362.00
+2024-06-04,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,16337.00
+2024-06-04,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,16325.00
+2024-06-05,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,16285.00
+2024-06-05,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,16270.00
+2024-06-06,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,16295.00
+2024-06-06,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,16195.00
+2024-06-07,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,16190.00
+2024-06-07,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,16215.00
+2024-06-08,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,16200.00
+2024-06-08,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,16170.00
+2024-06-09,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,16150.00
+2024-06-09,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,16128.00
+2024-06-10,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,16068.00
+2024-06-10,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,16038.00
+2024-06-11,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,17538.00
+2024-06-11,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,17488.00
+2024-06-11,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,17428.00
+2024-06-12,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,17383.00
+2024-06-12,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,17358.00
+2024-06-13,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,17353.50
+2024-06-13,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,17313.50
+2024-06-14,Spring Cleaning Supplies,Debit,-30.00,Home,Debit Card,Home Goods Store,17283.50
+2024-06-14,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,17233.50
+2024-06-14,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,17153.50
+2024-06-15,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,17133.50
+2024-06-15,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,17123.50
+2024-06-15,New Gadgets,Debit,-100.00,Electronics,Debit Card,Tech Store,17023.50
+2024-06-15,Charity Fundraiser,Debit,-50.00,Miscellaneous,Debit Card,Charity,16973.50
+2024-06-16,Grocery Shopping,Debit,-50.00,Groceries,Debit Card,Supermarket,16923.50
+2024-06-16,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,16919.00
+2024-06-16,Dinner Out,Debit,-35.00,Food & Drink,Debit Card,Restaurant,16884.00
+2024-06-16,Lunch with Friends,Debit,-25.00,Food & Drink,Debit Card,Café,16859.00
+2024-06-16,Book Purchase,Debit,-18.00,Entertainment,Debit Card,Bookstore,16841.00
+2024-06-17,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,16801.00
+2024-06-17,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,16756.00
+2024-06-17,Clothing Purchase,Debit,-60.00,Clothing,Debit Card,Clothing Store,16706.00
+2024-06-18,Charity Donation,Debit,-30.00,Miscellaneous,Debit Card,Charity Organization,16676.00
+2024-06-18,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,16666.00
+2024-06-19,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,18166.00
+2024-06-19,Dinner with Colleagues,Debit,-50.00,Food & Drink,Debit Card,Restaurant,18116.00
+2024-06-19,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema,18091.00
+2024-06-19,Coffee Subscription,Debit,-12.00,Food & Drink,Debit Card,Coffee Shop,18079.00
+2024-06-20,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,18039.00
+2024-06-20,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,18024.00
+2024-06-21,Dinner Out,Debit,-75.00,Food & Drink,Debit Card,Restaurant,17949.00
+2024-06-21,Online Course,Debit,-100.00,Education,Debit Card,Online Platform,17849.00
+2024-06-22,Public Transport,Debit,-5.00,Transport,Debit Card,Metro,17844.00
+2024-06-22,New Phone Case,Credit,-25.00,Electronics,Credit Card,Electronics Store,17869.00
+2024-06-23,Lunch Out,Debit,-15.00,Food & Drink,Debit Card,Diner,17854.00
+2024-06-23,Haircut,Debit,-30.00,Personal Care,Debit Card,Barber,17824.00
+2024-06-24,Donation,Debit,-20.00,Miscellaneous,Debit Card,Charity,17804.00
+2024-06-24,Office Supplies,Debit,-22.00,Miscellaneous,Debit Card,Stationery Store,17782.00
+2024-06-25,Dinner with Friends,Debit,-60.00,Food & Drink,Debit Card,Restaurant,17722.00
+2024-06-25,Movie Night,Debit,-30.00,Entertainment,Debit Card,Cinema,17692.00
+2024-06-26,Biweekly Paycheck,Credit,1500.00,Income,Direct Deposit,Employer,19192.00
+2024-06-26,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,19142.00
+2024-06-26,Grocery Shopping,Debit,-60.00,Groceries,Debit Card,Supermarket,19082.00
+2024-06-27,Takeout Dinner,Debit,-45.00,Food & Drink,Debit Card,Restaurant,19037.00
+2024-06-27,Charity Donation,Debit,-25.00,Miscellaneous,Debit Card,Charity Organization,19012.00
+2024-06-28,Coffee,Debit,-4.50,Food & Drink,Debit Card,Coffee Shop,19007.50
+2024-06-28,Gas for Car,Debit,-40.00,Transport,Debit Card,Gas Station,18967.50
+2024-06-29,Spring Cleaning Supplies,Debit,-30.00,Home,Debit Card,Home Goods Store,18937.50
+2024-06-29,Dinner Out,Debit,-50.00,Food & Drink,Debit Card,Restaurant,18887.50
+2024-06-29,Online Purchase,Debit,-80.00,Electronics,Debit Card,Online Store,18807.50
+2024-06-30,Lunch with Colleagues,Debit,-20.00,Food & Drink,Debit Card,Café,18787.50
+2024-06-30,Monthly Subscription,Debit,-10.00,Entertainment,Debit Card,Streaming Service,18777.50
+2024-06-30,New Gadgets,Debit,-100.00,Electronics,Debit Card,Tech Store,18677.50
+2024-06-30,Charity Fundraiser,Debit,-50.00,Miscellaneous,Debit Card,Charity,18627.50

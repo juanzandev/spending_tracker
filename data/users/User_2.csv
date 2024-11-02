@@ -1,459 +1,459 @@
-"Date","Description","Transaction Type","Amount","Category","Payment Method","Merchant","Balance"					
-"2024-01-01","Grocery shopping","Debit","-45.23","Groceries","Debit Card","Local Market","954.77"					
-"2024-01-01","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","950.27"					
-"2024-01-01","Monthly subscription","Debit","-12.99","Subscriptions","Credit Card","Streaming Service","937.28"					
-"2024-01-02","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","907.28"					
-"2024-01-02","Restaurant dinner","Debit","-58.75","Dining","Credit Card","Italian Bistro","848.53"					
-"2024-01-03","Book purchase","Debit","-15.99","Entertainment","Debit Card","Bookstore","832.54"					
-"2024-01-03","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","792.54"					
-"2024-01-03","Utility bill","Debit","-75.00","Utilities","Debit Card","Electric Company","717.54"					
-"2024-01-04","Online shopping","Debit","-100.00","Clothing","Credit Card","E-commerce Store","617.54"					
-"2024-01-04","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","612.54"					
-"2024-01-05","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","1812.54"					
-"2024-01-05","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","1797.54"					
-"2024-01-05","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","1767.54"					
-"2024-01-06","Groceries","Debit","-67.45","Groceries","Debit Card","Local Market","1700.09"					
-"2024-01-06","Gas station","Debit","-40.00","Transportation","Debit Card","Gas Station X","1660.09"					
-"2024-01-06","Takeout","Debit","-20.00","Dining","Credit Card","Chinese Restaurant","1640.09"					
-"2024-01-07","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","1627.59"					
-"2024-01-07","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","1617.60"					
-"2024-01-08","Household supplies","Debit","-30.50","Home","Debit Card","Local Store","1587.10"					
-"2024-01-08","Utility bill","Debit","-50.00","Utilities","Credit Card","Water Company","1537.10"					
-"2024-01-08","Snack shop","Debit","-8.75","Dining","Debit Card","Snack Shack","1528.35"					
-"2024-01-09","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","1483.35"					
-"2024-01-09","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","1479.35"					
-"2024-01-10","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","2679.35"					
-"2024-01-10","Restaurant dinner","Debit","-70.00","Dining","Credit Card","Steakhouse","2609.35"					
-"2024-01-10","Gym class","Debit","-15.00","Health","Debit Card","Fitness Club","2594.35"					
-"2024-01-11","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","2534.35"					
-"2024-01-11","Takeout","Debit","-25.00","Dining","Credit Card","Pizza Place","2509.35"					
-"2024-01-12","Home decor","Debit","-40.00","Home","Debit Card","Home Goods Store","2469.35"					
-"2024-01-12","Subscription renewal","Debit","-12.99","Subscriptions","Credit Card","Streaming Service","2456.36"					
-"2024-01-12","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","2451.36"					
-"2024-01-13","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","2416.36"					
-"2024-01-13","Lunch out","Debit","-20.00","Dining","Credit Card","Deli","2396.36"					
-"2024-01-13","Movie rental","Debit","-4.99","Entertainment","Debit Card","Video Store","2391.37"					
-"2024-01-14","Grocery shopping","Debit","-55.00","Groceries","Debit Card","Local Market","2336.37"					
-"2024-01-14","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","2326.37"					
-"2024-01-15","Utility bill","Debit","-60.00","Utilities","Debit Card","Electric Company","2266.37"					
-"2024-01-15","Fast food","Debit","-12.00","Dining","Credit Card","Fast Food Chain","2254.37"					
-"2024-01-15","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","2244.38"								
-"2024-01-16","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","3444.38"					
-"2024-01-16","Groceries","Debit","-65.00","Groceries","Debit Card","Local Market","3379.38"					
-"2024-01-16","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","3374.88"					
-"2024-01-17","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","3344.88"					
-"2024-01-17","Restaurant dinner","Debit","-55.00","Dining","Credit Card","Italian Bistro","3289.88"					
-"2024-01-18","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","3249.88"					
-"2024-01-18","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","3236.89"					
-"2024-01-19","Online shopping","Debit","-120.00","Clothing","Credit Card","E-commerce Store","3116.89"					
-"2024-01-19","Takeout","Debit","-20.00","Dining","Debit Card","Chinese Restaurant","3096.89"					
-"2024-01-20","Household supplies","Debit","-30.50","Home","Debit Card","Local Store","3066.39"					
-"2024-01-20","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","3058.39"					
-"2024-01-21","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","3008.39"					
-"2024-01-21","Utility bill","Debit","-75.00","Utilities","Credit Card","Water Company","2933.39"					
-"2024-01-21","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","2903.39"					
-"2024-01-22","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","2890.89"					
-"2024-01-22","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","2845.89"					
-"2024-01-23","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","4045.89"					
-"2024-01-23","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","4030.89"					
-"2024-01-23","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","3995.89"					
-"2024-01-24","Grocery shopping","Debit","-70.00","Groceries","Debit Card","Local Market","3925.89"					
-"2024-01-24","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","3920.89"					
-"2024-01-25","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","3910.90"					
-"2024-01-25","Takeout","Debit","-25.00","Dining","Credit Card","Pizza Place","3885.90"					
-"2024-01-26","Gym class","Debit","-15.00","Health","Debit Card","Fitness Club","3870.90"					
-"2024-01-26","Home decor","Debit","-40.00","Home","Debit Card","Home Goods Store","3830.90"					
-"2024-01-27","Utility bill","Debit","-60.00","Utilities","Debit Card","Electric Company","3770.90"					
-"2024-01-27","Lunch out","Debit","-20.00","Dining","Credit Card","Deli","3750.90"					
-"2024-01-27","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","3720.90"					
-"2024-01-28","Grocery shopping","Debit","-80.00","Groceries","Debit Card","Local Market","3640.90"					
-"2024-01-28","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","3630.90"					
-"2024-01-29","Online shopping","Debit","-100.00","Clothing","Credit Card","E-commerce Store","3530.90"					
-"2024-01-29","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","3518.90"					
-"2024-01-30","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","3514.90"					
-"2024-01-30","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","3504.91"					
-"2024-01-31","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","4704.91"					
-"2024-01-31","Utility bill","Debit","-60.00","Utilities","Debit Card","Water Company","4644.91"					
-"2024-01-31","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","4594.91"					
-"2024-01-31","Dinner out","Debit","-70.00","Dining","Credit Card","Steakhouse","4524.91"				
-"2024-02-01","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","5724.91"					
-"2024-02-01","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","5649.91"					
-"2024-02-01","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","5645.41"					
-"2024-02-01","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","5615.41"					
-"2024-02-02","Restaurant dinner","Debit","-60.00","Dining","Credit Card","Italian Bistro","5555.41"					
-"2024-02-02","Book purchase","Debit","-15.99","Entertainment","Debit Card","Bookstore","5539.42"					
-"2024-02-03","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","5464.42"					
-"2024-02-03","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","4424.42"					
-"2024-02-04","Online shopping","Debit","-150.00","Clothing","Credit Card","E-commerce Store","4314.42"					
-"2024-02-04","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","4289.42"					
-"2024-02-05","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","4276.92"					
-"2024-02-05","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","4216.92"					
-"2024-02-06","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","4208.92"					
-"2024-02-06","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","4173.92"					
-"2024-02-07","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","5373.92"					
-"2024-02-07","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","5358.92"					
-"2024-02-07","Utility bill","Debit","-50.00","Utilities","Credit Card","Water Company","5308.92"					
-"2024-02-08","Gym class","Debit","-15.00","Health","Debit Card","Fitness Club","5293.92"					
-"2024-02-08","Grocery shopping","Debit","-70.00","Groceries","Debit Card","Local Market","5223.92"					
-"2024-02-09","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","5218.92"					
-"2024-02-09","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","5205.93"					
-"2024-02-10","Dinner out","Debit","-65.00","Dining","Credit Card","Steakhouse","5140.93"					
-"2024-02-10","Online subscription","Debit","-12.99","Subscriptions","Credit Card","Streaming Service","5127.94"					
-"2024-02-11","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","5097.94"					
-"2024-02-11","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","5077.94"					
-"2024-02-12","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","5027.94"					
-"2024-02-12","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","5017.94"					
-"2024-02-13","Household supplies","Debit","-35.00","Home","Debit Card","Local Store","4982.94"					
-"2024-02-13","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","4952.94"					
-"2024-02-14","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","4937.94"					
-"2024-02-14","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","4892.94"					
-"2024-02-15","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","6092.94"					
-"2024-02-15","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","6088.94"					
-"2024-02-15","Grocery shopping","Debit","-65.00","Groceries","Debit Card","Local Market","6023.94"					
-"2024-02-15","Dinner out","Debit","-55.00","Dining","Credit Card","Italian Bistro","5968.94"					
-"2024-02-15","Utility bill","Debit","-60.00","Utilities","Debit Card","Electric Company","5908.94"					
-"2024-02-15","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","5868.94"					
-"2024-02-15","Online shopping","Debit","-80.00","Clothing","Credit Card","E-commerce Store","5788.94"					
-"2024-02-15","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","5773.94"					
-"2024-02-15","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","5748.94"					
-"2024-02-15","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","5738.95"									
-"2024-02-16","Groceries","Debit","-70.00","Groceries","Debit Card","Local Market","5668.95"					
-"2024-02-16","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","5664.45"					
-"2024-02-16","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","5634.45"					
-"2024-02-17","Dinner out","Debit","-65.00","Dining","Credit Card","Italian Bistro","5569.45"					
-"2024-02-17","Book purchase","Debit","-15.99","Entertainment","Debit Card","Bookstore","5553.46"					
-"2024-02-18","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","6753.46"					
-"2024-02-18","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","6678.46"					
-"2024-02-18","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","6653.46"					
-"2024-02-19","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","6593.46"					
-"2024-02-19","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","6153.46"					
-"2024-02-20","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","6145.46"					
-"2024-02-20","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","6130.46"					
-"2024-02-21","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","6095.46"					
-"2024-02-21","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","6083.46"					
-"2024-02-22","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","6033.46"					
-"2024-02-22","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","6023.47"					
-"2024-02-23","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","5993.47"					
-"2024-02-23","Dinner out","Debit","-60.00","Dining","Credit Card","Steakhouse","5933.47"					
-"2024-02-24","Utility bill","Debit","-50.00","Utilities","Debit Card","Water Company","5883.47"					
-"2024-02-24","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","5878.47"					
-"2024-02-25","Online shopping","Debit","-120.00","Clothing","Credit Card","E-commerce Store","5758.47"					
-"2024-02-25","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","5745.97"					
-"2024-02-26","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","5715.97"					
-"2024-02-26","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","5705.97"					
-"2024-02-27","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","6905.97"					
-"2024-02-27","Dinner out","Debit","-70.00","Dining","Credit Card","Italian Bistro","6835.97"					
-"2024-02-27","Utility bill","Debit","-60.00","Utilities","Debit Card","Electric Company","6775.97"					
-"2024-02-28","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","6700.97"					
-"2024-02-28","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","6696.47"					
-"2024-02-28","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","6681.47"					
-"2024-02-29","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","6641.47"					
-"2024-02-29","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","6628.48"					
-"2024-02-29","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","6603.48"					
-"2024-02-29","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","6573.48"					
-"2024-02-29","Dinner out","Debit","-55.00","Dining","Credit Card","Steakhouse","6518.48"					
-"2024-02-29","Online shopping","Debit","-80.00","Clothing","Credit Card","E-commerce Store","6438.48"			
-"2024-03-01","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","7638.48"					
-"2024-03-01","Grocery shopping","Debit","-80.00","Groceries","Debit Card","Local Market","7558.48"					
-"2024-03-01","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","7553.98"					
-"2024-03-01","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","7518.98"					
-"2024-03-02","Dinner out","Debit","-70.00","Dining","Credit Card","Italian Bistro","6448.98"					
-"2024-03-02","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","6435.99"					
-"2024-03-03","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","6360.99"					
-"2024-03-03","Online shopping","Debit","-150.00","Clothing","Credit Card","E-commerce Store","6210.99"					
-"2024-03-04","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","6185.99"					
-"2024-03-04","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","6145.99"					
-"2024-03-05","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","6130.99"					
-"2024-03-05","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","6070.99"					
-"2024-03-06","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","6062.99"					
-"2024-03-06","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","6032.99"					
-"2024-03-07","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","7232.99"					
-"2024-03-07","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","7217.99"					
-"2024-03-07","Utility bill","Debit","-50.00","Utilities","Credit Card","Water Company","7167.99"					
-"2024-03-08","Gym class","Debit","-15.00","Health","Debit Card","Fitness Club","7152.99"					
-"2024-03-08","Grocery shopping","Debit","-65.00","Groceries","Debit Card","Local Market","7087.99"					
-"2024-03-09","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","7082.99"					
-"2024-03-09","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","7073.00"					
-"2024-03-10","Dinner out","Debit","-60.00","Dining","Credit Card","Steakhouse","7013.00"					
-"2024-03-10","Online subscription","Debit","-12.99","Subscriptions","Credit Card","Streaming Service","7000.01"					
-"2024-03-11","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","6965.01"					
-"2024-03-11","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","6945.01"					
-"2024-03-12","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","6895.01"					
-"2024-03-12","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","6885.01"					
-"2024-03-13","Household supplies","Debit","-30.00","Home","Debit Card","Local Store","6855.01"					
-"2024-03-13","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","6825.01"					
-"2024-03-14","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","6812.51"					
-"2024-03-14","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","6767.51"					
-"2024-03-15","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","7967.51"					
-"2024-03-15","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","7963.51"					
-"2024-03-15","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","8888.51"					
-"2024-03-15","Dinner out","Debit","-50.00","Dining","Credit Card","Italian Bistro","7888.51"					
-"2024-03-15","Utility bill","Debit","-60.00","Utilities","Debit Card","Electric Company","7828.51"					
-"2024-03-15","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","7788.51"					
-"2024-03-15","Online shopping","Debit","-80.00","Clothing","Credit Card","E-commerce Store","7708.51"					
-"2024-03-15","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","7693.51"					
-"2024-03-15","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","7668.51"					
-"2024-03-15","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","7658.52"				
-"2024-03-16","Groceries","Debit","-70.00","Groceries","Debit Card","Local Market","7588.52"					
-"2024-03-16","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","7584.02"					
-"2024-03-16","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","7554.02"					
-"2024-03-17","Dinner out","Debit","-65.00","Dining","Credit Card","Italian Bistro","6489.02"					
-"2024-03-17","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","6476.03"					
-"2024-03-18","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","7676.03"					
-"2024-03-18","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","7601.03"					
-"2024-03-18","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","7576.03"					
-"2024-03-19","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","7516.03"					
-"2024-03-19","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","7476.03"					
-"2024-03-20","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","7468.03"					
-"2024-03-20","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","7453.03"					
-"2024-03-21","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","7418.03"					
-"2024-03-21","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","7406.03"					
-"2024-03-22","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","6356.03"					
-"2024-03-22","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","7356.04"					
-"2024-03-23","Dinner out","Debit","-60.00","Dining","Credit Card","Steakhouse","7303.04"					
-"2024-03-23","Online subscription","Debit","-12.99","Subscriptions","Credit Card","Streaming Service","7290.05"					
-"2024-03-24","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","7260.05"					
-"2024-03-24","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","7240.05"					
-"2024-03-25","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","7190.05"					
-"2024-03-25","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","7180.05"					
-"2024-03-26","Household supplies","Debit","-35.00","Home","Debit Card","Local Store","7145.05"					
-"2024-03-26","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","7115.05"					
-"2024-03-27","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","7102.55"					
-"2024-03-27","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","7057.55"					
-"2024-03-28","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","8257.55"					
-"2024-03-28","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","8253.55"					
-"2024-03-28","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","8178.55"					
-"2024-03-28","Dinner out","Debit","-50.00","Dining","Credit Card","Italian Bistro","8128.55"					
-"2024-03-29","Utility bill","Debit","-60.00","Utilities","Debit Card","Electric Company","8068.55"					
-"2024-03-29","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","8028.55"					
-"2024-03-30","Online shopping","Debit","-80.00","Clothing","Credit Card","E-commerce Store","7948.55"					
-"2024-03-30","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","7933.55"					
-"2024-03-30","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","7908.55"					
-"2024-03-30","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","7898.56"					
-"2024-03-31","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","7868.56"					
-"2024-03-31","Dinner out","Debit","-55.00","Dining","Credit Card","Steakhouse","7813.56"				
-"2024-04-01","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","9013.56"					
-"2024-04-01","Grocery shopping","Debit","-80.00","Groceries","Debit Card","Local Market","8933.56"					
-"2024-04-01","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","8929.06"					
-"2024-04-01","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","8899.06"					
-"2024-04-02","Dinner out","Debit","-70.00","Dining","Credit Card","Italian Bistro","8829.06"					
-"2024-04-02","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","8816.07"					
-"2024-04-03","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","8741.07"					
-"2024-04-03","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","8716.07"					
-"2024-04-04","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","8656.07"					
-"2024-04-04","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","8616.07"					
-"2024-04-05","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","8601.07"					
-"2024-04-05","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","8593.07"					
-"2024-04-06","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","8588.07"					
-"2024-04-06","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","8576.07"					
-"2024-04-07","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","9776.07"					
-"2024-04-07","Utility bill","Debit","-60.00","Utilities","Debit Card","Water Company","9716.07"					
-"2024-04-07","Dinner out","Debit","-65.00","Dining","Credit Card","Steakhouse","9651.07"					
-"2024-04-08","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","9576.07"					
-"2024-04-08","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","9572.07"					
-"2024-04-09","Book purchase","Debit","-10.00","Entertainment","Debit Card","Bookstore","9562.07"					
-"2024-04-09","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","9549.57"					
-"2024-04-10","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","9519.57"					
-"2024-04-10","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","9499.57"					
-"2024-04-11","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","9449.57"					
-"2024-04-11","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","9439.57"					
-"2024-04-12","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","9409.57"					
-"2024-04-12","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","9394.57"					
-"2024-04-13","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","9354.57"					
-"2024-04-13","Online shopping","Debit","-100.00","Clothing","Credit Card","E-commerce Store","9254.57"					
-"2024-04-14","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","10454.57"					
-"2024-04-14","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","10449.57"					
-"2024-04-14","Grocery shopping","Debit","-70.00","Groceries","Debit Card","Local Market","10429.57"					
-"2024-04-14","Dinner out","Debit","-60.00","Dining","Credit Card","Italian Bistro","10369.57"					
-"2024-04-15","Utility bill","Debit","-75.00","Utilities","Debit Card","Electric Company","10344.57"					
-"2024-04-15","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","10314.57"					
-"2024-04-15","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","10304.58"					
-"2024-04-15","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","10289.58"					
-"2024-04-15","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","10264.58"			
-"2024-04-16","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","10264.58"					
-"2024-04-16","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","10260.08"					
-"2024-04-16","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","10230.08"					
-"2024-04-17","Dinner out","Debit","-65.00","Dining","Credit Card","Italian Bistro","10165.08"					
-"2024-04-17","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","10152.09"					
-"2024-04-18","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","11352.09"					
-"2024-04-18","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","11277.09"					
-"2024-04-18","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","11252.09"					
-"2024-04-19","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","11202.09"					
-"2024-04-19","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","11162.09"					
-"2024-04-20","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","11154.09"					
-"2024-04-20","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","11139.09"					
-"2024-04-21","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","11104.09"					
-"2024-04-21","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","11092.09"					
-"2024-04-22","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","11042.09"					
-"2024-04-22","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","11032.10"					
-"2024-04-23","Dinner out","Debit","-60.00","Dining","Credit Card","Steakhouse","10972.10"					
-"2024-04-23","Online subscription","Debit","-12.99","Subscriptions","Credit Card","Streaming Service","10959.11"					
-"2024-04-24","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","10929.11"					
-"2024-04-24","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","10909.11"					
-"2024-04-25","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","10859.11"					
-"2024-04-25","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","10849.11"					
-"2024-04-26","Household supplies","Debit","-30.00","Home","Debit Card","Local Store","10819.11"					
-"2024-04-26","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","10789.11"					
-"2024-04-27","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","10776.61"					
-"2024-04-27","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","10731.61"					
-"2024-04-28","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","11931.61"					
-"2024-04-28","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","11926.61"					
-"2024-04-28","Grocery shopping","Debit","-70.00","Groceries","Debit Card","Local Market","11856.61"					
-"2024-04-28","Dinner out","Debit","-60.00","Dining","Credit Card","Italian Bistro","11796.61"					
-"2024-04-29","Utility bill","Debit","-75.00","Utilities","Debit Card","Electric Company","11721.61"					
-"2024-04-29","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","11681.61"					
-"2024-04-30","Online shopping","Debit","-80.00","Clothing","Credit Card","E-commerce Store","11601.61"					
-"2024-04-30","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","11586.61"					
-"2024-04-30","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","11561.61"					
-"2024-04-30","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","11551.62"					
-"2024-05-01","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","12751.62"					
-"2024-05-01","Grocery shopping","Debit","-80.00","Groceries","Debit Card","Local Market","12671.62"					
-"2024-05-01","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","12667.12"					
-"2024-05-01","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","12637.12"					
-"2024-05-02","Dinner out","Debit","-70.00","Dining","Credit Card","Italian Bistro","12567.12"					
-"2024-05-02","Book purchase","Debit","-15.00","Entertainment","Debit Card","Bookstore","12552.12"					
-"2024-05-03","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","12477.12"					
-"2024-05-03","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","12452.12"					
-"2024-05-04","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","12392.12"					
-"2024-05-04","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","12352.12"					
-"2024-05-05","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","12339.62"					
-"2024-05-05","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","12331.62"					
-"2024-05-06","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","12296.62"					
-"2024-05-06","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","12284.62"					
-"2024-05-07","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","13484.62"					
-"2024-05-07","Utility bill","Debit","-60.00","Utilities","Debit Card","Water Company","13424.62"					
-"2024-05-07","Dinner out","Debit","-65.00","Dining","Credit Card","Steakhouse","13359.62"					
-"2024-05-08","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","13284.62"					
-"2024-05-08","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","13280.62"					
-"2024-05-09","Book purchase","Debit","-10.00","Entertainment","Debit Card","Bookstore","13270.62"					
-"2024-05-09","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","13255.62"					
-"2024-05-10","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","13225.62"					
-"2024-05-10","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","13205.62"					
-"2024-05-11","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","13155.62"					
-"2024-05-11","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","13145.62"					
-"2024-05-12","Household supplies","Debit","-35.00","Home","Debit Card","Local Store","13110.62"					
-"2024-05-12","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","13080.62"					
-"2024-05-13","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","13068.12"					
-"2024-05-13","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","13023.12"					
-"2024-05-14","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","14223.12"					
-"2024-05-14","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","14218.12"					
-"2024-05-14","Grocery shopping","Debit","-70.00","Groceries","Debit Card","Local Market","14148.12"					
-"2024-05-14","Dinner out","Debit","-60.00","Dining","Credit Card","Italian Bistro","14088.12"					
-"2024-05-15","Utility bill","Debit","-75.00","Utilities","Debit Card","Electric Company","14013.12"					
-"2024-05-15","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","13983.12"					
-"2024-05-15","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","13973.13"					
-"2024-05-15","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","13958.13"					
-"2024-05-15","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","13933.13"								
-"2024-05-16","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","13858.13"					
-"2024-05-16","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","13853.63"					
-"2024-05-16","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","13823.63"					
-"2024-05-17","Dinner out","Debit","-70.00","Dining","Credit Card","Italian Bistro","13753.63"					
-"2024-05-17","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","13740.64"					
-"2024-05-18","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","13665.64"					
-"2024-05-18","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","13640.64"					
-"2024-05-19","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","13580.64"					
-"2024-05-19","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","13540.64"					
-"2024-05-20","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","13532.64"					
-"2024-05-20","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","13517.64"					
-"2024-05-21","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","13482.64"					
-"2024-05-21","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","13470.64"					
-"2024-05-22","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","14670.64"					
-"2024-05-22","Utility bill","Debit","-60.00","Utilities","Debit Card","Water Company","14610.64"					
-"2024-05-22","Dinner out","Debit","-65.00","Dining","Credit Card","Steakhouse","14545.64"					
-"2024-05-23","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","14470.64"					
-"2024-05-23","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","14466.64"					
-"2024-05-24","Book purchase","Debit","-10.00","Entertainment","Debit Card","Bookstore","14456.64"					
-"2024-05-24","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","14444.14"					
-"2024-05-25","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","14414.14"					
-"2024-05-25","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","14394.14"					
-"2024-05-26","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","14344.14"					
-"2024-05-26","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","14334.14"					
-"2024-05-27","Household supplies","Debit","-35.00","Home","Debit Card","Local Store","14300.14"					
-"2024-05-27","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","14270.14"					
-"2024-05-28","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","14257.64"					
-"2024-05-28","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","14212.64"					
-"2024-05-29","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","15412.64"					
-"2024-05-29","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","15407.64"					
-"2024-05-29","Grocery shopping","Debit","-70.00","Groceries","Debit Card","Local Market","15337.64"					
-"2024-05-29","Dinner out","Debit","-60.00","Dining","Credit Card","Italian Bistro","15277.64"					
-"2024-05-30","Utility bill","Debit","-75.00","Utilities","Debit Card","Electric Company","15202.64"					
-"2024-05-30","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","15172.64"					
-"2024-05-30","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","15162.65"					
-"2024-05-30","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","15147.65"					
-"2024-05-30","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","15122.65"					
-"2024-05-31","Online shopping","Debit","-80.00","Clothing","Credit Card","E-commerce Store","15042.65"			
-"2024-06-01","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","16242.65"					
-"2024-06-01","Grocery shopping","Debit","-80.00","Groceries","Debit Card","Local Market","16162.65"					
-"2024-06-01","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","16158.15"					
-"2024-06-01","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","16128.15"					
-"2024-06-02","Dinner out","Debit","-70.00","Dining","Credit Card","Italian Bistro","16058.15"					
-"2024-06-02","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","16045.16"					
-"2024-06-03","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","15970.16"					
-"2024-06-03","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","15945.16"					
-"2024-06-04","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","15885.16"					
-"2024-06-04","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","15845.16"					
-"2024-06-05","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","15832.66"					
-"2024-06-05","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","15824.66"					
-"2024-06-06","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","15789.66"					
-"2024-06-06","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","15777.66"					
-"2024-06-07","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","16977.66"					
-"2024-06-07","Utility bill","Debit","-60.00","Utilities","Debit Card","Water Company","16917.66"					
-"2024-06-07","Dinner out","Debit","-65.00","Dining","Credit Card","Steakhouse","16852.66"					
-"2024-06-08","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","16777.66"					
-"2024-06-08","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","16773.66"					
-"2024-06-09","Book purchase","Debit","-10.00","Entertainment","Debit Card","Bookstore","16763.66"					
-"2024-06-09","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","16748.66"					
-"2024-06-10","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","16718.66"					
-"2024-06-10","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","16698.66"					
-"2024-06-11","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","16648.66"					
-"2024-06-11","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","16638.66"					
-"2024-06-12","Household supplies","Debit","-35.00","Home","Debit Card","Local Store","16603.66"					
-"2024-06-12","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","16573.66"					
-"2024-06-13","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","16561.16"					
-"2024-06-13","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","16516.16"					
-"2024-06-14","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","17716.16"					
-"2024-06-14","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","17711.16"					
-"2024-06-14","Grocery shopping","Debit","-70.00","Groceries","Debit Card","Local Market","17641.16"					
-"2024-06-14","Dinner out","Debit","-60.00","Dining","Credit Card","Italian Bistro","17581.16"					
-"2024-06-15","Utility bill","Debit","-75.00","Utilities","Debit Card","Electric Company","17506.16"					
-"2024-06-15","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","17476.16"					
-"2024-06-15","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","17466.17"					
-"2024-06-15","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","17451.17"					
-"2024-06-15","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","17426.17"			
-"2024-06-16","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","17351.17"					
-"2024-06-16","Coffee shop","Debit","-4.50","Dining","Debit Card","Cafe Good Vibes","17346.67"					
-"2024-06-16","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","17316.67"					
-"2024-06-17","Dinner out","Debit","-70.00","Dining","Credit Card","Italian Bistro","17246.67"					
-"2024-06-17","Book purchase","Debit","-12.99","Entertainment","Debit Card","Bookstore","17233.68"					
-"2024-06-18","Utility bill","Debit","-75.00","Utilities","Credit Card","Electric Company","17158.68"					
-"2024-06-18","Takeout","Debit","-25.00","Dining","Debit Card","Chinese Restaurant","17133.68"					
-"2024-06-19","Grocery shopping","Debit","-60.00","Groceries","Debit Card","Local Market","17073.68"					
-"2024-06-19","Gym membership","Debit","-40.00","Health","Credit Card","Fitness Club","17033.68"					
-"2024-06-20","Snack shop","Debit","-8.00","Dining","Debit Card","Snack Shack","17025.68"					
-"2024-06-20","Lunch out","Debit","-15.00","Dining","Debit Card","Deli","17010.68"					
-"2024-06-21","Gas station","Debit","-35.00","Transportation","Debit Card","Gas Station X","16975.68"					
-"2024-06-21","Fast food","Debit","-12.00","Dining","Debit Card","Fast Food Chain","16963.68"					
-"2024-06-22","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","18163.68"					
-"2024-06-22","Utility bill","Debit","-60.00","Utilities","Debit Card","Water Company","18103.68"					
-"2024-06-22","Dinner out","Debit","-65.00","Dining","Credit Card","Steakhouse","18038.68"					
-"2024-06-23","Grocery shopping","Debit","-75.00","Groceries","Debit Card","Local Market","17963.68"					
-"2024-06-23","Coffee shop","Debit","-4.00","Dining","Debit Card","Cafe Good Vibes","17959.68"					
-"2024-06-24","Book purchase","Debit","-10.00","Entertainment","Debit Card","Bookstore","17949.68"					
-"2024-06-24","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","17937.18"					
-"2024-06-25","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","17907.18"					
-"2024-06-25","Takeout","Debit","-20.00","Dining","Credit Card","Pizza Place","17887.18"					
-"2024-06-26","Grocery shopping","Debit","-50.00","Groceries","Debit Card","Local Market","17837.18"					
-"2024-06-26","Snack shop","Debit","-10.00","Dining","Debit Card","Snack Shack","17827.18"					
-"2024-06-27","Household supplies","Debit","-35.00","Home","Debit Card","Local Store","17792.18"					
-"2024-06-27","Movie tickets","Debit","-30.00","Entertainment","Credit Card","Cinema","17762.18"					
-"2024-06-28","Lunch out","Debit","-12.50","Dining","Debit Card","Deli","17749.68"					
-"2024-06-28","Clothing purchase","Debit","-45.00","Clothing","Credit Card","Clothing Store","17704.68"					
-"2024-06-29","Paycheck","Credit","1200.00","Income","Direct Deposit","Employer","18904.68"					
-"2024-06-29","Coffee shop","Debit","-5.00","Dining","Debit Card","Cafe Good Vibes","18899.68"					
-"2024-06-29","Grocery shopping","Debit","-70.00","Groceries","Debit Card","Local Market","18829.68"					
-"2024-06-29","Dinner out","Debit","-60.00","Dining","Credit Card","Italian Bistro","18769.68"					
-"2024-06-30","Utility bill","Debit","-75.00","Utilities","Debit Card","Electric Company","18704.68"					
-"2024-06-30","Gas station","Debit","-30.00","Transportation","Debit Card","Gas Station X","18674.68"					
-"2024-06-30","Book purchase","Debit","-9.99","Entertainment","Debit Card","Bookstore","18664.69"					
-"2024-06-30","Fast food","Debit","-15.00","Dining","Debit Card","Fast Food Chain","18649.69"					
-"2024-06-30","Takeout","Debit","-25.00","Dining","Credit Card","Chinese Restaurant","18624.69"			
+Date,Description,Transaction Type,Amount,Category,Payment Method,Merchant,Balance
+2024-01-01,Grocery shopping,Debit,-45.23,Groceries,Debit Card,Local Market,954.77					
+2024-01-01,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,950.27					
+2024-01-01,Monthly subscription,Debit,-12.99,Subscriptions,Credit Card,Streaming Service,937.28					
+2024-01-02,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,907.28					
+2024-01-02,Restaurant dinner,Debit,-58.75,Dining,Credit Card,Italian Bistro,848.53					
+2024-01-03,Book purchase,Debit,-15.99,Entertainment,Debit Card,Bookstore,832.54					
+2024-01-03,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,792.54					
+2024-01-03,Utility bill,Debit,-75.00,Utilities,Debit Card,Electric Company,717.54					
+2024-01-04,Online shopping,Debit,-100.00,Clothing,Credit Card,E-commerce Store,617.54					
+2024-01-04,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,612.54					
+2024-01-05,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,1812.54					
+2024-01-05,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,1797.54					
+2024-01-05,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,1767.54					
+2024-01-06,Groceries,Debit,-67.45,Groceries,Debit Card,Local Market,1700.09					
+2024-01-06,Gas station,Debit,-40.00,Transportation,Debit Card,Gas Station X,1660.09					
+2024-01-06,Takeout,Debit,-20.00,Dining,Credit Card,Chinese Restaurant,1640.09					
+2024-01-07,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,1627.59					
+2024-01-07,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,1617.60					
+2024-01-08,Household supplies,Debit,-30.50,Home,Debit Card,Local Store,1587.10					
+2024-01-08,Utility bill,Debit,-50.00,Utilities,Credit Card,Water Company,1537.10					
+2024-01-08,Snack shop,Debit,-8.75,Dining,Debit Card,Snack Shack,1528.35					
+2024-01-09,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,1483.35					
+2024-01-09,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,1479.35					
+2024-01-10,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,2679.35					
+2024-01-10,Restaurant dinner,Debit,-70.00,Dining,Credit Card,Steakhouse,2609.35					
+2024-01-10,Gym class,Debit,-15.00,Health,Debit Card,Fitness Club,2594.35					
+2024-01-11,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,2534.35					
+2024-01-11,Takeout,Debit,-25.00,Dining,Credit Card,Pizza Place,2509.35					
+2024-01-12,Home decor,Debit,-40.00,Home,Debit Card,Home Goods Store,2469.35					
+2024-01-12,Subscription renewal,Debit,-12.99,Subscriptions,Credit Card,Streaming Service,2456.36					
+2024-01-12,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,2451.36					
+2024-01-13,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,2416.36					
+2024-01-13,Lunch out,Debit,-20.00,Dining,Credit Card,Deli,2396.36					
+2024-01-13,Movie rental,Debit,-4.99,Entertainment,Debit Card,Video Store,2391.37					
+2024-01-14,Grocery shopping,Debit,-55.00,Groceries,Debit Card,Local Market,2336.37					
+2024-01-14,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,2326.37					
+2024-01-15,Utility bill,Debit,-60.00,Utilities,Debit Card,Electric Company,2266.37					
+2024-01-15,Fast food,Debit,-12.00,Dining,Credit Card,Fast Food Chain,2254.37					
+2024-01-15,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,2244.38								
+2024-01-16,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,3444.38					
+2024-01-16,Groceries,Debit,-65.00,Groceries,Debit Card,Local Market,3379.38					
+2024-01-16,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,3374.88					
+2024-01-17,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,3344.88					
+2024-01-17,Restaurant dinner,Debit,-55.00,Dining,Credit Card,Italian Bistro,3289.88					
+2024-01-18,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,3249.88					
+2024-01-18,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,3236.89					
+2024-01-19,Online shopping,Debit,-120.00,Clothing,Credit Card,E-commerce Store,3116.89					
+2024-01-19,Takeout,Debit,-20.00,Dining,Debit Card,Chinese Restaurant,3096.89					
+2024-01-20,Household supplies,Debit,-30.50,Home,Debit Card,Local Store,3066.39					
+2024-01-20,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,3058.39					
+2024-01-21,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,3008.39					
+2024-01-21,Utility bill,Debit,-75.00,Utilities,Credit Card,Water Company,2933.39					
+2024-01-21,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,2903.39					
+2024-01-22,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,2890.89					
+2024-01-22,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,2845.89					
+2024-01-23,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,4045.89					
+2024-01-23,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,4030.89					
+2024-01-23,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,3995.89					
+2024-01-24,Grocery shopping,Debit,-70.00,Groceries,Debit Card,Local Market,3925.89					
+2024-01-24,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,3920.89					
+2024-01-25,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,3910.90					
+2024-01-25,Takeout,Debit,-25.00,Dining,Credit Card,Pizza Place,3885.90					
+2024-01-26,Gym class,Debit,-15.00,Health,Debit Card,Fitness Club,3870.90					
+2024-01-26,Home decor,Debit,-40.00,Home,Debit Card,Home Goods Store,3830.90					
+2024-01-27,Utility bill,Debit,-60.00,Utilities,Debit Card,Electric Company,3770.90					
+2024-01-27,Lunch out,Debit,-20.00,Dining,Credit Card,Deli,3750.90					
+2024-01-27,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,3720.90					
+2024-01-28,Grocery shopping,Debit,-80.00,Groceries,Debit Card,Local Market,3640.90					
+2024-01-28,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,3630.90					
+2024-01-29,Online shopping,Debit,-100.00,Clothing,Credit Card,E-commerce Store,3530.90					
+2024-01-29,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,3518.90					
+2024-01-30,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,3514.90					
+2024-01-30,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,3504.91					
+2024-01-31,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,4704.91					
+2024-01-31,Utility bill,Debit,-60.00,Utilities,Debit Card,Water Company,4644.91					
+2024-01-31,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,4594.91					
+2024-01-31,Dinner out,Debit,-70.00,Dining,Credit Card,Steakhouse,4524.91				
+2024-02-01,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,5724.91					
+2024-02-01,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,5649.91					
+2024-02-01,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,5645.41					
+2024-02-01,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,5615.41					
+2024-02-02,Restaurant dinner,Debit,-60.00,Dining,Credit Card,Italian Bistro,5555.41					
+2024-02-02,Book purchase,Debit,-15.99,Entertainment,Debit Card,Bookstore,5539.42					
+2024-02-03,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,5464.42					
+2024-02-03,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,4424.42					
+2024-02-04,Online shopping,Debit,-150.00,Clothing,Credit Card,E-commerce Store,4314.42					
+2024-02-04,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,4289.42					
+2024-02-05,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,4276.92					
+2024-02-05,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,4216.92					
+2024-02-06,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,4208.92					
+2024-02-06,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,4173.92					
+2024-02-07,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,5373.92					
+2024-02-07,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,5358.92					
+2024-02-07,Utility bill,Debit,-50.00,Utilities,Credit Card,Water Company,5308.92					
+2024-02-08,Gym class,Debit,-15.00,Health,Debit Card,Fitness Club,5293.92					
+2024-02-08,Grocery shopping,Debit,-70.00,Groceries,Debit Card,Local Market,5223.92					
+2024-02-09,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,5218.92					
+2024-02-09,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,5205.93					
+2024-02-10,Dinner out,Debit,-65.00,Dining,Credit Card,Steakhouse,5140.93					
+2024-02-10,Online subscription,Debit,-12.99,Subscriptions,Credit Card,Streaming Service,5127.94					
+2024-02-11,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,5097.94					
+2024-02-11,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,5077.94					
+2024-02-12,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,5027.94					
+2024-02-12,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,5017.94					
+2024-02-13,Household supplies,Debit,-35.00,Home,Debit Card,Local Store,4982.94					
+2024-02-13,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,4952.94					
+2024-02-14,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,4937.94					
+2024-02-14,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,4892.94					
+2024-02-15,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,6092.94					
+2024-02-15,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,6088.94					
+2024-02-15,Grocery shopping,Debit,-65.00,Groceries,Debit Card,Local Market,6023.94					
+2024-02-15,Dinner out,Debit,-55.00,Dining,Credit Card,Italian Bistro,5968.94					
+2024-02-15,Utility bill,Debit,-60.00,Utilities,Debit Card,Electric Company,5908.94					
+2024-02-15,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,5868.94					
+2024-02-15,Online shopping,Debit,-80.00,Clothing,Credit Card,E-commerce Store,5788.94					
+2024-02-15,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,5773.94					
+2024-02-15,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,5748.94					
+2024-02-15,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,5738.95									
+2024-02-16,Groceries,Debit,-70.00,Groceries,Debit Card,Local Market,5668.95					
+2024-02-16,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,5664.45					
+2024-02-16,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,5634.45					
+2024-02-17,Dinner out,Debit,-65.00,Dining,Credit Card,Italian Bistro,5569.45					
+2024-02-17,Book purchase,Debit,-15.99,Entertainment,Debit Card,Bookstore,5553.46					
+2024-02-18,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,6753.46					
+2024-02-18,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,6678.46					
+2024-02-18,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,6653.46					
+2024-02-19,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,6593.46					
+2024-02-19,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,6153.46					
+2024-02-20,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,6145.46					
+2024-02-20,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,6130.46					
+2024-02-21,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,6095.46					
+2024-02-21,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,6083.46					
+2024-02-22,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,6033.46					
+2024-02-22,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,6023.47					
+2024-02-23,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,5993.47					
+2024-02-23,Dinner out,Debit,-60.00,Dining,Credit Card,Steakhouse,5933.47					
+2024-02-24,Utility bill,Debit,-50.00,Utilities,Debit Card,Water Company,5883.47					
+2024-02-24,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,5878.47					
+2024-02-25,Online shopping,Debit,-120.00,Clothing,Credit Card,E-commerce Store,5758.47					
+2024-02-25,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,5745.97					
+2024-02-26,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,5715.97					
+2024-02-26,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,5705.97					
+2024-02-27,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,6905.97					
+2024-02-27,Dinner out,Debit,-70.00,Dining,Credit Card,Italian Bistro,6835.97					
+2024-02-27,Utility bill,Debit,-60.00,Utilities,Debit Card,Electric Company,6775.97					
+2024-02-28,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,6700.97					
+2024-02-28,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,6696.47					
+2024-02-28,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,6681.47					
+2024-02-29,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,6641.47					
+2024-02-29,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,6628.48					
+2024-02-29,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,6603.48					
+2024-02-29,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,6573.48					
+2024-02-29,Dinner out,Debit,-55.00,Dining,Credit Card,Steakhouse,6518.48					
+2024-02-29,Online shopping,Debit,-80.00,Clothing,Credit Card,E-commerce Store,6438.48			
+2024-03-01,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,7638.48					
+2024-03-01,Grocery shopping,Debit,-80.00,Groceries,Debit Card,Local Market,7558.48					
+2024-03-01,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,7553.98					
+2024-03-01,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,7518.98					
+2024-03-02,Dinner out,Debit,-70.00,Dining,Credit Card,Italian Bistro,6448.98					
+2024-03-02,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,6435.99					
+2024-03-03,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,6360.99					
+2024-03-03,Online shopping,Debit,-150.00,Clothing,Credit Card,E-commerce Store,6210.99					
+2024-03-04,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,6185.99					
+2024-03-04,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,6145.99					
+2024-03-05,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,6130.99					
+2024-03-05,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,6070.99					
+2024-03-06,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,6062.99					
+2024-03-06,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,6032.99					
+2024-03-07,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,7232.99					
+2024-03-07,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,7217.99					
+2024-03-07,Utility bill,Debit,-50.00,Utilities,Credit Card,Water Company,7167.99					
+2024-03-08,Gym class,Debit,-15.00,Health,Debit Card,Fitness Club,7152.99					
+2024-03-08,Grocery shopping,Debit,-65.00,Groceries,Debit Card,Local Market,7087.99					
+2024-03-09,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,7082.99					
+2024-03-09,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,7073.00					
+2024-03-10,Dinner out,Debit,-60.00,Dining,Credit Card,Steakhouse,7013.00					
+2024-03-10,Online subscription,Debit,-12.99,Subscriptions,Credit Card,Streaming Service,7000.01					
+2024-03-11,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,6965.01					
+2024-03-11,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,6945.01					
+2024-03-12,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,6895.01					
+2024-03-12,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,6885.01					
+2024-03-13,Household supplies,Debit,-30.00,Home,Debit Card,Local Store,6855.01					
+2024-03-13,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,6825.01					
+2024-03-14,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,6812.51					
+2024-03-14,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,6767.51					
+2024-03-15,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,7967.51					
+2024-03-15,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,7963.51					
+2024-03-15,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,8888.51					
+2024-03-15,Dinner out,Debit,-50.00,Dining,Credit Card,Italian Bistro,7888.51					
+2024-03-15,Utility bill,Debit,-60.00,Utilities,Debit Card,Electric Company,7828.51					
+2024-03-15,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,7788.51					
+2024-03-15,Online shopping,Debit,-80.00,Clothing,Credit Card,E-commerce Store,7708.51					
+2024-03-15,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,7693.51					
+2024-03-15,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,7668.51					
+2024-03-15,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,7658.52				
+2024-03-16,Groceries,Debit,-70.00,Groceries,Debit Card,Local Market,7588.52					
+2024-03-16,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,7584.02					
+2024-03-16,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,7554.02					
+2024-03-17,Dinner out,Debit,-65.00,Dining,Credit Card,Italian Bistro,6489.02					
+2024-03-17,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,6476.03					
+2024-03-18,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,7676.03					
+2024-03-18,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,7601.03					
+2024-03-18,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,7576.03					
+2024-03-19,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,7516.03					
+2024-03-19,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,7476.03					
+2024-03-20,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,7468.03					
+2024-03-20,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,7453.03					
+2024-03-21,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,7418.03					
+2024-03-21,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,7406.03					
+2024-03-22,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,6356.03					
+2024-03-22,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,7356.04					
+2024-03-23,Dinner out,Debit,-60.00,Dining,Credit Card,Steakhouse,7303.04					
+2024-03-23,Online subscription,Debit,-12.99,Subscriptions,Credit Card,Streaming Service,7290.05					
+2024-03-24,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,7260.05					
+2024-03-24,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,7240.05					
+2024-03-25,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,7190.05					
+2024-03-25,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,7180.05					
+2024-03-26,Household supplies,Debit,-35.00,Home,Debit Card,Local Store,7145.05					
+2024-03-26,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,7115.05					
+2024-03-27,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,7102.55					
+2024-03-27,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,7057.55					
+2024-03-28,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,8257.55					
+2024-03-28,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,8253.55					
+2024-03-28,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,8178.55					
+2024-03-28,Dinner out,Debit,-50.00,Dining,Credit Card,Italian Bistro,8128.55					
+2024-03-29,Utility bill,Debit,-60.00,Utilities,Debit Card,Electric Company,8068.55					
+2024-03-29,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,8028.55					
+2024-03-30,Online shopping,Debit,-80.00,Clothing,Credit Card,E-commerce Store,7948.55					
+2024-03-30,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,7933.55					
+2024-03-30,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,7908.55					
+2024-03-30,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,7898.56					
+2024-03-31,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,7868.56					
+2024-03-31,Dinner out,Debit,-55.00,Dining,Credit Card,Steakhouse,7813.56				
+2024-04-01,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,9013.56					
+2024-04-01,Grocery shopping,Debit,-80.00,Groceries,Debit Card,Local Market,8933.56					
+2024-04-01,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,8929.06					
+2024-04-01,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,8899.06					
+2024-04-02,Dinner out,Debit,-70.00,Dining,Credit Card,Italian Bistro,8829.06					
+2024-04-02,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,8816.07					
+2024-04-03,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,8741.07					
+2024-04-03,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,8716.07					
+2024-04-04,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,8656.07					
+2024-04-04,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,8616.07					
+2024-04-05,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,8601.07					
+2024-04-05,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,8593.07					
+2024-04-06,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,8588.07					
+2024-04-06,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,8576.07					
+2024-04-07,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,9776.07					
+2024-04-07,Utility bill,Debit,-60.00,Utilities,Debit Card,Water Company,9716.07					
+2024-04-07,Dinner out,Debit,-65.00,Dining,Credit Card,Steakhouse,9651.07					
+2024-04-08,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,9576.07					
+2024-04-08,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,9572.07					
+2024-04-09,Book purchase,Debit,-10.00,Entertainment,Debit Card,Bookstore,9562.07					
+2024-04-09,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,9549.57					
+2024-04-10,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,9519.57					
+2024-04-10,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,9499.57					
+2024-04-11,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,9449.57					
+2024-04-11,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,9439.57					
+2024-04-12,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,9409.57					
+2024-04-12,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,9394.57					
+2024-04-13,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,9354.57					
+2024-04-13,Online shopping,Debit,-100.00,Clothing,Credit Card,E-commerce Store,9254.57					
+2024-04-14,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,10454.57					
+2024-04-14,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,10449.57					
+2024-04-14,Grocery shopping,Debit,-70.00,Groceries,Debit Card,Local Market,10429.57					
+2024-04-14,Dinner out,Debit,-60.00,Dining,Credit Card,Italian Bistro,10369.57					
+2024-04-15,Utility bill,Debit,-75.00,Utilities,Debit Card,Electric Company,10344.57					
+2024-04-15,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,10314.57					
+2024-04-15,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,10304.58					
+2024-04-15,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,10289.58					
+2024-04-15,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,10264.58			
+2024-04-16,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,10264.58					
+2024-04-16,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,10260.08					
+2024-04-16,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,10230.08					
+2024-04-17,Dinner out,Debit,-65.00,Dining,Credit Card,Italian Bistro,10165.08					
+2024-04-17,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,10152.09					
+2024-04-18,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,11352.09					
+2024-04-18,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,11277.09					
+2024-04-18,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,11252.09					
+2024-04-19,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,11202.09					
+2024-04-19,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,11162.09					
+2024-04-20,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,11154.09					
+2024-04-20,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,11139.09					
+2024-04-21,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,11104.09					
+2024-04-21,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,11092.09					
+2024-04-22,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,11042.09					
+2024-04-22,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,11032.10					
+2024-04-23,Dinner out,Debit,-60.00,Dining,Credit Card,Steakhouse,10972.10					
+2024-04-23,Online subscription,Debit,-12.99,Subscriptions,Credit Card,Streaming Service,10959.11					
+2024-04-24,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,10929.11					
+2024-04-24,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,10909.11					
+2024-04-25,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,10859.11					
+2024-04-25,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,10849.11					
+2024-04-26,Household supplies,Debit,-30.00,Home,Debit Card,Local Store,10819.11					
+2024-04-26,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,10789.11					
+2024-04-27,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,10776.61					
+2024-04-27,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,10731.61					
+2024-04-28,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,11931.61					
+2024-04-28,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,11926.61					
+2024-04-28,Grocery shopping,Debit,-70.00,Groceries,Debit Card,Local Market,11856.61					
+2024-04-28,Dinner out,Debit,-60.00,Dining,Credit Card,Italian Bistro,11796.61					
+2024-04-29,Utility bill,Debit,-75.00,Utilities,Debit Card,Electric Company,11721.61					
+2024-04-29,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,11681.61					
+2024-04-30,Online shopping,Debit,-80.00,Clothing,Credit Card,E-commerce Store,11601.61					
+2024-04-30,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,11586.61					
+2024-04-30,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,11561.61					
+2024-04-30,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,11551.62					
+2024-05-01,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,12751.62					
+2024-05-01,Grocery shopping,Debit,-80.00,Groceries,Debit Card,Local Market,12671.62					
+2024-05-01,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,12667.12					
+2024-05-01,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,12637.12					
+2024-05-02,Dinner out,Debit,-70.00,Dining,Credit Card,Italian Bistro,12567.12					
+2024-05-02,Book purchase,Debit,-15.00,Entertainment,Debit Card,Bookstore,12552.12					
+2024-05-03,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,12477.12					
+2024-05-03,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,12452.12					
+2024-05-04,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,12392.12					
+2024-05-04,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,12352.12					
+2024-05-05,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,12339.62					
+2024-05-05,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,12331.62					
+2024-05-06,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,12296.62					
+2024-05-06,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,12284.62					
+2024-05-07,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,13484.62					
+2024-05-07,Utility bill,Debit,-60.00,Utilities,Debit Card,Water Company,13424.62					
+2024-05-07,Dinner out,Debit,-65.00,Dining,Credit Card,Steakhouse,13359.62					
+2024-05-08,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,13284.62					
+2024-05-08,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,13280.62					
+2024-05-09,Book purchase,Debit,-10.00,Entertainment,Debit Card,Bookstore,13270.62					
+2024-05-09,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,13255.62					
+2024-05-10,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,13225.62					
+2024-05-10,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,13205.62					
+2024-05-11,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,13155.62					
+2024-05-11,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,13145.62					
+2024-05-12,Household supplies,Debit,-35.00,Home,Debit Card,Local Store,13110.62					
+2024-05-12,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,13080.62					
+2024-05-13,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,13068.12					
+2024-05-13,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,13023.12					
+2024-05-14,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,14223.12					
+2024-05-14,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,14218.12					
+2024-05-14,Grocery shopping,Debit,-70.00,Groceries,Debit Card,Local Market,14148.12					
+2024-05-14,Dinner out,Debit,-60.00,Dining,Credit Card,Italian Bistro,14088.12					
+2024-05-15,Utility bill,Debit,-75.00,Utilities,Debit Card,Electric Company,14013.12					
+2024-05-15,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,13983.12					
+2024-05-15,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,13973.13					
+2024-05-15,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,13958.13					
+2024-05-15,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,13933.13								
+2024-05-16,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,13858.13					
+2024-05-16,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,13853.63					
+2024-05-16,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,13823.63					
+2024-05-17,Dinner out,Debit,-70.00,Dining,Credit Card,Italian Bistro,13753.63					
+2024-05-17,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,13740.64					
+2024-05-18,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,13665.64					
+2024-05-18,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,13640.64					
+2024-05-19,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,13580.64					
+2024-05-19,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,13540.64					
+2024-05-20,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,13532.64					
+2024-05-20,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,13517.64					
+2024-05-21,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,13482.64					
+2024-05-21,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,13470.64					
+2024-05-22,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,14670.64					
+2024-05-22,Utility bill,Debit,-60.00,Utilities,Debit Card,Water Company,14610.64					
+2024-05-22,Dinner out,Debit,-65.00,Dining,Credit Card,Steakhouse,14545.64					
+2024-05-23,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,14470.64					
+2024-05-23,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,14466.64					
+2024-05-24,Book purchase,Debit,-10.00,Entertainment,Debit Card,Bookstore,14456.64					
+2024-05-24,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,14444.14					
+2024-05-25,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,14414.14					
+2024-05-25,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,14394.14					
+2024-05-26,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,14344.14					
+2024-05-26,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,14334.14					
+2024-05-27,Household supplies,Debit,-35.00,Home,Debit Card,Local Store,14300.14					
+2024-05-27,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,14270.14					
+2024-05-28,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,14257.64					
+2024-05-28,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,14212.64					
+2024-05-29,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,15412.64					
+2024-05-29,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,15407.64					
+2024-05-29,Grocery shopping,Debit,-70.00,Groceries,Debit Card,Local Market,15337.64					
+2024-05-29,Dinner out,Debit,-60.00,Dining,Credit Card,Italian Bistro,15277.64					
+2024-05-30,Utility bill,Debit,-75.00,Utilities,Debit Card,Electric Company,15202.64					
+2024-05-30,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,15172.64					
+2024-05-30,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,15162.65					
+2024-05-30,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,15147.65					
+2024-05-30,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,15122.65					
+2024-05-31,Online shopping,Debit,-80.00,Clothing,Credit Card,E-commerce Store,15042.65			
+2024-06-01,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,16242.65					
+2024-06-01,Grocery shopping,Debit,-80.00,Groceries,Debit Card,Local Market,16162.65					
+2024-06-01,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,16158.15					
+2024-06-01,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,16128.15					
+2024-06-02,Dinner out,Debit,-70.00,Dining,Credit Card,Italian Bistro,16058.15					
+2024-06-02,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,16045.16					
+2024-06-03,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,15970.16					
+2024-06-03,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,15945.16					
+2024-06-04,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,15885.16					
+2024-06-04,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,15845.16					
+2024-06-05,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,15832.66					
+2024-06-05,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,15824.66					
+2024-06-06,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,15789.66					
+2024-06-06,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,15777.66					
+2024-06-07,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,16977.66					
+2024-06-07,Utility bill,Debit,-60.00,Utilities,Debit Card,Water Company,16917.66					
+2024-06-07,Dinner out,Debit,-65.00,Dining,Credit Card,Steakhouse,16852.66					
+2024-06-08,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,16777.66					
+2024-06-08,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,16773.66					
+2024-06-09,Book purchase,Debit,-10.00,Entertainment,Debit Card,Bookstore,16763.66					
+2024-06-09,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,16748.66					
+2024-06-10,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,16718.66					
+2024-06-10,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,16698.66					
+2024-06-11,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,16648.66					
+2024-06-11,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,16638.66					
+2024-06-12,Household supplies,Debit,-35.00,Home,Debit Card,Local Store,16603.66					
+2024-06-12,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,16573.66					
+2024-06-13,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,16561.16					
+2024-06-13,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,16516.16					
+2024-06-14,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,17716.16					
+2024-06-14,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,17711.16					
+2024-06-14,Grocery shopping,Debit,-70.00,Groceries,Debit Card,Local Market,17641.16					
+2024-06-14,Dinner out,Debit,-60.00,Dining,Credit Card,Italian Bistro,17581.16					
+2024-06-15,Utility bill,Debit,-75.00,Utilities,Debit Card,Electric Company,17506.16					
+2024-06-15,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,17476.16					
+2024-06-15,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,17466.17					
+2024-06-15,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,17451.17					
+2024-06-15,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,17426.17			
+2024-06-16,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,17351.17					
+2024-06-16,Coffee shop,Debit,-4.50,Dining,Debit Card,Cafe Good Vibes,17346.67					
+2024-06-16,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,17316.67					
+2024-06-17,Dinner out,Debit,-70.00,Dining,Credit Card,Italian Bistro,17246.67					
+2024-06-17,Book purchase,Debit,-12.99,Entertainment,Debit Card,Bookstore,17233.68					
+2024-06-18,Utility bill,Debit,-75.00,Utilities,Credit Card,Electric Company,17158.68					
+2024-06-18,Takeout,Debit,-25.00,Dining,Debit Card,Chinese Restaurant,17133.68					
+2024-06-19,Grocery shopping,Debit,-60.00,Groceries,Debit Card,Local Market,17073.68					
+2024-06-19,Gym membership,Debit,-40.00,Health,Credit Card,Fitness Club,17033.68					
+2024-06-20,Snack shop,Debit,-8.00,Dining,Debit Card,Snack Shack,17025.68					
+2024-06-20,Lunch out,Debit,-15.00,Dining,Debit Card,Deli,17010.68					
+2024-06-21,Gas station,Debit,-35.00,Transportation,Debit Card,Gas Station X,16975.68					
+2024-06-21,Fast food,Debit,-12.00,Dining,Debit Card,Fast Food Chain,16963.68					
+2024-06-22,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,18163.68					
+2024-06-22,Utility bill,Debit,-60.00,Utilities,Debit Card,Water Company,18103.68					
+2024-06-22,Dinner out,Debit,-65.00,Dining,Credit Card,Steakhouse,18038.68					
+2024-06-23,Grocery shopping,Debit,-75.00,Groceries,Debit Card,Local Market,17963.68					
+2024-06-23,Coffee shop,Debit,-4.00,Dining,Debit Card,Cafe Good Vibes,17959.68					
+2024-06-24,Book purchase,Debit,-10.00,Entertainment,Debit Card,Bookstore,17949.68					
+2024-06-24,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,17937.18					
+2024-06-25,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,17907.18					
+2024-06-25,Takeout,Debit,-20.00,Dining,Credit Card,Pizza Place,17887.18					
+2024-06-26,Grocery shopping,Debit,-50.00,Groceries,Debit Card,Local Market,17837.18					
+2024-06-26,Snack shop,Debit,-10.00,Dining,Debit Card,Snack Shack,17827.18					
+2024-06-27,Household supplies,Debit,-35.00,Home,Debit Card,Local Store,17792.18					
+2024-06-27,Movie tickets,Debit,-30.00,Entertainment,Credit Card,Cinema,17762.18					
+2024-06-28,Lunch out,Debit,-12.50,Dining,Debit Card,Deli,17749.68					
+2024-06-28,Clothing purchase,Debit,-45.00,Clothing,Credit Card,Clothing Store,17704.68					
+2024-06-29,Paycheck,Credit,1200.00,Income,Direct Deposit,Employer,18904.68					
+2024-06-29,Coffee shop,Debit,-5.00,Dining,Debit Card,Cafe Good Vibes,18899.68					
+2024-06-29,Grocery shopping,Debit,-70.00,Groceries,Debit Card,Local Market,18829.68					
+2024-06-29,Dinner out,Debit,-60.00,Dining,Credit Card,Italian Bistro,18769.68					
+2024-06-30,Utility bill,Debit,-75.00,Utilities,Debit Card,Electric Company,18704.68					
+2024-06-30,Gas station,Debit,-30.00,Transportation,Debit Card,Gas Station X,18674.68					
+2024-06-30,Book purchase,Debit,-9.99,Entertainment,Debit Card,Bookstore,18664.69					
+2024-06-30,Fast food,Debit,-15.00,Dining,Debit Card,Fast Food Chain,18649.69					
+2024-06-30,Takeout,Debit,-25.00,Dining,Credit Card,Chinese Restaurant,18624.69			
