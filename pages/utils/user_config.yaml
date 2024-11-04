@@ -20,6 +20,15 @@ credentials:
       password: $2b$12$rAwUvDxk0AqZItEys54pvu4R7yvkyjdatweyxFEYuY9WoXZKJxmvK
       password_hint: Fromphone123!
       roles: null
+    juanzan:
+      email: juanzanguitu@gmail.com
+      failed_login_attempts: 0
+      first_name: Juan
+      last_name: Zanguitu
+      logged_in: false
+      password: $2b$12$CQtllAybvkeqxDlO35QICeJuyQZo3uFUCdD/fPLntp3Xncvj9QSsW
+      password_hint: Juan123!
+      roles: null
     nlawrence1:
       email: nlawrence1@hawk.iit.edu
       failed_login_attempts: 0

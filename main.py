@@ -8,7 +8,7 @@ import pages as pg
 
 # Top navigation bar setup
 page = st_navbar(
-    ["Dashboard", "Get Started", "Spending Analyzer", "Spending Tracker", "Sample Data", "About Us"],
+    ["Get Started","Dashboard", "Spending Analyzer", "Spending Tracker", "Sample Data", "About Us"],
     styles=styles, logo_page="Dashboard", logo_path="images/syntax_society_logo_only.svg",
     options={"show_menu": True, "show_sidebar": True, "hide_nav": True}
 )

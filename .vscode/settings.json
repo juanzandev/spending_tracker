@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
+        "dataframe",
+        "mticker",
         "psycopg",
+        "shadcn",
         "sqlalchemy",
         "streamlit"
     ]

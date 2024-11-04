@@ -1,0 +1,23 @@
+page - dashboard
+    Welcome message
+    3 cards (spending score, budget used & account balance)
+    last 10 transactions
+
+page - get_started
+    broad explanation of the app
+    spending score program sign in
+    add transactions
+
+page - spending_analyzer
+    page description
+    spending score card / graph of spending score evolution over time
+    Rewards table
+    AI recommender for spending score
+
+page - spending_tracker
+    transaction history breakdown
+        table that allows you to change the independent variable
+        monthly breakdown of expenses compared to budget
+
+page - sample data
+    simulates long term user's experience with the app
