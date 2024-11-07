@@ -1,6 +1,7 @@
 import csv
 from .connector import connect
 from datetime import datetime, timedelta
+import psycopg2.extras
 
 
 def insert_transactions_from_csv(user_id, csv_file_path):
@@ -248,6 +249,37 @@ def calculate_user_spending_current_month(user_id):
     except Exception as e:
         print("Error calculating user spending:", e)
         return 0.0
+    finally:
+        conn.close()
+        # print("Database connection closed.")
+
+def fetch_user_transactions_current_month(user_id):
+    conn = connect()
+    if conn is None:
+        print("Connection to the database failed.")
+        return []
+
+    try:
+        cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+        # Calculate the first and last day of the current month
+        today = datetime.today()
+        first_day_current_month = today.replace(day=1)
+        last_day_current_month = (today.replace(day=1) + timedelta(days=32)).replace(day=1) - timedelta(days=1)
+
+        query = """
+            SELECT date, description, transaction_type, amount, category, payment_method, merchant, balance
+            FROM transactions
+            WHERE user_id = %s
+              AND date >= %s
+              AND date <= %s
+        """
+        cursor.execute(query, (user_id, first_day_current_month, last_day_current_month))
+        transactions = cursor.fetchall()
+        cursor.close()
+        return [dict(transaction) for transaction in transactions]
+    except Exception as e:
+        print("Error fetching transactions:", e)
+        return []
     finally:
         conn.close()
         # print("Database connection closed.")

@@ -2,7 +2,7 @@ CREATE TABLE Users (
     user_id SERIAL PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     email VARCHAR(100) UNIQUE NOT NULL,
-    spending_score DECIMAL(3,1) DEFAULT 5,
+    username VARCHAR(50) UNIQUE NOT NULL
 );
 
 CREATE TABLE Transactions (
@@ -22,7 +22,7 @@ CREATE TABLE Transactions (
 CREATE TABLE IF NOT EXISTS Budgets (
     budget_id SERIAL PRIMARY KEY,
     user_id INT REFERENCES Users(user_id) ON DELETE CASCADE,
-    monthly_limit DECIMAL(10,2) NOT NULL
+    monthly_limit DECIMAL(10,2) NOT NULL,
     date DATE NOT NULL DEFAULT CURRENT_DATE
 );
 
@@ -38,4 +38,10 @@ CREATE TABLE IF NOT EXISTS SpendingPatterns (
     month DATE NOT NULL,
     total_spent DECIMAL(10,2) NOT NULL,
     total_income DECIMAL(10, 2) NOT NULL
+);
+CREATE TABLE Spending_Scores (
+    score_id SERIAL PRIMARY KEY,
+    user_id INT REFERENCES Users(user_id) ON DELETE CASCADE,
+    score DECIMAL(3,1) DEFAULT 5 NOT NULL,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

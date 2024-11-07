@@ -4,13 +4,14 @@ cookie:
   name: some_cookie_name
 credentials:
   usernames:
-    admin:
-      email: admin@gmail.com
+    bjmcmahon:
+      email: bj@gmail.com
       failed_login_attempts: 0
-      first_name: admin
-      last_name: access
-      logged_in: false
-      password: $2b$12$Q4D7no4.4FXl6.vNbpm0i.oe5CyXvXyrjIWZkpskuyFKRbIhyT34e
+      first_name: Bill
+      last_name: Jonathan
+      logged_in: true
+      password: $2b$12$F/bfc9ojl1/BEHtYr9l4ZeSipBwfLMzdVmk.s6.0jlyoGoQfpTdMa
+      password_hint: No no wanna say
       roles: null
     fromphone:
       email: fromphone@gmail.com

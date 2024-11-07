@@ -1,2 +1,4 @@
 **/__pycache__/
 database.ini
+pages/utils/user_config.yaml
+.env

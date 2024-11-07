@@ -13,6 +13,14 @@ page = st_navbar(
     options={"show_menu": True, "show_sidebar": True, "hide_nav": True}
 )
 
+st.sidebar.image("images/syntax_society_logo.svg", width=None)
+with st.sidebar:
+    dashboard_button = st.button("Dashboard")
+    get_started_button = st.button("Get Started")
+    spending_analyzer_button = st.button("Spending Analyzer")
+    spending_tracker_button = st.button("Spending Tracker")
+    sample_data_button = st.button("Sample Data")
+    about_us_button = st.button("About Us")
 pg.login()
 
 if st.session_state['authentication_status']:
@@ -23,14 +31,7 @@ if st.session_state['authentication_status']:
     st.html(html_style)
 
     # Sidebar navigation using buttons
-    st.sidebar.image("images/syntax_society_logo.svg", width=None)
-    with st.sidebar:
-        dashboard_button = st.button("Dashboard")
-        get_started_button = st.button("Get Started")
-        spending_analyzer_button = st.button("Spending Analyzer")
-        spending_tracker_button = st.button("Spending Tracker")
-        sample_data_button = st.button("Sample Data")
-        about_us_button = st.button("About Us")
+    
     if 'page' not in st.session_state:
         st.session_state.page = "Dashboard"
         
@@ -51,7 +52,7 @@ if st.session_state['authentication_status']:
     if page == "Dashboard" or dashboard_button:
         pg.dashboard()
     elif page == "Spending Analyzer" or spending_analyzer_button:
-        pg.spending_analyzer()
+        pg.spending_score()
     elif page == "Get Started" or get_started_button:
         pg.get_started()
     elif page == "Spending Tracker" or spending_tracker_button:
