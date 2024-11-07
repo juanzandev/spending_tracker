@@ -32,3 +32,21 @@ nolanDescription = """
 
 nlawrence1@hawk.iit.edu
 """
+
+
+def pieChartDescription(totalSpending, totalBudget, moneyLeft):
+    return f"""
+<h2>Welcome to Spending Analyzer!</h2>
+
+<h4>Here you can see a summary of your transactions over the past month, and how they effect your overall budget.</h4>
+
+
+Your budget is \${totalBudget}.
+
+You spent \${totalSpending}.
+
+You currently have \${moneyLeft} dollars left to spend this month.
+
+
+<h5>Congratulations! You are on track to increasing your spending score this month! </h5>
+"""
