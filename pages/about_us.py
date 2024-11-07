@@ -12,8 +12,8 @@ def about_us():
     col1, col2, col3, = st.columns(3)
 
     with st.container():
-        col1.image("images/Placeholder_Profile_Pic.svg", use_column_width=True)
-        col2.image("images/Placeholder_Profile_Pic.svg", use_column_width=True)
+        col1.image("images/nolan_pfp.png", use_column_width=True)
+        col2.image("images/juan_pfp.png", use_column_width=True)
         col3.image("images/destiny_pfp.png", use_column_width=True)
         col1.markdown(f"<div style='text-align: center;'>{nolanDescription}</div>", unsafe_allow_html=True)
         col2.markdown(f"<div style='text-align: center;'>{juanDescription}</div>", unsafe_allow_html=True)
