@@ -1,3 +1,6 @@
+import streamlit as st
+import streamlit_shadcn_ui as ui
+
 overallDescription = """Meet the Syntax Society Team!"""
 
 # Nolan is a first year undergraduate student from Kentucky, focusing in software and hardware engineering.
@@ -33,56 +36,19 @@ nolanDescription = """
 nlawrence1@hawk.iit.edu
 """
 
+pieDescription = "<h4>Here you can see a summary of your transactions over the current month, and how they effect your overall budget.</h4>"
+pieDescription2 = "<h5>Congratulations! You are on track to increasing your spending score this month! </h5>"
 
 def pieChartDescription(totalSpending, totalBudget, moneyLeft):
-    return f"""
-<h2>Welcome to Spending Analyzer!</h2>
+    
+    st.markdown(f"<p>{pieDescription}</p>", unsafe_allow_html=True)
 
-<h4>Here you can see a summary of your transactions over the past month, and how they effect your overall budget.</h4>
-
-
-Your budget is \${totalBudget}.
-
-You spent \${totalSpending}.
-
-You currently have \${moneyLeft} dollars left to spend this month.
-
-
-<h5>Congratulations! You are on track to increasing your spending score this month! </h5>
-"""
-
-
-def pieChartDescription(totalSpending, totalBudget, moneyLeft):
-    return f"""
-<h2>Welcome to Spending Analyzer!</h2>
-
-<h4>Here you can see a summary of your transactions over the past month, and how they effect your overall budget.</h4>
-
-
-Your budget is \${totalBudget}.
-
-You spent \${totalSpending}.
-
-You currently have \${moneyLeft} dollars left to spend this month.
-
-
-<h5>Congratulations! You are on track to increasing your spending score this month! </h5>
-"""
-
-
-def pieChartDescription(totalSpending, totalBudget, moneyLeft):
-    return f"""
-<h2>Welcome to Spending Analyzer!</h2>
-
-<h4>Here you can see a summary of your transactions over the past month, and how they effect your overall budget.</h4>
-
-
-Your budget is \${totalBudget}.
-
-You spent \${totalSpending}.
-
-You currently have \${moneyLeft} dollars left to spend this month.
-
-
-<h5>Congratulations! You are on track to increasing your spending score this month! </h5>
-"""
+    card_cols = st.columns(3)
+    with card_cols[0]:
+        ui.metric_card(title="Budget", content=f"${totalBudget}")
+    with card_cols[1]:
+        ui.metric_card(title="Total spent", content=f"${totalSpending}")
+    with card_cols[2]:
+        ui.metric_card(title="Remaining Budget", content=f"${moneyLeft}")
+    
+    st.markdown(f"<p>{pieDescription2}</p>", unsafe_allow_html=True)
