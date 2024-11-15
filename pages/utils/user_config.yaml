@@ -21,9 +21,18 @@ credentials:
       password: $2b$12$rAwUvDxk0AqZItEys54pvu4R7yvkyjdatweyxFEYuY9WoXZKJxmvK
       password_hint: Fromphone123!
       roles: null
+    johnlocke:
+      email: johnlocke@gmail.com
+      failed_login_attempts: 1
+      first_name: John
+      last_name: Locke
+      logged_in: false
+      password: $2b$12$tL3jB3eMv87a4eJd2h/FcOUK9s.uYZ/x//XnsHoCQBUj5xNDfT3Je
+      password_hint: John123!
+      roles: null
     juanzan:
       email: juanzanguitu@gmail.com
-      failed_login_attempts: 0
+      failed_login_attempts: 1
       first_name: Juan
       last_name: Zanguitu
       logged_in: false
@@ -35,7 +44,7 @@ credentials:
       failed_login_attempts: 0
       first_name: Nolan
       last_name: Lawrence
-      logged_in: false
+      logged_in: true
       password: $2b$12$aIc1VTKQFYc9rKo9xLxDBu6lwrIbMtk5YVF2U2bgn6FYdkkZSuElu
       password_hint: coolio
       roles: null
@@ -57,10 +66,11 @@ credentials:
       roles: null
     testone:
       email: test1@gmail.com
+      failed_login_attempts: 0
       first_name: Test
       last_name: One
       logged_in: false
-      password: $2b$12$2D3PKAY4PPAejXEimnC40OUTQz0sipD6v2AhFgZ5Cdxx1B48HaOAG
+      password: $2b$12$zkgsCJ7Wz6.4weZy3FojVOk7zG2KRbTTxuxqqKF.ijnJhouj8gZWi
       password_hint: TestOne123!
       roles: null
     testthree:
@@ -77,7 +87,7 @@ credentials:
       first_name: Alice
       last_name: Smith
       logged_in: true
-      password: $2b$12$/uEzoWVE3WOjMXgu809WrO14LPAbjkmmfTGlXU13AVVoqmAVfHYCK
+      password: $2b$12$iTqqGYj60gHErfZq6USUtuZfiPbA/rrpUuT4DrW0sshEhBq81zZRe
       password_hint: coolio
       roles: null
 oauth2:

@@ -2,8 +2,7 @@ import streamlit as st
 import streamlit_shadcn_ui as ui
 from db.db_functions import fetch_transactions, fetch_user_info, calculate_user_spending_current_month
 import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.ticker as mticker
+import plotly.graph_objects as go
 from datetime import datetime, timedelta
 
 
@@ -29,7 +28,7 @@ def dashboard():
     last_day_str = last_day_current_month.strftime("%d/%m/%Y")
     st.title("Dashboard")
     st.subheader(
-        f"Welcome *{st.session_state["name"]}* to Your Personal Finance Dashboard!")
+        f"Welcome *{st.session_state['name']}* to Your Personal Finance Dashboard!")
     st.write("""
     Manage your finances with ease. Track your spending, monitor your budget, and stay on top of your financial goals.
     Use the tools and insights provided to make informed decisions and improve your financial health.
@@ -81,50 +80,57 @@ def dashboard():
         # Display the DataFrame using st.table
 
         with transaction_graph[0]:
-
+            st.write("<br>", unsafe_allow_html=True)
             st.dataframe(styled_df, hide_index=True,
-                         use_container_width=True, )
+                         use_container_width=True)
 
         # RIGHT COLUMN / LAST 10 TRANSACTIONS GRAPH
         # Create an index column for transaction sequence
         df_inverted = df.iloc[::-1].reset_index(drop=True)
         df_inverted['Transaction Number'] = range(1, len(df_inverted) + 1)
 
-        # Plot the chart using Matplotlib
-        plt.rcParams.update({
-            'text.color': 'white',
-            'axes.labelcolor': 'white',
-            'xtick.color': 'white',
-            'ytick.color': 'white'
-        })
-        fig, ax = plt.subplots()
-        fig.patch.set_facecolor('none')
-        ax.set_facecolor('none')
+        # Plot the chart using Plotly
+        fig = go.Figure()
 
-        # Add colors for line segments based on balance direction
+        # Add line segments based on balance direction
         for i in range(1, len(df_inverted)):
             color = 'green' if df_inverted['Balance'][i] >= df_inverted['Balance'][i-1] else 'red'
-            ax.plot(df_inverted['Transaction Number'].iloc[i-1:i+1],
-                    df_inverted['Balance'].iloc[i-1:i+1], color=color, marker='o')
+            fig.add_trace(go.Scatter(
+                x=df_inverted['Transaction Number'].iloc[i-1:i+1],
+                y=df_inverted['Balance'].iloc[i-1:i+1],
+                mode='lines+markers',
+                line=dict(color=color),
+                marker=dict(color=color),
+                # Use the transaction's category name as the trace name
+                name=df_inverted['Category'][i]
+            ))
 
         # Annotate each transaction with the balance value
         for i, balance in enumerate(df_inverted['Balance']):
-            ax.annotate(f"${balance:.2f}", (df_inverted['Transaction Number'][i], balance),
-                        textcoords="offset points", xytext=(0, 5), ha='center')
-
-        # Format y-axis labels to include a dollar sign
-        ax.yaxis.set_major_formatter(
-            mticker.FuncFormatter(lambda x, _: f'${x:,.2f}'))
+            fig.add_annotation(
+                x=df_inverted['Transaction Number'][i],
+                y=balance,
+                text=f"${balance:.2f}",
+                showarrow=True,
+                arrowhead=2,
+                ax=0,
+                ay=-10,
+                font=dict(color='white')
+            )
 
         # Set labels and title
-        ax.set_xlabel('Transaction Number')
-        ax.set_ylabel('Balance')
-        ax.set_title('Balance Evolution Over Last 10 Transactions')
-
-        plt.xticks(rotation=45)
-        plt.tight_layout()
+        fig.update_layout(
+            title='Balance Evolution Over Last 10 Transactions',
+            xaxis_title='Transaction Number',
+            yaxis_title='Balance',
+            plot_bgcolor='rgba(0,0,0,0)',
+            paper_bgcolor='rgba(0,0,0,0)',
+            font=dict(color='white'),
+            xaxis=dict(showgrid=False),
+            yaxis=dict(showgrid=False)
+        )
 
         with transaction_graph[1]:
-            st.pyplot(fig)
+            st.plotly_chart(fig, use_container_width=True)
     else:
         st.write("No transactions found.")

@@ -1,86 +1,86 @@
 Date,Description,Transaction Type,Amount,Category,Payment Method,Merchant,Balance
-2024-01-01,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,1200.00					
-2024-01-01,Grocery Store,Debit,-50.75,Groceries,Debit Card,Supermarket A,1149.25					
-2024-01-01,Coffee Shop,Debit,-5.50,Food & Drink,Debit Card,Coffee House B,1143.75					
-2024-01-01,Gym Membership,Debit,-30.99,Health,Debit Card,Fitness Center C,1112.76					
-2024-01-01,Snack Purchase,Debit,-10.00,Food & Drink,Debit Card,Snack Bar O,1102.76					
-2024-01-02,Gas Station,Debit,-40.20,Transportation,Debit Card,Gas Station D,1062.56					
-2024-01-02,Lunch with Friends,Debit,-20.00,Food & Drink,Credit Card,Restaurant E,1042.56					
-2024-01-02,Bookstore Purchase,Debit,-25.50,Education,Debit Card,Bookstore H,1017.06					
-2024-01-03,Utilities Bill,Debit,-100.00,Bills,Auto Payment,Utility Company F,917.06					
-2024-01-03,Online Subscription,Debit,-15.99,Entertainment,Debit Card,Streaming Service Y,901.07					
-2024-01-04,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,2101.07					
-2024-01-04,Rent Payment,Debit,-800.00,Housing,Auto Payment,Landlord G,1301.07					
-2024-01-04,Book Purchase,Debit,-15.75,Education,Debit Card,Bookstore H,1285.32					
-2024-01-04,Gas Refill,Debit,-45.60,Transportation,Debit Card,Gas Station D,1239.72					
-2024-01-05,Dinner Out,Debit,-60.00,Food & Drink,Credit Card,Restaurant I,1179.72					
-2024-01-05,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema J,1154.72					
-2024-01-05,Shopping Trip,Debit,-70.50,Shopping,Debit Card,Clothing Store K,1084.22					
-2024-01-06,Gas Refill,Debit,-45.30,Transportation,Debit Card,Gas Station D,1038.92					
-2024-01-06,Freelance Project,Credit,400.50,Freelance,PayPal,Client L,1439.42					
-2024-01-06,Lunch,Debit,-15.25,Food & Drink,Debit Card,Café M,1424.17					
-2024-01-07,Internet Bill,Debit,-60.00,Bills,Auto Payment,ISP N,1364.17					
-2024-01-07,Snack Shop,Debit,-10.25,Food & Drink,Debit Card,Snack Bar O,1353.92					
-2024-01-08,Parking Fee,Debit,-20.00,Transportation,Debit Card,Parking Garage P,1333.92					
-2024-01-08,Gift for Friend,Debit,-30.50,Shopping,Credit Card,Gift Shop Q,1303.42					
-2024-01-09,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,2503.42					
-2024-01-09,Dinner Delivery,Debit,-40.00,Food & Drink,Debit Card,Delivery Service R,2463.42					
-2024-01-09,Home Supplies,Debit,-50.50,Home & Garden,Debit Card,Store S,2412.92					
-2024-01-10,Pet Supplies,Debit,-30.75,Pets,Credit Card,Pet Store T,2382.17					
-2024-01-10,Lunch Meeting,Debit,-25.50,Food & Drink,Debit Card,Café U,2356.67					
-2024-01-10,Online Course,Debit,-100.00,Education,Debit Card,Online Platform V,2256.67					
-2024-01-11,Grocery Shopping,Debit,-75.90,Groceries,Debit Card,Supermarket A,2180.77					
-2024-01-11,Utility Payment,Debit,-80.00,Bills,Auto Payment,Utility Company F,2100.77					
-2024-01-12,Salary Bonus,Credit,150.00,Bonus,Direct Deposit,Company XYZ,2250.77					
-2024-01-12,Restaurant Visit,Debit,-55.25,Food & Drink,Credit Card,Restaurant W,2195.52					
-2024-01-12,Concert Tickets,Debit,-120.00,Entertainment,Debit Card,Venue X,2075.52					
-2024-01-13,Clothing Purchase,Debit,-70.99,Shopping,Debit Card,Clothing Store K,2004.53					
-2024-01-13,Coffee Shop,Debit,-5.50,Food & Drink,Debit Card,Coffee House B,1999.03					
-2024-01-13,Gas Station,Debit,-40.80,Transportation,Debit Card,Gas Station D,1958.23					
-2024-01-14,Final Expenses,Debit,-20.00,Miscellaneous,Debit Card,Various,1938.23					
-2024-01-14,Monthly Subscription,Debit,-15.00,Entertainment,Auto Payment,Streaming Service Y,1923.23					
-2024-01-15,Lunch,Debit,-25.75,Food & Drink,Debit Card,Café M,1897.48					
-2024-01-15,Pet Grooming,Debit,-45.60,Pets,Debit Card,Groomer Z,1851.88					
-2024-01-15,Book Purchase,Debit,-20.99,Education,Debit Card,Bookstore H,1830.89					
+2024-01-01,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,1200.00
+2024-01-01,Grocery Store,Debit,-50.75,Groceries,Debit Card,Supermarket A,1149.25
+2024-01-01,Coffee Shop,Debit,-5.50,Food & Drink,Debit Card,Coffee House B,1143.75
+2024-01-01,Gym Membership,Debit,-30.99,Health,Debit Card,Fitness Center C,1112.76
+2024-01-01,Snack Purchase,Debit,-10.00,Food & Drink,Debit Card,Snack Bar O,1102.76
+2024-01-02,Gas Station,Debit,-40.20,Transportation,Debit Card,Gas Station D,1062.56
+2024-01-02,Lunch with Friends,Debit,-20.00,Food & Drink,Credit Card,Restaurant E,1042.56
+2024-01-02,Bookstore Purchase,Debit,-25.50,Education,Debit Card,Bookstore H,1017.06
+2024-01-03,Utilities Bill,Debit,-100.00,Bills,Auto Payment,Utility Company F,917.06
+2024-01-03,Online Subscription,Debit,-15.99,Entertainment,Debit Card,Streaming Service Y,901.07
+2024-01-04,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,2101.07
+2024-01-04,Rent Payment,Debit,-800.00,Housing,Auto Payment,Landlord G,1301.07
+2024-01-04,Book Purchase,Debit,-15.75,Education,Debit Card,Bookstore H,1285.32
+2024-01-04,Gas Refill,Debit,-45.60,Transportation,Debit Card,Gas Station D,1239.72
+2024-01-05,Dinner Out,Debit,-60.00,Food & Drink,Credit Card,Restaurant I,1179.72
+2024-01-05,Movie Tickets,Debit,-25.00,Entertainment,Debit Card,Cinema J,1154.72
+2024-01-05,Shopping Trip,Debit,-70.50,Shopping,Debit Card,Clothing Store K,1084.22
+2024-01-06,Gas Refill,Debit,-45.30,Transportation,Debit Card,Gas Station D,1038.92
+2024-01-06,Freelance Project,Credit,400.50,Freelance,PayPal,Client L,1439.42
+2024-01-06,Lunch,Debit,-15.25,Food & Drink,Debit Card,Café M,1424.17
+2024-01-07,Internet Bill,Debit,-60.00,Bills,Auto Payment,ISP N,1364.17
+2024-01-07,Snack Shop,Debit,-10.25,Food & Drink,Debit Card,Snack Bar O,1353.92
+2024-01-08,Parking Fee,Debit,-20.00,Transportation,Debit Card,Parking Garage P,1333.92
+2024-01-08,Gift for Friend,Debit,-30.50,Shopping,Credit Card,Gift Shop Q,1303.42
+2024-01-09,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,2503.42
+2024-01-09,Dinner Delivery,Debit,-40.00,Food & Drink,Debit Card,Delivery Service R,2463.42
+2024-01-09,Home Supplies,Debit,-50.50,Home & Garden,Debit Card,Store S,2412.92
+2024-01-10,Pet Supplies,Debit,-30.75,Pets,Credit Card,Pet Store T,2382.17
+2024-01-10,Lunch Meeting,Debit,-25.50,Food & Drink,Debit Card,Café U,2356.67
+2024-01-10,Online Course,Debit,-100.00,Education,Debit Card,Online Platform V,2256.67
+2024-01-11,Grocery Shopping,Debit,-75.90,Groceries,Debit Card,Supermarket A,2180.77
+2024-01-11,Utility Payment,Debit,-80.00,Bills,Auto Payment,Utility Company F,2100.77
+2024-01-12,Salary Bonus,Credit,150.00,Bonus,Direct Deposit,Company XYZ,2250.77
+2024-01-12,Restaurant Visit,Debit,-55.25,Food & Drink,Credit Card,Restaurant W,2195.52
+2024-01-12,Concert Tickets,Debit,-120.00,Entertainment,Debit Card,Venue X,2075.52
+2024-01-13,Clothing Purchase,Debit,-70.99,Shopping,Debit Card,Clothing Store K,2004.53
+2024-01-13,Coffee Shop,Debit,-5.50,Food & Drink,Debit Card,Coffee House B,1999.03
+2024-01-13,Gas Station,Debit,-40.80,Transportation,Debit Card,Gas Station D,1958.23
+2024-01-14,Final Expenses,Debit,-20.00,Miscellaneous,Debit Card,Various,1938.23
+2024-01-14,Monthly Subscription,Debit,-15.00,Entertainment,Auto Payment,Streaming Service Y,1923.23
+2024-01-15,Lunch,Debit,-25.75,Food & Drink,Debit Card,Café M,1897.48
+2024-01-15,Pet Grooming,Debit,-45.60,Pets,Debit Card,Groomer Z,1851.88
+2024-01-15,Book Purchase,Debit,-20.99,Education,Debit Card,Bookstore H,1830.89
 2024-01-15,Snack Shop,Debit,-10.50,Food & Drink,Debit Card,Snack Bar O,1820.39
-2024-01-15,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,3020.39					
-2024-01-15,Grocery Store,Debit,-60.50,Groceries,Debit Card,Supermarket A,2959.89					
-2024-01-15,Coffee Shop,Debit,-4.75,Food & Drink,Debit Card,Coffee House B,2955.14					
-2024-01-16,Gas Station,Debit,-38.20,Transportation,Debit Card,Gas Station D,2916.94					
-2024-01-16,Lunch with Colleagues,Debit,-22.00,Food & Drink,Credit Card,Restaurant E,2894.94					
-2024-01-16,Utilities Bill,Debit,-100.00,Bills,Auto Payment,Utility Company F,2794.94					
-2024-01-17,Pet Supplies,Debit,-25.00,Pets,Debit Card,Pet Store T,2769.94					
-2024-01-17,Movie Tickets,Debit,-30.00,Entertainment,Debit Card,Cinema J,2739.94					
-2024-01-17,Dinner Out,Debit,-50.00,Food & Drink,Credit Card,Restaurant I,2689.94					
-2024-01-18,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,3889.94					
-2024-01-18,Online Course,Debit,-150.00,Education,Debit Card,Online Platform V,3739.94					
-2024-01-19,Shopping Trip,Debit,-80.00,Shopping,Debit Card,Clothing Store K,3659.94					
-2024-01-19,Gas Refill,Debit,-45.30,Transportation,Debit Card,Gas Station D,3614.64					
-2024-01-19,Lunch,Debit,-18.25,Food & Drink,Debit Card,Café M,3596.39					
-2024-01-20,Internet Bill,Debit,-60.00,Bills,Auto Payment,ISP N,3536.39					
-2024-01-20,Gift for Friend,Debit,-25.00,Shopping,Credit Card,Gift Shop Q,3511.39					
-2024-01-21,Freelance Project,Credit,500.00,Freelance,PayPal,Client L,4011.39					
-2024-01-21,Dinner Delivery,Debit,-40.00,Food & Drink,Debit Card,Delivery Service R,3971.39					
-2024-01-21,Home Supplies,Debit,-50.00,Home & Garden,Debit Card,Store S,3921.39					
-2024-01-22,Clothing Purchase,Debit,-60.50,Shopping,Debit Card,Clothing Store K,3860.89					
-2024-01-22,Lunch Meeting,Debit,-25.50,Food & Drink,Debit Card,Café U,3835.39					
-2024-01-23,Utilities Bill,Debit,-100.00,Bills,Auto Payment,Utility Company F,3735.39					
-2024-01-23,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Coffee House B,3730.39					
-2024-01-23,Parking Fee,Debit,-20.00,Transportation,Debit Card,Parking Garage P,3710.39					
-2024-01-24,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,4910.39					
-2024-01-24,Grocery Shopping,Debit,-75.00,Groceries,Debit Card,Supermarket A,4835.39					
-2024-01-25,Dinner Out,Debit,-45.00,Food & Drink,Credit Card,Restaurant I,4790.39					
-2024-01-25,Concert Tickets,Debit,-120.00,Entertainment,Debit Card,Venue X,4670.39					
-2024-01-26,Pet Grooming,Debit,-50.00,Pets,Debit Card,Groomer Z,4620.39					
-2024-01-26,Online Subscription,Debit,-15.99,Entertainment,Debit Card,Streaming Service Y,4604.40					
-2024-01-27,Shopping Trip,Debit,-90.00,Shopping,Debit Card,Clothing Store K,4514.40					
-2024-01-27,Gas Refill,Debit,-35.75,Transportation,Debit Card,Gas Station D,4478.65					
-2024-01-28,Utilities Bill,Debit,-100.00,Bills,Auto Payment,Utility Company F,4378.65					
-2024-01-29,Salary Bonus,Credit,150.00,Bonus,Direct Deposit,Company XYZ,4528.65					
-2024-01-29,Dinner Delivery,Debit,-45.00,Food & Drink,Debit Card,Delivery Service R,4483.65					
-2024-01-30,Lunch with Friends,Debit,-20.00,Food & Drink,Credit Card,Restaurant E,4463.65					
-2024-01-30,Book Purchase,Debit,-25.00,Education,Debit Card,Bookstore H,4438.65					
-2024-01-31,Final Expenses,Debit,-15.00,Miscellaneous,Debit Card,Various,4423.65					
+2024-01-15,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,3020.39
+2024-01-15,Grocery Store,Debit,-60.50,Groceries,Debit Card,Supermarket A,2959.89
+2024-01-15,Coffee Shop,Debit,-4.75,Food & Drink,Debit Card,Coffee House B,2955.14
+2024-01-16,Gas Station,Debit,-38.20,Transportation,Debit Card,Gas Station D,2916.94
+2024-01-16,Lunch with Colleagues,Debit,-22.00,Food & Drink,Credit Card,Restaurant E,2894.94
+2024-01-16,Utilities Bill,Debit,-100.00,Bills,Auto Payment,Utility Company F,2794.94
+2024-01-17,Pet Supplies,Debit,-25.00,Pets,Debit Card,Pet Store T,2769.94
+2024-01-17,Movie Tickets,Debit,-30.00,Entertainment,Debit Card,Cinema J,2739.94
+2024-01-17,Dinner Out,Debit,-50.00,Food & Drink,Credit Card,Restaurant I,2689.94
+2024-01-18,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,3889.94
+2024-01-18,Online Course,Debit,-150.00,Education,Debit Card,Online Platform V,3739.94
+2024-01-19,Shopping Trip,Debit,-80.00,Shopping,Debit Card,Clothing Store K,3659.94
+2024-01-19,Gas Refill,Debit,-45.30,Transportation,Debit Card,Gas Station D,3614.64
+2024-01-19,Lunch,Debit,-18.25,Food & Drink,Debit Card,Café M,3596.39
+2024-01-20,Internet Bill,Debit,-60.00,Bills,Auto Payment,ISP N,3536.39
+2024-01-20,Gift for Friend,Debit,-25.00,Shopping,Credit Card,Gift Shop Q,3511.39
+2024-01-21,Freelance Project,Credit,500.00,Freelance,PayPal,Client L,4011.39
+2024-01-21,Dinner Delivery,Debit,-40.00,Food & Drink,Debit Card,Delivery Service R,3971.39
+2024-01-21,Home Supplies,Debit,-50.00,Home & Garden,Debit Card,Store S,3921.39
+2024-01-22,Clothing Purchase,Debit,-60.50,Shopping,Debit Card,Clothing Store K,3860.89
+2024-01-22,Lunch Meeting,Debit,-25.50,Food & Drink,Debit Card,Café U,3835.39
+2024-01-23,Utilities Bill,Debit,-100.00,Bills,Auto Payment,Utility Company F,3735.39
+2024-01-23,Coffee Shop,Debit,-5.00,Food & Drink,Debit Card,Coffee House B,3730.39
+2024-01-23,Parking Fee,Debit,-20.00,Transportation,Debit Card,Parking Garage P,3710.39
+2024-01-24,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,4910.39
+2024-01-24,Grocery Shopping,Debit,-75.00,Groceries,Debit Card,Supermarket A,4835.39
+2024-01-25,Dinner Out,Debit,-45.00,Food & Drink,Credit Card,Restaurant I,4790.39
+2024-01-25,Concert Tickets,Debit,-120.00,Entertainment,Debit Card,Venue X,4670.39
+2024-01-26,Pet Grooming,Debit,-50.00,Pets,Debit Card,Groomer Z,4620.39
+2024-01-26,Online Subscription,Debit,-15.99,Entertainment,Debit Card,Streaming Service Y,4604.40
+2024-01-27,Shopping Trip,Debit,-90.00,Shopping,Debit Card,Clothing Store K,4514.40
+2024-01-27,Gas Refill,Debit,-35.75,Transportation,Debit Card,Gas Station D,4478.65
+2024-01-28,Utilities Bill,Debit,-100.00,Bills,Auto Payment,Utility Company F,4378.65
+2024-01-29,Salary Bonus,Credit,150.00,Bonus,Direct Deposit,Company XYZ,4528.65
+2024-01-29,Dinner Delivery,Debit,-45.00,Food & Drink,Debit Card,Delivery Service R,4483.65
+2024-01-30,Lunch with Friends,Debit,-20.00,Food & Drink,Credit Card,Restaurant E,4463.65
+2024-01-30,Book Purchase,Debit,-25.00,Education,Debit Card,Bookstore H,4438.65
+2024-01-31,Final Expenses,Debit,-15.00,Miscellaneous,Debit Card,Various,4423.65
 2024-01-31,Grocery Store,Debit,-60.00,Groceries,Debit Card,Supermarket A,4363.65
 2024-02-01,Salary Payment,Credit,1200.00,Salary,Direct Deposit,Company XYZ,5563.65
 2024-02-01,Grocery Store,Debit,-55.00,Groceries,Debit Card,Supermarket A,5508.65
